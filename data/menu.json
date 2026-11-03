@@ -1,0 +1,6627 @@
+{
+  "_notice": "Source of truth for the menu. In-store prices: seed transcribed from the Aug 2026 paper menu (not owner-approved). Wolt prices: public Wolt listing snapshot 2026-11-03, attached only where dish and portion match. Never invent missing prices — use null.",
+  "lastResearchDate": "2026-11-03",
+  "currency": "EUR",
+  "items": [
+    {
+      "id": "menu-001",
+      "brochureNumber": 1,
+      "category": "soups-small",
+      "group": null,
+      "name": {
+        "sk": "Vývar",
+        "en": "Broth"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, kurací vývar, rezance, jarná cibuľka",
+        "en": "chicken, chicken broth, noodles, spring onion"
+      },
+      "portionLabel": "300 ml",
+      "price": {
+        "inStoreEur": 1.5,
+        "woltEur": 2,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Vývar",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-001-vyvar.webp",
+        "alt": {
+          "sk": "Vývar — Trang An",
+          "en": "Broth — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-002",
+      "brochureNumber": 2,
+      "category": "soups-small",
+      "group": null,
+      "name": {
+        "sk": "Tomyum s kuracím mäsom",
+        "en": "Tom yum with chicken"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, zelenina, kokosové mlieko, tom yum omáčka",
+        "en": "chicken, vegetables, coconut milk, tom yum paste"
+      },
+      "portionLabel": "300 ml",
+      "price": {
+        "inStoreEur": 2.5,
+        "woltEur": 3,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "brief-crosschecked",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Tomyum s kuracím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-002-tomyum-s-kuracim-masom.webp",
+        "alt": {
+          "sk": "Tomyum s kuracím mäsom — Trang An",
+          "en": "Tom yum with chicken — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "soup"
+      ]
+    },
+    {
+      "id": "menu-003",
+      "brochureNumber": 3,
+      "category": "soups-small",
+      "group": null,
+      "name": {
+        "sk": "Tomyum s krevetami",
+        "en": "Tom yum with shrimp"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "krevety, zelenina, kokosové mlieko, tom yum omáčka",
+        "en": "shrimp, vegetables, coconut milk, tom yum paste"
+      },
+      "portionLabel": "300 ml",
+      "price": {
+        "inStoreEur": 3,
+        "woltEur": 3.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "brief-crosschecked",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Tomyum s krevetami",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "soup"
+      ]
+    },
+    {
+      "id": "menu-004",
+      "brochureNumber": 4,
+      "category": "soups-small",
+      "group": null,
+      "name": {
+        "sk": "Tomyum s tofu",
+        "en": "Tom yum with tofu"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "tofu, zelenina, kokosové mlieko, tom yum omáčka",
+        "en": "tofu, vegetables, coconut milk, tom yum paste"
+      },
+      "portionLabel": "300 ml",
+      "price": {
+        "inStoreEur": 2.5,
+        "woltEur": 3,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Tomyum s tofu",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "tofu",
+        "soup"
+      ]
+    },
+    {
+      "id": "menu-005",
+      "brochureNumber": 5,
+      "category": "soups-small",
+      "group": null,
+      "name": {
+        "sk": "Ostrokyslá polievka",
+        "en": "Hot and sour soup"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, mrkva, paprika, voňavé huby, vajcia, judášovo ucho, bambusové výhonky",
+        "en": "chicken, carrot, bell pepper, shiitake mushrooms, egg, wood ear mushroom, bamboo shoots"
+      },
+      "portionLabel": "300 ml",
+      "price": {
+        "inStoreEur": 1.5,
+        "woltEur": 2,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Ostrokyslá",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-005-ostrokysla-polievka.webp",
+        "alt": {
+          "sk": "Ostrokyslá polievka — Trang An",
+          "en": "Hot and sour soup — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "soup"
+      ]
+    },
+    {
+      "id": "menu-006",
+      "brochureNumber": 6,
+      "category": "soups-small",
+      "group": null,
+      "name": {
+        "sk": "Bambusová polievka",
+        "en": "Bamboo soup"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, bambus, cibuľka, kurací vývar, sklenené rezance",
+        "en": "chicken, bamboo, spring onion, chicken broth, glass noodles"
+      },
+      "portionLabel": "300 ml",
+      "price": {
+        "inStoreEur": 1.5,
+        "woltEur": 2,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bambusová",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-006-bambusova-polievka.webp",
+        "alt": {
+          "sk": "Bambusová polievka — Trang An",
+          "en": "Bamboo soup — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-007",
+      "brochureNumber": 7,
+      "category": "soups-vietnamese",
+      "group": null,
+      "name": {
+        "sk": "Hovädzia polievka",
+        "en": "Beef noodle soup"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "hovädzie mäso, široké rezance, vývar, zázvor, jarná cibuľka, koriander, škorica, hviezdicový aníz",
+        "en": "beef, flat rice noodles, broth, ginger, spring onion, coriander, cinnamon, star anise"
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "brief-crosschecked",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Hovädzia polievka",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "beef",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-008",
+      "brochureNumber": 8,
+      "category": "soups-vietnamese",
+      "group": null,
+      "name": {
+        "sk": "Kuracia polievka",
+        "en": "Chicken noodle soup"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, široké rezance, vývar, zázvor, jarná cibuľka, koriander, škorica, hviezdicový aníz",
+        "en": "chicken, flat rice noodles, broth, ginger, spring onion, coriander, cinnamon, star anise"
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Kuracia polievka",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-008-kuracia-polievka.webp",
+        "alt": {
+          "sk": "Kuracia polievka — Trang An",
+          "en": "Chicken noodle soup — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-009",
+      "brochureNumber": 9,
+      "category": "soups-vietnamese",
+      "group": null,
+      "name": {
+        "sk": "Krevetová polievka",
+        "en": "Shrimp noodle soup"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "krevety, široké rezance, vývar, zázvor, jarná cibuľka, koriander, škorica, hviezdicový aníz",
+        "en": "shrimp, flat rice noodles, broth, ginger, spring onion, coriander, cinnamon, star anise"
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Krevetová polievka",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-009-krevetova-polievka.webp",
+        "alt": {
+          "sk": "Krevetová polievka — Trang An",
+          "en": "Shrimp noodle soup — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-010",
+      "brochureNumber": 10,
+      "category": "soups-vietnamese",
+      "group": null,
+      "name": {
+        "sk": "Tofu polievka",
+        "en": "Tofu noodle soup"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "tofu, široké rezance, vývar, zázvor, jarná cibuľka, koriander, škorica, hviezdicový aníz",
+        "en": "tofu, flat rice noodles, broth, ginger, spring onion, coriander, cinnamon, star anise"
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Tofu polievka",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-010-tofu-polievka.webp",
+        "alt": {
+          "sk": "Tofu polievka — Trang An",
+          "en": "Tofu noodle soup — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-011",
+      "brochureNumber": 11,
+      "category": "soups-vietnamese",
+      "group": null,
+      "name": {
+        "sk": "Bún polievka s hovädzím mäsom",
+        "en": "Bún rice noodle soup with beef"
+      },
+      "gloss": {
+        "sk": "polievka s ryžovými rezancami bún",
+        "en": "soup with bún rice noodles"
+      },
+      "description": {
+        "sk": "hovädzie mäso, ryžové rezance, koriander, jarná cibuľka, vývar",
+        "en": "beef, rice noodles, coriander, spring onion, broth"
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bún polievka s hovädzím mäsom",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-011-bun-polievka-s-hovadzim-masom.webp",
+        "alt": {
+          "sk": "Bún polievka s hovädzím mäsom — Trang An",
+          "en": "Bún rice noodle soup with beef — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-012",
+      "brochureNumber": 12,
+      "category": "soups-vietnamese",
+      "group": null,
+      "name": {
+        "sk": "Bún polievka s krevetami",
+        "en": "Bún rice noodle soup with shrimp"
+      },
+      "gloss": {
+        "sk": "polievka s ryžovými rezancami bún",
+        "en": "soup with bún rice noodles"
+      },
+      "description": {
+        "sk": "krevety, ryžové rezance, koriander, jarná cibuľka, vývar",
+        "en": "shrimp, rice noodles, coriander, spring onion, broth"
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bún polievka s krevetami",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-012-bun-polievka-s-krevetami.webp",
+        "alt": {
+          "sk": "Bún polievka s krevetami — Trang An",
+          "en": "Bún rice noodle soup with shrimp — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-013",
+      "brochureNumber": 13,
+      "category": "soups-vietnamese",
+      "group": null,
+      "name": {
+        "sk": "Bún polievka s kuracím mäsom",
+        "en": "Bún rice noodle soup with chicken"
+      },
+      "gloss": {
+        "sk": "polievka s ryžovými rezancami bún",
+        "en": "soup with bún rice noodles"
+      },
+      "description": {
+        "sk": "kuracie mäso, ryžové rezance, koriander, jarná cibuľka, vývar",
+        "en": "chicken, rice noodles, coriander, spring onion, broth"
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bún polievka s kuracím mäsom",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-013-bun-polievka-s-kuracim-masom.webp",
+        "alt": {
+          "sk": "Bún polievka s kuracím mäsom — Trang An",
+          "en": "Bún rice noodle soup with chicken — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-014",
+      "brochureNumber": 14,
+      "category": "soups-vietnamese",
+      "group": null,
+      "name": {
+        "sk": "Bún polievka s tofu",
+        "en": "Bún rice noodle soup with tofu"
+      },
+      "gloss": {
+        "sk": "polievka s ryžovými rezancami bún",
+        "en": "soup with bún rice noodles"
+      },
+      "description": {
+        "sk": "tofu, ryžové rezance, koriander, jarná cibuľka, vývar",
+        "en": "tofu, rice noodles, coriander, spring onion, broth"
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bún polievka s tofu",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-014-bun-polievka-s-tofu.webp",
+        "alt": {
+          "sk": "Bún polievka s tofu — Trang An",
+          "en": "Bún rice noodle soup with tofu — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-015",
+      "brochureNumber": 15,
+      "category": "soups-vietnamese",
+      "group": null,
+      "name": {
+        "sk": "Miến polievka s hovädzím mäsom",
+        "en": "Miến glass noodle soup with beef"
+      },
+      "gloss": {
+        "sk": "polievka so sklenenými rezancami miến",
+        "en": "soup with miến glass noodles"
+      },
+      "description": {
+        "sk": "hovädzie mäso, vývar, sklenené rezance, koriander, jarná cibuľka",
+        "en": "beef, broth, glass noodles, coriander, spring onion"
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Mien polievka s hovädzím mäsom",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-015-mien-polievka-s-hovadzim-masom.webp",
+        "alt": {
+          "sk": "Miến polievka s hovädzím mäsom — Trang An",
+          "en": "Miến glass noodle soup with beef — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-016",
+      "brochureNumber": 16,
+      "category": "soups-vietnamese",
+      "group": null,
+      "name": {
+        "sk": "Miến polievka s krevetami",
+        "en": "Miến glass noodle soup with shrimp"
+      },
+      "gloss": {
+        "sk": "polievka so sklenenými rezancami miến",
+        "en": "soup with miến glass noodles"
+      },
+      "description": {
+        "sk": "krevety, vývar, sklenené rezance, koriander, jarná cibuľka",
+        "en": "shrimp, broth, glass noodles, coriander, spring onion"
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Mien polievka s krevetami",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-016-mien-polievka-s-krevetami.webp",
+        "alt": {
+          "sk": "Miến polievka s krevetami — Trang An",
+          "en": "Miến glass noodle soup with shrimp — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-017",
+      "brochureNumber": 17,
+      "category": "soups-vietnamese",
+      "group": null,
+      "name": {
+        "sk": "Miến polievka s kuracím mäsom",
+        "en": "Miến glass noodle soup with chicken"
+      },
+      "gloss": {
+        "sk": "polievka so sklenenými rezancami miến",
+        "en": "soup with miến glass noodles"
+      },
+      "description": {
+        "sk": "kuracie mäso, vývar, sklenené rezance, koriander, jarná cibuľka",
+        "en": "chicken, broth, glass noodles, coriander, spring onion"
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Mien polievka s kuracím mäsom",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-017-mien-polievka-s-kuracim-masom.webp",
+        "alt": {
+          "sk": "Miến polievka s kuracím mäsom — Trang An",
+          "en": "Miến glass noodle soup with chicken — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-018",
+      "brochureNumber": 18,
+      "category": "soups-vietnamese",
+      "group": null,
+      "name": {
+        "sk": "Miến polievka s tofu",
+        "en": "Miến glass noodle soup with tofu"
+      },
+      "gloss": {
+        "sk": "polievka so sklenenými rezancami miến",
+        "en": "soup with miến glass noodles"
+      },
+      "description": {
+        "sk": "tofu, vývar, sklenené rezance, koriander, jarná cibuľka",
+        "en": "tofu, broth, glass noodles, coriander, spring onion"
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Mien polievka s tofu",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-018-mien-polievka-s-tofu.webp",
+        "alt": {
+          "sk": "Miến polievka s tofu — Trang An",
+          "en": "Miến glass noodle soup with tofu — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu",
+        "soup",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-019",
+      "brochureNumber": 19,
+      "category": "vietnamese-specialties",
+      "group": null,
+      "name": {
+        "sk": "Bún bò Nam Bộ (hovädzie)",
+        "en": "Bún bò Nam Bộ (beef)"
+      },
+      "gloss": {
+        "sk": "ryžové rezance po juhovietnamsky",
+        "en": "rice vermicelli bowl, southern Vietnamese style"
+      },
+      "description": {
+        "sk": "hovädzie mäso, varené ryžové rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva",
+        "en": "beef, cooked rice noodles, kohlrabi, Vietnamese greens, sauce, peanuts, carrot"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "brief-crosschecked",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bun bo nam bo hovädzie",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-019-bun-bo-nam-bo-hovadzie.webp",
+        "alt": {
+          "sk": "Bún bò Nam Bộ (hovädzie) — Trang An",
+          "en": "Bún bò Nam Bộ (beef) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-020",
+      "brochureNumber": 20,
+      "category": "vietnamese-specialties",
+      "group": null,
+      "name": {
+        "sk": "Bún tôm Nam Bộ (krevety)",
+        "en": "Bún tôm Nam Bộ (shrimp)"
+      },
+      "gloss": {
+        "sk": "ryžové rezance po juhovietnamsky",
+        "en": "rice vermicelli bowl, southern Vietnamese style"
+      },
+      "description": {
+        "sk": "krevety, varené ryžové rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva",
+        "en": "shrimp, cooked rice noodles, kohlrabi, Vietnamese greens, sauce, peanuts, carrot"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bun tom nam bo krevetové",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-020-bun-tom-nam-bo-krevety.webp",
+        "alt": {
+          "sk": "Bún tôm Nam Bộ (krevety) — Trang An",
+          "en": "Bún tôm Nam Bộ (shrimp) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-021",
+      "brochureNumber": 21,
+      "category": "vietnamese-specialties",
+      "group": null,
+      "name": {
+        "sk": "Bún ngan Nam Bộ (kačacie)",
+        "en": "Bún ngan Nam Bộ (duck)"
+      },
+      "gloss": {
+        "sk": "ryžové rezance po juhovietnamsky",
+        "en": "rice vermicelli bowl, southern Vietnamese style"
+      },
+      "description": {
+        "sk": "kačacie mäso, varené ryžové rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva",
+        "en": "duck, cooked rice noodles, kohlrabi, Vietnamese greens, sauce, peanuts, carrot"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bun ngan kačacie",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-021-bun-ngan-nam-bo-kacacie.webp",
+        "alt": {
+          "sk": "Bún ngan Nam Bộ (kačacie) — Trang An",
+          "en": "Bún ngan Nam Bộ (duck) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "duck",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-022",
+      "brochureNumber": 22,
+      "category": "vietnamese-specialties",
+      "group": null,
+      "name": {
+        "sk": "Bún gà Nam Bộ (kuracie)",
+        "en": "Bún gà Nam Bộ (chicken)"
+      },
+      "gloss": {
+        "sk": "ryžové rezance po juhovietnamsky",
+        "en": "rice vermicelli bowl, southern Vietnamese style"
+      },
+      "description": {
+        "sk": "kuracie mäso, varené ryžové rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva",
+        "en": "chicken, cooked rice noodles, kohlrabi, Vietnamese greens, sauce, peanuts, carrot"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.8,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bun ga nam bo kuracie",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-022-bun-ga-nam-bo-kuracie.webp",
+        "alt": {
+          "sk": "Bún gà Nam Bộ (kuracie) — Trang An",
+          "en": "Bún gà Nam Bộ (chicken) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-023",
+      "brochureNumber": 23,
+      "category": "vietnamese-specialties",
+      "group": null,
+      "name": {
+        "sk": "Bún đậu Nam Bộ (tofu)",
+        "en": "Bún đậu Nam Bộ (tofu)"
+      },
+      "gloss": {
+        "sk": "ryžové rezance po juhovietnamsky",
+        "en": "rice vermicelli bowl, southern Vietnamese style"
+      },
+      "description": {
+        "sk": "tofu, varené ryžové rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva",
+        "en": "tofu, cooked rice noodles, kohlrabi, Vietnamese greens, sauce, peanuts, carrot"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.8,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bun dau nam bo tofu",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-023-bun-dau-nam-bo-tofu.webp",
+        "alt": {
+          "sk": "Bún đậu Nam Bộ (tofu) — Trang An",
+          "en": "Bún đậu Nam Bộ (tofu) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-024",
+      "brochureNumber": 24,
+      "category": "vietnamese-specialties",
+      "group": null,
+      "name": {
+        "sk": "Miến bò Nam Bộ (hovädzie)",
+        "en": "Miến bò Nam Bộ (beef)"
+      },
+      "gloss": {
+        "sk": "sklenené rezance po juhovietnamsky",
+        "en": "glass noodle bowl, southern Vietnamese style"
+      },
+      "description": {
+        "sk": "hovädzie mäso, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva",
+        "en": "beef, glass noodles, kohlrabi, Vietnamese greens, sauce, peanuts, carrot"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Mien bo nam bo hovädzie",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-024-mien-bo-nam-bo-hovadzie.webp",
+        "alt": {
+          "sk": "Miến bò Nam Bộ (hovädzie) — Trang An",
+          "en": "Miến bò Nam Bộ (beef) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-025",
+      "brochureNumber": 25,
+      "category": "vietnamese-specialties",
+      "group": null,
+      "name": {
+        "sk": "Miến tôm Nam Bộ (krevety)",
+        "en": "Miến tôm Nam Bộ (shrimp)"
+      },
+      "gloss": {
+        "sk": "sklenené rezance po juhovietnamsky",
+        "en": "glass noodle bowl, southern Vietnamese style"
+      },
+      "description": {
+        "sk": "krevety, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva",
+        "en": "shrimp, glass noodles, kohlrabi, Vietnamese greens, sauce, peanuts, carrot"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Mien tom nam bo krevetové",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-025-mien-tom-nam-bo-krevety.webp",
+        "alt": {
+          "sk": "Miến tôm Nam Bộ (krevety) — Trang An",
+          "en": "Miến tôm Nam Bộ (shrimp) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-026",
+      "brochureNumber": 26,
+      "category": "vietnamese-specialties",
+      "group": null,
+      "name": {
+        "sk": "Miến ngan Nam Bộ (kačacie)",
+        "en": "Miến ngan Nam Bộ (duck)"
+      },
+      "gloss": {
+        "sk": "sklenené rezance po juhovietnamsky",
+        "en": "glass noodle bowl, southern Vietnamese style"
+      },
+      "description": {
+        "sk": "kačacie mäso, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva",
+        "en": "duck, glass noodles, kohlrabi, Vietnamese greens, sauce, peanuts, carrot"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Mien ngan kačacie",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-026-mien-ngan-nam-bo-kacacie.webp",
+        "alt": {
+          "sk": "Miến ngan Nam Bộ (kačacie) — Trang An",
+          "en": "Miến ngan Nam Bộ (duck) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "duck",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-027",
+      "brochureNumber": 27,
+      "category": "vietnamese-specialties",
+      "group": null,
+      "name": {
+        "sk": "Miến gà Nam Bộ (kuracie)",
+        "en": "Miến gà Nam Bộ (chicken)"
+      },
+      "gloss": {
+        "sk": "sklenené rezance po juhovietnamsky",
+        "en": "glass noodle bowl, southern Vietnamese style"
+      },
+      "description": {
+        "sk": "kuracie mäso, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva",
+        "en": "chicken, glass noodles, kohlrabi, Vietnamese greens, sauce, peanuts, carrot"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.8,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Mien ga nam bo kuracie",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-027-mien-ga-nam-bo-kuracie.webp",
+        "alt": {
+          "sk": "Miến gà Nam Bộ (kuracie) — Trang An",
+          "en": "Miến gà Nam Bộ (chicken) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-028",
+      "brochureNumber": 28,
+      "category": "vietnamese-specialties",
+      "group": null,
+      "name": {
+        "sk": "Miến đậu Nam Bộ (tofu)",
+        "en": "Miến đậu Nam Bộ (tofu)"
+      },
+      "gloss": {
+        "sk": "sklenené rezance po juhovietnamsky",
+        "en": "glass noodle bowl, southern Vietnamese style"
+      },
+      "description": {
+        "sk": "tofu, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva",
+        "en": "tofu, glass noodles, kohlrabi, Vietnamese greens, sauce, peanuts, carrot"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.8,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Mien dau nam bo tofu",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-028-mien-dau-nam-bo-tofu.webp",
+        "alt": {
+          "sk": "Miến đậu Nam Bộ (tofu) — Trang An",
+          "en": "Miến đậu Nam Bộ (tofu) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-029",
+      "brochureNumber": 29,
+      "category": "spring-rolls",
+      "group": null,
+      "name": {
+        "sk": "Bún nem",
+        "en": "Bún nem"
+      },
+      "gloss": {
+        "sk": "ryžové rezance s jarnými závitkami",
+        "en": "rice vermicelli with spring rolls"
+      },
+      "description": {
+        "sk": "jarný závitok, varené ryžové rezance, vietnamská zelenina, omáčka",
+        "en": "spring roll, cooked rice noodles, Vietnamese greens, sauce"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bun nem",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-029-bun-nem.webp",
+        "alt": {
+          "sk": "Bún nem — Trang An",
+          "en": "Bún nem — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-030",
+      "brochureNumber": 30,
+      "category": "spring-rolls",
+      "group": null,
+      "name": {
+        "sk": "Jarné závitky (vyprážané)",
+        "en": "Fried spring rolls"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "bravčové mäso, cibuľa, sklenené rezance, judášovo ucho, ryžový papier, vajcia",
+        "en": "pork, onion, glass noodles, wood ear mushroom, rice paper, egg"
+      },
+      "portionLabel": "4 ks",
+      "price": {
+        "inStoreEur": 5.2,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Jarné závitky",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-030-jarne-zavitky-vyprazane.webp",
+        "alt": {
+          "sk": "Jarné závitky (vyprážané) — Trang An",
+          "en": "Fried spring rolls — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "pork",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-031",
+      "brochureNumber": 31,
+      "category": "spring-rolls",
+      "group": null,
+      "name": {
+        "sk": "Čerstvé jarné rolky",
+        "en": "Fresh spring rolls"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, ryžové plátky, vajcia, ryžové rezance, krevety, koriander, vietnamský kapustový šalát",
+        "en": "chicken, rice paper, egg, rice noodles, shrimp, coriander, Vietnamese cabbage salad"
+      },
+      "portionLabel": "3 ks",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.6,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Čerstvé jarné rolky",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "shrimp",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-032",
+      "brochureNumber": 32,
+      "category": "chicken",
+      "group": null,
+      "name": {
+        "sk": "Kuracie kung pao",
+        "en": "Kung pao chicken"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, mrkva, bambusové výhonky, pór, omáčka, paprika, judášovo ucho",
+        "en": "chicken, carrot, bamboo shoots, leek, sauce, bell pepper, wood ear mushroom"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "brief-crosschecked",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Kuracie kung pao",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-032-kuracie-kung-pao.webp",
+        "alt": {
+          "sk": "Kuracie kung pao — Trang An",
+          "en": "Kung pao chicken — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-033",
+      "brochureNumber": 33,
+      "category": "chicken",
+      "group": null,
+      "name": {
+        "sk": "Kuracie so zeleninou",
+        "en": "Chicken with vegetables"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, paprika, čili paprička, mrkva, čínska kapusta, pór, citronella",
+        "en": "chicken, bell pepper, chilli pepper, carrot, Chinese cabbage, leek, lemongrass"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "brief-crosschecked",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Kuracie so zeleninou",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-033-kuracie-so-zeleninou.webp",
+        "alt": {
+          "sk": "Kuracie so zeleninou — Trang An",
+          "en": "Chicken with vegetables — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-034",
+      "brochureNumber": 34,
+      "category": "chicken",
+      "group": null,
+      "name": {
+        "sk": "Kuracie s klíčkami",
+        "en": "Chicken with bean sprouts"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "klíčky, kuracie mäso, cibuľa, jarná cibuľka, mrkva",
+        "en": "bean sprouts, chicken, onion, spring onion, carrot"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Kuracie s klíčkami",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-034-kuracie-s-klickami.webp",
+        "alt": {
+          "sk": "Kuracie s klíčkami — Trang An",
+          "en": "Chicken with bean sprouts — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-035",
+      "brochureNumber": 35,
+      "category": "chicken",
+      "group": null,
+      "name": {
+        "sk": "Pikantné kuracie mäso",
+        "en": "Spicy chicken"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, paprika, mrkva, brokolica, čínska kapusta",
+        "en": "chicken, bell pepper, carrot, broccoli, Chinese cabbage"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 7,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Pikantné kuracie mäso",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-035-pikantne-kuracie-maso.webp",
+        "alt": {
+          "sk": "Pikantné kuracie mäso — Trang An",
+          "en": "Spicy chicken — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-036",
+      "brochureNumber": 36,
+      "category": "chicken",
+      "group": null,
+      "name": {
+        "sk": "Kuracie s ananásom",
+        "en": "Chicken with pineapple"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, ananás, mrkva, hrášok, šalát",
+        "en": "chicken, pineapple, carrot, peas, salad"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Kuracie s ananásom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-036-kuracie-s-ananasom.webp",
+        "alt": {
+          "sk": "Kuracie s ananásom — Trang An",
+          "en": "Chicken with pineapple — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-037",
+      "brochureNumber": 37,
+      "category": "chicken",
+      "group": null,
+      "name": {
+        "sk": "Kuracie na kari",
+        "en": "Chicken curry"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, mrkva, paprika, cibuľa, pór, thai kari, šalát",
+        "en": "chicken, carrot, bell pepper, onion, leek, Thai curry, salad"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Kuracie na kari",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-037-kuracie-na-kari.webp",
+        "alt": {
+          "sk": "Kuracie na kari — Trang An",
+          "en": "Chicken curry — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-038",
+      "brochureNumber": 38,
+      "category": "chicken",
+      "group": null,
+      "name": {
+        "sk": "Kuracie s arašidovou omáčkou",
+        "en": "Chicken with peanut sauce"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, mrkva, pór, cibuľa, arašidová omáčka, brokolica",
+        "en": "chicken, carrot, leek, onion, peanut sauce, broccoli"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Kuracie s arašídovou omáčkou",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-039",
+      "brochureNumber": 39,
+      "category": "chicken",
+      "group": null,
+      "name": {
+        "sk": "Kuracie s mangovou omáčkou",
+        "en": "Chicken with mango sauce"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, pór, cibuľa, mangová omáčka, brokolica, mrkva",
+        "en": "chicken, leek, onion, mango sauce, broccoli, carrot"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Kuracie s mangovou omáčkou",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-039-kuracie-s-mangovou-omackou.webp",
+        "alt": {
+          "sk": "Kuracie s mangovou omáčkou — Trang An",
+          "en": "Chicken with mango sauce — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-040",
+      "brochureNumber": 40,
+      "category": "beef",
+      "group": null,
+      "name": {
+        "sk": "Hovädzie s fazuľou",
+        "en": "Beef with green beans"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "restované hovädzie mäso, fazuľa, cesnak, ustricová omáčka, sójová omáčka",
+        "en": "sautéed beef, green beans, garlic, oyster sauce, soy sauce"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Hovädzie s fazuľou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-040-hovadzie-s-fazulou.webp",
+        "alt": {
+          "sk": "Hovädzie s fazuľou — Trang An",
+          "en": "Beef with green beans — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef"
+      ]
+    },
+    {
+      "id": "menu-041",
+      "brochureNumber": 41,
+      "category": "beef",
+      "group": null,
+      "name": {
+        "sk": "Hovädzie so zeleninou",
+        "en": "Beef with vegetables"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "hovädzie mäso, mrkva, cibuľa, paprika, šampiňóny, kapusta, bambusové výhonky, šalát",
+        "en": "beef, carrot, onion, bell pepper, mushrooms, cabbage, bamboo shoots, salad"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Hovädzie so zeleninou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-041-hovadzie-so-zeleninou.webp",
+        "alt": {
+          "sk": "Hovädzie so zeleninou — Trang An",
+          "en": "Beef with vegetables — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef"
+      ]
+    },
+    {
+      "id": "menu-042",
+      "brochureNumber": 42,
+      "category": "beef",
+      "group": null,
+      "name": {
+        "sk": "Hovädzie s klíčkami",
+        "en": "Beef with bean sprouts"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "hovädzie mäso, klíčky, cibuľa, jarná cibuľka",
+        "en": "beef, bean sprouts, onion, spring onion"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Hovädzie s klíčkami",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-042-hovadzie-s-klickami.webp",
+        "alt": {
+          "sk": "Hovädzie s klíčkami — Trang An",
+          "en": "Beef with bean sprouts — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef"
+      ]
+    },
+    {
+      "id": "menu-043",
+      "brochureNumber": 43,
+      "category": "beef",
+      "group": null,
+      "name": {
+        "sk": "Hovädzie pikantné",
+        "en": "Spicy beef"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "hovädzie mäso, mrkva, cibuľa, paprika, šalát, šampiňóny, čili paprička, bambusové výhonky",
+        "en": "beef, carrot, onion, bell pepper, salad, mushrooms, chilli pepper, bamboo shoots"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Hovädzie pikantné",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "beef"
+      ]
+    },
+    {
+      "id": "menu-044",
+      "brochureNumber": 44,
+      "category": "beef",
+      "group": null,
+      "name": {
+        "sk": "Hovädzie s arašidovou omáčkou",
+        "en": "Beef with peanut sauce"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "restované hovädzie mäso, brokolica, cesnak, ustricová omáčka, sezónna zelenina, arašidová omáčka",
+        "en": "sautéed beef, broccoli, garlic, oyster sauce, seasonal vegetables, peanut sauce"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Hovädzie mäso s arašídovou omáčkou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-044-hovadzie-s-arasidovou-omackou.webp",
+        "alt": {
+          "sk": "Hovädzie s arašidovou omáčkou — Trang An",
+          "en": "Beef with peanut sauce — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef"
+      ]
+    },
+    {
+      "id": "menu-045",
+      "brochureNumber": 45,
+      "category": "beef",
+      "group": null,
+      "name": {
+        "sk": "Hovädzie s mangovou omáčkou",
+        "en": "Beef with mango sauce"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "restované hovädzie mäso, brokolica, cesnak, ustricová omáčka, sezónna zelenina, mango omáčka",
+        "en": "sautéed beef, broccoli, garlic, oyster sauce, seasonal vegetables, mango sauce"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Hovädzie mäso s mango omáčkou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-045-hovadzie-s-mangovou-omackou.webp",
+        "alt": {
+          "sk": "Hovädzie s mangovou omáčkou — Trang An",
+          "en": "Beef with mango sauce — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef"
+      ]
+    },
+    {
+      "id": "menu-046",
+      "brochureNumber": 46,
+      "category": "beef",
+      "group": null,
+      "name": {
+        "sk": "Hovädzie na kari",
+        "en": "Beef curry"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "restované hovädzie mäso, brokolica, cesnak, ustricová omáčka, sezónna zelenina, kari omáčka",
+        "en": "sautéed beef, broccoli, garlic, oyster sauce, seasonal vegetables, curry sauce"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Hovädzie na curry",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-046-hovadzie-na-kari.webp",
+        "alt": {
+          "sk": "Hovädzie na kari — Trang An",
+          "en": "Beef curry — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef"
+      ]
+    },
+    {
+      "id": "menu-047",
+      "brochureNumber": 47,
+      "category": "pork",
+      "group": null,
+      "name": {
+        "sk": "Bravčové so zeleninou",
+        "en": "Pork with vegetables"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "bravčové mäso, mrkva, paprika, brokolica, čínska kapusta, pór",
+        "en": "pork, carrot, bell pepper, broccoli, Chinese cabbage, leek"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bravčové so zeleninou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-047-bravcove-so-zeleninou.webp",
+        "alt": {
+          "sk": "Bravčové so zeleninou — Trang An",
+          "en": "Pork with vegetables — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "pork"
+      ]
+    },
+    {
+      "id": "menu-048",
+      "brochureNumber": 48,
+      "category": "pork",
+      "group": null,
+      "name": {
+        "sk": "Bravčové mäso pikantné",
+        "en": "Spicy pork"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "bravčové mäso, mrkva, paprika, brokolica, čínska kapusta, pór",
+        "en": "pork, carrot, bell pepper, broccoli, Chinese cabbage, leek"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bravčové mäso pikantné",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-048-bravcove-maso-pikantne.webp",
+        "alt": {
+          "sk": "Bravčové mäso pikantné — Trang An",
+          "en": "Spicy pork — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "pork"
+      ]
+    },
+    {
+      "id": "menu-049",
+      "brochureNumber": 49,
+      "category": "pork",
+      "group": null,
+      "name": {
+        "sk": "Bravčové na kari",
+        "en": "Pork curry"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "bravčové mäso, mrkva, paprika, pór, brokolica, kari omáčka, šalát",
+        "en": "pork, carrot, bell pepper, leek, broccoli, curry sauce, salad"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bravčové na kari",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-049-bravcove-na-kari.webp",
+        "alt": {
+          "sk": "Bravčové na kari — Trang An",
+          "en": "Pork curry — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "pork"
+      ]
+    },
+    {
+      "id": "menu-050",
+      "brochureNumber": 50,
+      "category": "pork",
+      "group": null,
+      "name": {
+        "sk": "Bravčové s mangovou omáčkou",
+        "en": "Pork with mango sauce"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "bravčové mäso, mrkva, paprika, pór, brokolica, mango omáčka, šalát",
+        "en": "pork, carrot, bell pepper, leek, broccoli, mango sauce, salad"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bravčové s mango omáčkou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-050-bravcove-s-mangovou-omackou.webp",
+        "alt": {
+          "sk": "Bravčové s mangovou omáčkou — Trang An",
+          "en": "Pork with mango sauce — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "pork"
+      ]
+    },
+    {
+      "id": "menu-051",
+      "brochureNumber": 51,
+      "category": "pork",
+      "group": null,
+      "name": {
+        "sk": "Bravčové s arašidovou omáčkou",
+        "en": "Pork with peanut sauce"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "bravčové mäso, mrkva, paprika, pór, brokolica, arašidová omáčka, šalát",
+        "en": "pork, carrot, bell pepper, leek, broccoli, peanut sauce, salad"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bravčové s arašídovou omáčkou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "pork"
+      ]
+    },
+    {
+      "id": "menu-052",
+      "brochureNumber": 52,
+      "category": "fried",
+      "group": null,
+      "name": {
+        "sk": "Kurací rezeň",
+        "en": "Chicken schnitzel"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, vajcia, múka, šalát",
+        "en": "chicken, egg, flour, salad"
+      },
+      "portionLabel": "200 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.6,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Kurací rezeň",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-053",
+      "brochureNumber": 53,
+      "category": "fried",
+      "group": null,
+      "name": {
+        "sk": "Bravčový rezeň",
+        "en": "Pork schnitzel"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "bravčové mäso, vajcia, múka, šalát",
+        "en": "pork, egg, flour, salad"
+      },
+      "portionLabel": "200 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Bravčový rezeň",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "pork"
+      ]
+    },
+    {
+      "id": "menu-054",
+      "brochureNumber": 54,
+      "category": "fried",
+      "group": null,
+      "name": {
+        "sk": "Kuracie tempura",
+        "en": "Chicken tempura"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, múka, tatárska omáčka, šalát",
+        "en": "chicken, flour, tartar sauce, salad"
+      },
+      "portionLabel": "200 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.6,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Kuracie tempura",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-054-kuracie-tempura.webp",
+        "alt": {
+          "sk": "Kuracie tempura — Trang An",
+          "en": "Chicken tempura — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-055",
+      "brochureNumber": 55,
+      "category": "fried",
+      "group": null,
+      "name": {
+        "sk": "Teriyaki kura",
+        "en": "Teriyaki chicken"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": true,
+        "needsReview": true,
+        "notes": [
+          "Seed Wolt price 7 removed: Wolt portion differs from in-store portion.",
+          "Wolt lists Teriyaki kura as 200 g; seed says 250 g. Verify portion on paper menu."
+        ]
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-056",
+      "brochureNumber": 56,
+      "category": "fried",
+      "group": null,
+      "name": {
+        "sk": "Chrumkavá kačica",
+        "en": "Crispy duck"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kačacie mäso, vajcia, múka, šalát",
+        "en": "duck, egg, flour, salad"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.2,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Chrumkavá kačica",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-056-chrumkava-kacica.webp",
+        "alt": {
+          "sk": "Chrumkavá kačica — Trang An",
+          "en": "Crispy duck — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "duck"
+      ]
+    },
+    {
+      "id": "menu-057",
+      "brochureNumber": 57,
+      "category": "fried",
+      "group": null,
+      "name": {
+        "sk": "Chrumkavé kura",
+        "en": "Crispy chicken"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, vajcia, múka, šalát",
+        "en": "chicken, egg, flour, salad"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5.5,
+        "woltEur": 7,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Chrumkavé kura",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-057-chrumkave-kura.webp",
+        "alt": {
+          "sk": "Chrumkavé kura — Trang An",
+          "en": "Crispy chicken — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-058",
+      "brochureNumber": 58,
+      "category": "fried",
+      "group": null,
+      "name": {
+        "sk": "Syr s hranolkami",
+        "en": "Fried cheese with fries"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "350 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": true,
+        "needsReview": true,
+        "notes": [
+          "Seed Wolt price 6.8 removed: Wolt portion differs from in-store portion.",
+          "Wolt lists Syr s hranolkami as 250 g; seed says 350 g. Verify portion on paper menu."
+        ]
+      },
+      "image": {
+        "src": "/menu/wolt/menu-058-syr-s-hranolkami.webp",
+        "alt": {
+          "sk": "Syr s hranolkami — Trang An",
+          "en": "Fried cheese with fries — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-059",
+      "brochureNumber": 59,
+      "category": "fried",
+      "group": null,
+      "name": {
+        "sk": "Kuracie medailónky",
+        "en": "Chicken medallions"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "kuracie mäso, šalát",
+        "en": "chicken, salad"
+      },
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.6,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Kuracie medailónky",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-059-kuracie-medailonky.webp",
+        "alt": {
+          "sk": "Kuracie medailónky — Trang An",
+          "en": "Chicken medallions — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-060",
+      "brochureNumber": 60,
+      "category": "tofu",
+      "group": null,
+      "name": {
+        "sk": "Tofu s arašidovou omáčkou",
+        "en": "Tofu with peanut sauce"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "tofu, arašidová omáčka, paprika, zeler, mrkva, brokolica, cibuľa",
+        "en": "tofu, peanut sauce, bell pepper, celery, carrot, broccoli, onion"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Tofu s arašídovou omáčkou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "tofu"
+      ]
+    },
+    {
+      "id": "menu-061",
+      "brochureNumber": 61,
+      "category": "tofu",
+      "group": null,
+      "name": {
+        "sk": "Tofu s mangovou omáčkou",
+        "en": "Tofu with mango sauce"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "tofu, mango omáčka, paprika, zeler, mrkva, brokolica, cibuľa",
+        "en": "tofu, mango sauce, bell pepper, celery, carrot, broccoli, onion"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Tofu s mango omáčkou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-061-tofu-s-mangovou-omackou.webp",
+        "alt": {
+          "sk": "Tofu s mangovou omáčkou — Trang An",
+          "en": "Tofu with mango sauce — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu"
+      ]
+    },
+    {
+      "id": "menu-062",
+      "brochureNumber": 62,
+      "category": "tofu",
+      "group": null,
+      "name": {
+        "sk": "Tofu na kari",
+        "en": "Tofu curry"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "tofu, curry omáčka, paprika, zeler, mrkva, brokolica, cibuľa",
+        "en": "tofu, curry sauce, bell pepper, celery, carrot, broccoli, onion"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Tofu na curry",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-062-tofu-na-kari.webp",
+        "alt": {
+          "sk": "Tofu na kari — Trang An",
+          "en": "Tofu curry — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu"
+      ]
+    },
+    {
+      "id": "menu-063",
+      "brochureNumber": 63,
+      "category": "tofu",
+      "group": null,
+      "name": {
+        "sk": "Tofu s fazuľou",
+        "en": "Tofu with green beans"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "tofu, mrkva, cibuľa, šampiňóny, brokolica, šalát, paprika, bambusové výhonky",
+        "en": "tofu, carrot, onion, mushrooms, broccoli, salad, bell pepper, bamboo shoots"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Tofu s fazuľou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-063-tofu-s-fazulou.webp",
+        "alt": {
+          "sk": "Tofu s fazuľou — Trang An",
+          "en": "Tofu with green beans — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu"
+      ]
+    },
+    {
+      "id": "menu-064",
+      "brochureNumber": 64,
+      "category": "tofu",
+      "group": null,
+      "name": {
+        "sk": "Tofu s klíčkami",
+        "en": "Tofu with bean sprouts"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "tofu, mrkva, cibuľa, šampiňóny, brokolica, šalát, paprika, bambusové výhonky",
+        "en": "tofu, carrot, onion, mushrooms, broccoli, salad, bell pepper, bamboo shoots"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Tofu s klíčkami",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-064-tofu-s-klickami.webp",
+        "alt": {
+          "sk": "Tofu s klíčkami — Trang An",
+          "en": "Tofu with bean sprouts — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu"
+      ]
+    },
+    {
+      "id": "menu-065",
+      "brochureNumber": 65,
+      "category": "tofu",
+      "group": null,
+      "name": {
+        "sk": "Tofu so zeleninou",
+        "en": "Tofu with vegetables"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "tofu, mrkva, cibuľa, šampiňóny, brokolica, šalát, paprika, bambusové výhonky",
+        "en": "tofu, carrot, onion, mushrooms, broccoli, salad, bell pepper, bamboo shoots"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Tofu so zeleninou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-065-tofu-so-zeleninou.webp",
+        "alt": {
+          "sk": "Tofu so zeleninou — Trang An",
+          "en": "Tofu with vegetables — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu"
+      ]
+    },
+    {
+      "id": "menu-066",
+      "brochureNumber": 66,
+      "category": "seafood",
+      "group": null,
+      "name": {
+        "sk": "Krevety s klíčkami",
+        "en": "Shrimp with bean sprouts"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "krevety, klíčky, cibuľa, jarná cibuľka, pór",
+        "en": "shrimp, bean sprouts, onion, spring onion, leek"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Krevety s klíčkami",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-066-krevety-s-klickami.webp",
+        "alt": {
+          "sk": "Krevety s klíčkami — Trang An",
+          "en": "Shrimp with bean sprouts — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp"
+      ]
+    },
+    {
+      "id": "menu-067",
+      "brochureNumber": 67,
+      "category": "seafood",
+      "group": null,
+      "name": {
+        "sk": "Krevety s fazuľou",
+        "en": "Shrimp with green beans"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "krevety, fazuľa, cibuľa, jarná cibuľka, mrkva, cesnak",
+        "en": "shrimp, green beans, onion, spring onion, carrot, garlic"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Krevety s fazuľou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-067-krevety-s-fazulou.webp",
+        "alt": {
+          "sk": "Krevety s fazuľou — Trang An",
+          "en": "Shrimp with green beans — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp"
+      ]
+    },
+    {
+      "id": "menu-068",
+      "brochureNumber": 68,
+      "category": "seafood",
+      "group": null,
+      "name": {
+        "sk": "Krevety so zeleninou",
+        "en": "Shrimp with vegetables"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "krevety, cibuľa, šampiňóny, brokolica, bambusové výhonky, paprika, šalát",
+        "en": "shrimp, onion, mushrooms, broccoli, bamboo shoots, bell pepper, salad"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Krevety so zeleninou",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-068-krevety-so-zeleninou.webp",
+        "alt": {
+          "sk": "Krevety so zeleninou — Trang An",
+          "en": "Shrimp with vegetables — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp"
+      ]
+    },
+    {
+      "id": "menu-069",
+      "brochureNumber": 69,
+      "category": "seafood",
+      "group": null,
+      "name": {
+        "sk": "Obaľované krevety",
+        "en": "Breaded shrimp"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "krevety, múka, šalát",
+        "en": "shrimp, flour, salad"
+      },
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Obaľované krevety",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-069-obalovane-krevety.webp",
+        "alt": {
+          "sk": "Obaľované krevety — Trang An",
+          "en": "Breaded shrimp — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp"
+      ]
+    },
+    {
+      "id": "menu-070",
+      "brochureNumber": 70,
+      "category": "seafood",
+      "group": null,
+      "name": {
+        "sk": "Krevety na kari",
+        "en": "Shrimp curry"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "restované krevety, zelenina, bazalka, kokosové mlieko, rybacia omáčka, kari omáčka",
+        "en": "sautéed shrimp, vegetables, basil, coconut milk, fish sauce, curry sauce"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Krevety na curry",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-070-krevety-na-kari.webp",
+        "alt": {
+          "sk": "Krevety na kari — Trang An",
+          "en": "Shrimp curry — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp"
+      ]
+    },
+    {
+      "id": "menu-071",
+      "brochureNumber": 71,
+      "category": "seafood",
+      "group": null,
+      "name": {
+        "sk": "Krevety s mangovou omáčkou",
+        "en": "Shrimp with mango sauce"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "restované krevety, zelenina, bazalka, kokosové mlieko, rybacia omáčka, mango omáčka",
+        "en": "sautéed shrimp, vegetables, basil, coconut milk, fish sauce, mango sauce"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Krevety s mango omáčkou",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "shrimp"
+      ]
+    },
+    {
+      "id": "menu-072",
+      "brochureNumber": 72,
+      "category": "seafood",
+      "group": null,
+      "name": {
+        "sk": "Krevety s arašidovou omáčkou",
+        "en": "Shrimp with peanut sauce"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "restované krevety, zelenina, bazalka, kokosové mlieko, rybacia omáčka, arašidová omáčka",
+        "en": "sautéed shrimp, vegetables, basil, coconut milk, fish sauce, peanut sauce"
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Krevety s arašídovou omáčkou",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "shrimp"
+      ]
+    },
+    {
+      "id": "menu-073",
+      "brochureNumber": 73,
+      "category": "seafood",
+      "group": null,
+      "name": {
+        "sk": "Losos",
+        "en": "Salmon"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": [
+          "Wolt lists 'Tempura losos 150 g' (7.50 €); unclear whether it is the same dish as 'Losos 150 g'."
+        ]
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "fish"
+      ]
+    },
+    {
+      "id": "menu-074",
+      "brochureNumber": 74,
+      "category": "seafood",
+      "group": null,
+      "name": {
+        "sk": "Tuniak",
+        "en": "Tuna"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 7,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "fish"
+      ]
+    },
+    {
+      "id": "menu-075",
+      "brochureNumber": 75,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané ryžové rezance s hovädzím mäsom",
+        "en": "Stir-fried rice noodles with beef"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "ryžové rezance, vajcia, čínska kapusta, mrkva, šalát",
+        "en": "rice noodles, egg, Chinese cabbage, carrot, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané ryžové rezance s hovädzím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-075-opekane-ryzove-rezance-s-hovadzim-masom.webp",
+        "alt": {
+          "sk": "Opekané ryžové rezance s hovädzím mäsom — Trang An",
+          "en": "Stir-fried rice noodles with beef — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-076",
+      "brochureNumber": 76,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané ryžové rezance s kačacím mäsom",
+        "en": "Stir-fried rice noodles with duck"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "ryžové rezance, vajcia, čínska kapusta, mrkva, šalát",
+        "en": "rice noodles, egg, Chinese cabbage, carrot, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané ryžové rezance s kačacím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-076-opekane-ryzove-rezance-s-kacacim-masom.webp",
+        "alt": {
+          "sk": "Opekané ryžové rezance s kačacím mäsom — Trang An",
+          "en": "Stir-fried rice noodles with duck — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "duck",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-077",
+      "brochureNumber": 77,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané ryžové rezance s krevetami",
+        "en": "Stir-fried rice noodles with shrimp"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "ryžové rezance, vajcia, čínska kapusta, mrkva, šalát",
+        "en": "rice noodles, egg, Chinese cabbage, carrot, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané ryžové rezance s krevetami",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-077-opekane-ryzove-rezance-s-krevetami.webp",
+        "alt": {
+          "sk": "Opekané ryžové rezance s krevetami — Trang An",
+          "en": "Stir-fried rice noodles with shrimp — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-078",
+      "brochureNumber": 78,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané ryžové rezance s kuracím mäsom",
+        "en": "Stir-fried rice noodles with chicken"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "ryžové rezance, vajcia, čínska kapusta, mrkva, šalát",
+        "en": "rice noodles, egg, Chinese cabbage, carrot, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané ryžové rezance s kuracím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-078-opekane-ryzove-rezance-s-kuracim-masom.webp",
+        "alt": {
+          "sk": "Opekané ryžové rezance s kuracím mäsom — Trang An",
+          "en": "Stir-fried rice noodles with chicken — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-079",
+      "brochureNumber": 79,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané ryžové rezance s tofu",
+        "en": "Stir-fried rice noodles with tofu"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "ryžové rezance, vajcia, čínska kapusta, mrkva, šalát",
+        "en": "rice noodles, egg, Chinese cabbage, carrot, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané ryžové rezance s tofu",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-079-opekane-ryzove-rezance-s-tofu.webp",
+        "alt": {
+          "sk": "Opekané ryžové rezance s tofu — Trang An",
+          "en": "Stir-fried rice noodles with tofu — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-080",
+      "brochureNumber": 80,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané rezance s hovädzím mäsom",
+        "en": "Stir-fried noodles with beef"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "rezance, vajcia, čínska kapusta, mrkva, šalát",
+        "en": "noodles, egg, Chinese cabbage, carrot, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané rezance s hovädzím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-080-opekane-rezance-s-hovadzim-masom.webp",
+        "alt": {
+          "sk": "Opekané rezance s hovädzím mäsom — Trang An",
+          "en": "Stir-fried noodles with beef — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-081",
+      "brochureNumber": 81,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané rezance s kačacím mäsom",
+        "en": "Stir-fried noodles with duck"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "rezance, vajcia, čínska kapusta, mrkva, šalát",
+        "en": "noodles, egg, Chinese cabbage, carrot, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané rezance s kačacím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-081-opekane-rezance-s-kacacim-masom.webp",
+        "alt": {
+          "sk": "Opekané rezance s kačacím mäsom — Trang An",
+          "en": "Stir-fried noodles with duck — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "duck",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-082",
+      "brochureNumber": 82,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané rezance s krevetami",
+        "en": "Stir-fried noodles with shrimp"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "rezance, vajcia, čínska kapusta, mrkva, šalát",
+        "en": "noodles, egg, Chinese cabbage, carrot, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané rezance s krevetami",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-082-opekane-rezance-s-krevetami.webp",
+        "alt": {
+          "sk": "Opekané rezance s krevetami — Trang An",
+          "en": "Stir-fried noodles with shrimp — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-083",
+      "brochureNumber": 83,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané rezance s kuracím mäsom",
+        "en": "Stir-fried noodles with chicken"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "rezance, vajcia, čínska kapusta, mrkva, šalát",
+        "en": "noodles, egg, Chinese cabbage, carrot, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané rezance s kuracím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-083-opekane-rezance-s-kuracim-masom.webp",
+        "alt": {
+          "sk": "Opekané rezance s kuracím mäsom — Trang An",
+          "en": "Stir-fried noodles with chicken — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-084",
+      "brochureNumber": 84,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané rezance s tofu",
+        "en": "Stir-fried noodles with tofu"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "rezance, vajcia, čínska kapusta, mrkva, šalát",
+        "en": "noodles, egg, Chinese cabbage, carrot, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané rezance s tofu",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-084-opekane-rezance-s-tofu.webp",
+        "alt": {
+          "sk": "Opekané rezance s tofu — Trang An",
+          "en": "Stir-fried noodles with tofu — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-085",
+      "brochureNumber": 85,
+      "category": "rice",
+      "group": null,
+      "name": {
+        "sk": "Rizoto s jazmínovou ryžou a hovädzím mäsom",
+        "en": "Fried jasmine rice with beef"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "ryža, vajcia, mrkva, čínska kapusta, šalát",
+        "en": "rice, egg, carrot, Chinese cabbage, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Rizoto s hovädzím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-085-rizoto-s-jazminovou-ryzou-a-hovadzim-masom.webp",
+        "alt": {
+          "sk": "Rizoto s jazmínovou ryžou a hovädzím mäsom — Trang An",
+          "en": "Fried jasmine rice with beef — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef"
+      ]
+    },
+    {
+      "id": "menu-086",
+      "brochureNumber": 86,
+      "category": "rice",
+      "group": null,
+      "name": {
+        "sk": "Rizoto s jazmínovou ryžou a kačacím mäsom",
+        "en": "Fried jasmine rice with duck"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "ryža, vajcia, mrkva, čínska kapusta, šalát",
+        "en": "rice, egg, carrot, Chinese cabbage, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Rizoto s kačacím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-086-rizoto-s-jazminovou-ryzou-a-kacacim-masom.webp",
+        "alt": {
+          "sk": "Rizoto s jazmínovou ryžou a kačacím mäsom — Trang An",
+          "en": "Fried jasmine rice with duck — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "duck"
+      ]
+    },
+    {
+      "id": "menu-087",
+      "brochureNumber": 87,
+      "category": "rice",
+      "group": null,
+      "name": {
+        "sk": "Rizoto s jazmínovou ryžou a krevetami",
+        "en": "Fried jasmine rice with shrimp"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "ryža, vajcia, mrkva, čínska kapusta, šalát",
+        "en": "rice, egg, carrot, Chinese cabbage, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Rizoto s krevetami",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-087-rizoto-s-jazminovou-ryzou-a-krevetami.webp",
+        "alt": {
+          "sk": "Rizoto s jazmínovou ryžou a krevetami — Trang An",
+          "en": "Fried jasmine rice with shrimp — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp"
+      ]
+    },
+    {
+      "id": "menu-088",
+      "brochureNumber": 88,
+      "category": "rice",
+      "group": null,
+      "name": {
+        "sk": "Rizoto s jazmínovou ryžou a kuracím mäsom",
+        "en": "Fried jasmine rice with chicken"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "ryža, vajcia, mrkva, čínska kapusta, šalát",
+        "en": "rice, egg, carrot, Chinese cabbage, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Rizoto s kuracím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-088-rizoto-s-jazminovou-ryzou-a-kuracim-masom.webp",
+        "alt": {
+          "sk": "Rizoto s jazmínovou ryžou a kuracím mäsom — Trang An",
+          "en": "Fried jasmine rice with chicken — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "menu-089",
+      "brochureNumber": 89,
+      "category": "rice",
+      "group": null,
+      "name": {
+        "sk": "Rizoto s jazmínovou ryžou a tofu",
+        "en": "Fried jasmine rice with tofu"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "ryža, vajcia, mrkva, čínska kapusta, šalát",
+        "en": "rice, egg, carrot, Chinese cabbage, salad"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Rizoto s tofu",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-089-rizoto-s-jazminovou-ryzou-a-tofu.webp",
+        "alt": {
+          "sk": "Rizoto s jazmínovou ryžou a tofu — Trang An",
+          "en": "Fried jasmine rice with tofu — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu"
+      ]
+    },
+    {
+      "id": "menu-090",
+      "brochureNumber": 90,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané sklenené rezance s hovädzím mäsom",
+        "en": "Stir-fried glass noodles with beef"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "sklenené rezance, mrkva, judášovo ucho, pór",
+        "en": "glass noodles, carrot, wood ear mushroom, leek"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané sklenené  rezance s hovädzím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-090-opekane-sklenene-rezance-s-hovadzim-masom.webp",
+        "alt": {
+          "sk": "Opekané sklenené rezance s hovädzím mäsom — Trang An",
+          "en": "Stir-fried glass noodles with beef — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-091",
+      "brochureNumber": 91,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané sklenené rezance s kačacím mäsom",
+        "en": "Stir-fried glass noodles with duck"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "sklenené rezance, mrkva, judášovo ucho, pór",
+        "en": "glass noodles, carrot, wood ear mushroom, leek"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané sklenené rezance s kačacím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "duck",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-092",
+      "brochureNumber": 92,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané sklenené rezance s krevetami",
+        "en": "Stir-fried glass noodles with shrimp"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "sklenené rezance, mrkva, judášovo ucho, pór",
+        "en": "glass noodles, carrot, wood ear mushroom, leek"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané sklenené rezance s krevetami",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-092-opekane-sklenene-rezance-s-krevetami.webp",
+        "alt": {
+          "sk": "Opekané sklenené rezance s krevetami — Trang An",
+          "en": "Stir-fried glass noodles with shrimp — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-093",
+      "brochureNumber": 93,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané sklenené rezance s kuracím mäsom",
+        "en": "Stir-fried glass noodles with chicken"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "sklenené rezance, mrkva, judášovo ucho, pór",
+        "en": "glass noodles, carrot, wood ear mushroom, leek"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané sklenené rezance s kuracím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-093-opekane-sklenene-rezance-s-kuracim-masom.webp",
+        "alt": {
+          "sk": "Opekané sklenené rezance s kuracím mäsom — Trang An",
+          "en": "Stir-fried glass noodles with chicken — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-094",
+      "brochureNumber": 94,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané sklenené rezance s tofu",
+        "en": "Stir-fried glass noodles with tofu"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "sklenené rezance, mrkva, judášovo ucho, pór",
+        "en": "glass noodles, carrot, wood ear mushroom, leek"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané sklenené rezance s tofu",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-094-opekane-sklenene-rezance-s-tofu.webp",
+        "alt": {
+          "sk": "Opekané sklenené rezance s tofu — Trang An",
+          "en": "Stir-fried glass noodles with tofu — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-095",
+      "brochureNumber": 95,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Udon rezance so zeleninou",
+        "en": "Udon noodles with vegetables"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "rezance, vajcia, sezónna zelenina",
+        "en": "noodles, egg, seasonal vegetables"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Udon rezance so zeleninou",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-095-udon-rezance-so-zeleninou.webp",
+        "alt": {
+          "sk": "Udon rezance so zeleninou — Trang An",
+          "en": "Udon noodles with vegetables — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-096",
+      "brochureNumber": 96,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Vaječné rezance so zeleninou",
+        "en": "Egg noodles with vegetables"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "rezance, vajcia, sezónna zelenina",
+        "en": "noodles, egg, seasonal vegetables"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Vaječné rezance so zeleninou",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-096-vajecne-rezance-so-zeleninou.webp",
+        "alt": {
+          "sk": "Vaječné rezance so zeleninou — Trang An",
+          "en": "Egg noodles with vegetables — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-097",
+      "brochureNumber": 97,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Ryžové rezance so zeleninou",
+        "en": "Rice noodles with vegetables"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "rezance, vajcia, sezónna zelenina",
+        "en": "noodles, egg, seasonal vegetables"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Ryžové rezance so zeleninou",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-097-ryzove-rezance-so-zeleninou.webp",
+        "alt": {
+          "sk": "Ryžové rezance so zeleninou — Trang An",
+          "en": "Rice noodles with vegetables — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-098",
+      "brochureNumber": 98,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Sklenené rezance so zeleninou",
+        "en": "Glass noodles with vegetables"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "rezance, vajcia, sezónna zelenina",
+        "en": "noodles, egg, seasonal vegetables"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Sklenené rezance so zeleninou",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-098-sklenene-rezance-so-zeleninou.webp",
+        "alt": {
+          "sk": "Sklenené rezance so zeleninou — Trang An",
+          "en": "Glass noodles with vegetables — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-099",
+      "brochureNumber": 99,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané udon rezance s hovädzím mäsom",
+        "en": "Stir-fried udon noodles with beef"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "udon rezance, paprika, mrkva, čínska kapusta, pór",
+        "en": "udon noodles, bell pepper, carrot, Chinese cabbage, leek"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané udon rezance s hovädzím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-099-opekane-udon-rezance-s-hovadzim-masom.webp",
+        "alt": {
+          "sk": "Opekané udon rezance s hovädzím mäsom — Trang An",
+          "en": "Stir-fried udon noodles with beef — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "beef",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-100",
+      "brochureNumber": 100,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané udon rezance s kačacím mäsom",
+        "en": "Stir-fried udon noodles with duck"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "udon rezance, paprika, mrkva, čínska kapusta, pór",
+        "en": "udon noodles, bell pepper, carrot, Chinese cabbage, leek"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané udon rezance s kačacím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-100-opekane-udon-rezance-s-kacacim-masom.webp",
+        "alt": {
+          "sk": "Opekané udon rezance s kačacím mäsom — Trang An",
+          "en": "Stir-fried udon noodles with duck — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "duck",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-101",
+      "brochureNumber": 101,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané udon rezance s krevetami",
+        "en": "Stir-fried udon noodles with shrimp"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "udon rezance, paprika, mrkva, čínska kapusta, pór",
+        "en": "udon noodles, bell pepper, carrot, Chinese cabbage, leek"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané udon rezance s krevetami",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-102",
+      "brochureNumber": 102,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané udon rezance s kuracím mäsom",
+        "en": "Stir-fried udon noodles with chicken"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "udon rezance, paprika, mrkva, čínska kapusta, pór",
+        "en": "udon noodles, bell pepper, carrot, Chinese cabbage, leek"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané udon rezance s kuracím mäsom",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-102-opekane-udon-rezance-s-kuracim-masom.webp",
+        "alt": {
+          "sk": "Opekané udon rezance s kuracím mäsom — Trang An",
+          "en": "Stir-fried udon noodles with chicken — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-103",
+      "brochureNumber": 103,
+      "category": "noodles",
+      "group": null,
+      "name": {
+        "sk": "Opekané udon rezance s tofu",
+        "en": "Stir-fried udon noodles with tofu"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "udon rezance, paprika, mrkva, čínska kapusta, pór",
+        "en": "udon noodles, bell pepper, carrot, Chinese cabbage, leek"
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané udon rezance s tofu",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-103-opekane-udon-rezance-s-tofu.webp",
+        "alt": {
+          "sk": "Opekané udon rezance s tofu — Trang An",
+          "en": "Stir-fried udon noodles with tofu — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu",
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-104",
+      "brochureNumber": 104,
+      "category": "sides",
+      "group": null,
+      "name": {
+        "sk": "Ryža",
+        "en": "Rice"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 1.6,
+        "woltEur": 2,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "brief-crosschecked",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Ryža",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-104-ryza.webp",
+        "alt": {
+          "sk": "Ryža — Trang An",
+          "en": "Rice — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-105",
+      "brochureNumber": 105,
+      "category": "sides",
+      "group": null,
+      "name": {
+        "sk": "Hranolky",
+        "en": "Fries"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 1.6,
+        "woltEur": 2,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Hranolky",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-105-hranolky.webp",
+        "alt": {
+          "sk": "Hranolky — Trang An",
+          "en": "Fries — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-106",
+      "brochureNumber": 106,
+      "category": "sides",
+      "group": null,
+      "name": {
+        "sk": "Zemiaky",
+        "en": "Potatoes"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 1.6,
+        "woltEur": 2,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Zemiaky",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-106-zemiaky.webp",
+        "alt": {
+          "sk": "Zemiaky — Trang An",
+          "en": "Potatoes — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-107",
+      "brochureNumber": 107,
+      "category": "sides",
+      "group": null,
+      "name": {
+        "sk": "Opekané rezance",
+        "en": "Stir-fried noodles (side)"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 2.3,
+        "woltEur": 2.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané rezance",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-107-opekane-rezance.webp",
+        "alt": {
+          "sk": "Opekané rezance — Trang An",
+          "en": "Stir-fried noodles (side) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "noodles"
+      ]
+    },
+    {
+      "id": "menu-108",
+      "brochureNumber": 108,
+      "category": "sides",
+      "group": null,
+      "name": {
+        "sk": "Rizoto",
+        "en": "Fried rice (side)"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 2.8,
+        "woltEur": 3.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Rizoto",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-108-rizoto.webp",
+        "alt": {
+          "sk": "Rizoto — Trang An",
+          "en": "Fried rice (side) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-109",
+      "brochureNumber": 109,
+      "category": "sides",
+      "group": null,
+      "name": {
+        "sk": "Opekané ryžové rezance",
+        "en": "Stir-fried rice noodles (side)"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 2.8,
+        "woltEur": 3.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Opekané ryžové rezance",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/menu-109-opekane-ryzove-rezance.webp",
+        "alt": {
+          "sk": "Opekané ryžové rezance — Trang An",
+          "en": "Stir-fried rice noodles (side) — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "noodles"
+      ]
+    },
+    {
+      "id": "sushi-sake-uramaki-5",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "sake-uramaki",
+      "name": {
+        "sk": "Sake uramaki",
+        "en": "Sake uramaki"
+      },
+      "gloss": {
+        "sk": "inside-out rolka s lososom",
+        "en": "inside-out roll with salmon"
+      },
+      "description": null,
+      "portionLabel": "5 ks",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-sake-uramaki-10",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "sake-uramaki",
+      "name": {
+        "sk": "Sake uramaki",
+        "en": "Sake uramaki"
+      },
+      "gloss": {
+        "sk": "inside-out rolka s lososom",
+        "en": "inside-out roll with salmon"
+      },
+      "description": null,
+      "portionLabel": "10 ks",
+      "price": {
+        "inStoreEur": 9.9,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-tobiko-uramaki-5",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "tobiko-uramaki",
+      "name": {
+        "sk": "Tobiko uramaki",
+        "en": "Tobiko uramaki"
+      },
+      "gloss": {
+        "sk": "inside-out rolka s ikrami tobiko",
+        "en": "inside-out roll with tobiko roe"
+      },
+      "description": null,
+      "portionLabel": "5 ks",
+      "price": {
+        "inStoreEur": 5.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-tobiko-uramaki-10",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "tobiko-uramaki",
+      "name": {
+        "sk": "Tobiko uramaki",
+        "en": "Tobiko uramaki"
+      },
+      "gloss": {
+        "sk": "inside-out rolka s ikrami tobiko",
+        "en": "inside-out roll with tobiko roe"
+      },
+      "description": null,
+      "portionLabel": "10 ks",
+      "price": {
+        "inStoreEur": 10.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-sake-futomaki-5",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "sake-futomaki",
+      "name": {
+        "sk": "Sake futomaki",
+        "en": "Sake futomaki"
+      },
+      "gloss": {
+        "sk": "hrubá rolka s lososom",
+        "en": "thick roll with salmon"
+      },
+      "description": {
+        "sk": "losos, šalátová zelenina, uhorky, mango, japonská majonéza",
+        "en": "salmon, salad greens, cucumber, mango, Japanese mayonnaise"
+      },
+      "portionLabel": "5 ks",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Sake futomaki 5ks",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-sake-futomaki-5-sake-futomaki.webp",
+        "alt": {
+          "sk": "Sake futomaki — Trang An",
+          "en": "Sake futomaki — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-sake-futomaki-10",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "sake-futomaki",
+      "name": {
+        "sk": "Sake futomaki",
+        "en": "Sake futomaki"
+      },
+      "gloss": {
+        "sk": "hrubá rolka s lososom",
+        "en": "thick roll with salmon"
+      },
+      "description": {
+        "sk": "losos, šalátová zelenina, uhorky, mango, japonská majonéza",
+        "en": "salmon, salad greens, cucumber, mango, Japanese mayonnaise"
+      },
+      "portionLabel": "10 ks",
+      "price": {
+        "inStoreEur": 9.8,
+        "woltEur": 9.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Sake futomaki 10ks",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": true,
+        "notes": [
+          "In-store price equals the Wolt price (9.80) while every other dish is cheaper in store — re-check the paper menu."
+        ]
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-sake-futomaki-10-sake-futomaki.webp",
+        "alt": {
+          "sk": "Sake futomaki — Trang An",
+          "en": "Sake futomaki — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-ebi-tempura-5",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "ebi-tempura",
+      "name": {
+        "sk": "Ebi tempura",
+        "en": "Ebi tempura"
+      },
+      "gloss": {
+        "sk": "rolka s krevetou v tempure",
+        "en": "roll with shrimp tempura"
+      },
+      "description": {
+        "sk": "krevety, uhorky, pažítka, múka tempura, japonská majonéza",
+        "en": "shrimp, cucumber, chives, tempura flour, Japanese mayonnaise"
+      },
+      "portionLabel": "5 ks",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Ebi tempura 5ks",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-ebi-tempura-5-ebi-tempura.webp",
+        "alt": {
+          "sk": "Ebi tempura — Trang An",
+          "en": "Ebi tempura — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-ebi-tempura-10",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "ebi-tempura",
+      "name": {
+        "sk": "Ebi tempura",
+        "en": "Ebi tempura"
+      },
+      "gloss": {
+        "sk": "rolka s krevetou v tempure",
+        "en": "roll with shrimp tempura"
+      },
+      "description": {
+        "sk": "krevety, uhorky, pažítka, múka tempura, japonská majonéza",
+        "en": "shrimp, cucumber, chives, tempura flour, Japanese mayonnaise"
+      },
+      "portionLabel": "10 ks",
+      "price": {
+        "inStoreEur": 9.8,
+        "woltEur": 10,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Ebi tempura 10ks",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-ebi-tempura-10-ebi-tempura.webp",
+        "alt": {
+          "sk": "Ebi tempura — Trang An",
+          "en": "Ebi tempura — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-tamago-tempura-5",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "tamago-tempura",
+      "name": {
+        "sk": "Tamago tempura",
+        "en": "Tamago tempura"
+      },
+      "gloss": {
+        "sk": "rolka s vajcom (tamago) v tempure",
+        "en": "roll with tamago egg in tempura"
+      },
+      "description": {
+        "sk": "vajcia, uhorky, pažítka, japonská majonéza, múka tempura",
+        "en": "egg, cucumber, chives, Japanese mayonnaise, tempura flour"
+      },
+      "portionLabel": "5 ks",
+      "price": {
+        "inStoreEur": 5,
+        "woltEur": 6,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Tamago tempura 5ks",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-tamago-tempura-5-tamago-tempura.webp",
+        "alt": {
+          "sk": "Tamago tempura — Trang An",
+          "en": "Tamago tempura — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-tamago-tempura-10",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "tamago-tempura",
+      "name": {
+        "sk": "Tamago tempura",
+        "en": "Tamago tempura"
+      },
+      "gloss": {
+        "sk": "rolka s vajcom (tamago) v tempure",
+        "en": "roll with tamago egg in tempura"
+      },
+      "description": {
+        "sk": "vajcia, uhorky, pažítka, japonská majonéza, múka tempura",
+        "en": "egg, cucumber, chives, Japanese mayonnaise, tempura flour"
+      },
+      "portionLabel": "10 ks",
+      "price": {
+        "inStoreEur": 9.8,
+        "woltEur": 9.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Tamago tempura 10ks",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": true,
+        "notes": [
+          "In-store price equals the Wolt price (9.80) while every other dish is cheaper in store — re-check the paper menu."
+        ]
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-tamago-tempura-10-tamago-tempura.webp",
+        "alt": {
+          "sk": "Tamago tempura — Trang An",
+          "en": "Tamago tempura — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-sake-nigiri-3",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "sake-nigiri",
+      "name": {
+        "sk": "Sake nigiri",
+        "en": "Sake nigiri"
+      },
+      "gloss": {
+        "sk": "ryža s plátkom lososa",
+        "en": "rice topped with salmon"
+      },
+      "description": {
+        "sk": "losos",
+        "en": "salmon"
+      },
+      "portionLabel": "3 ks",
+      "price": {
+        "inStoreEur": 4.9,
+        "woltEur": 6,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "brief-crosschecked",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Sake nigiri 3ks",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-sake-nigiri-3-sake-nigiri.webp",
+        "alt": {
+          "sk": "Sake nigiri — Trang An",
+          "en": "Sake nigiri — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-sake-nigiri-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "sake-nigiri",
+      "name": {
+        "sk": "Sake nigiri",
+        "en": "Sake nigiri"
+      },
+      "gloss": {
+        "sk": "ryža s plátkom lososa",
+        "en": "rice topped with salmon"
+      },
+      "description": {
+        "sk": "losos",
+        "en": "salmon"
+      },
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 9.5,
+        "woltEur": 10,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Sake nigiri 6ks",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-sake-nigiri-6-sake-nigiri.webp",
+        "alt": {
+          "sk": "Sake nigiri — Trang An",
+          "en": "Sake nigiri — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-ebi-nigiri-3",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "ebi-nigiri",
+      "name": {
+        "sk": "Ebi nigiri",
+        "en": "Ebi nigiri"
+      },
+      "gloss": {
+        "sk": "ryža s krevetou",
+        "en": "rice topped with shrimp"
+      },
+      "description": {
+        "sk": "krevety",
+        "en": "shrimp"
+      },
+      "portionLabel": "3 ks",
+      "price": {
+        "inStoreEur": 3.9,
+        "woltEur": 4.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Ebi nigiri 3ks",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-ebi-nigiri-3-ebi-nigiri.webp",
+        "alt": {
+          "sk": "Ebi nigiri — Trang An",
+          "en": "Ebi nigiri — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-ebi-nigiri-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "ebi-nigiri",
+      "name": {
+        "sk": "Ebi nigiri",
+        "en": "Ebi nigiri"
+      },
+      "gloss": {
+        "sk": "ryža s krevetou",
+        "en": "rice topped with shrimp"
+      },
+      "description": {
+        "sk": "krevety",
+        "en": "shrimp"
+      },
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 7.5,
+        "woltEur": 8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Ebi nigiri 6ks",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-ebi-nigiri-6-ebi-nigiri.webp",
+        "alt": {
+          "sk": "Ebi nigiri — Trang An",
+          "en": "Ebi nigiri — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-sake-maki-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "sake-maki",
+      "name": {
+        "sk": "Sake maki",
+        "en": "Sake maki"
+      },
+      "gloss": {
+        "sk": "tenká rolka s lososom",
+        "en": "thin roll with salmon"
+      },
+      "description": null,
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 4,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": true,
+        "needsReview": false,
+        "notes": [
+          "Wolt sells maki as 8/16 pcs, in store 6/12 pcs — different SKU, Wolt price intentionally not shown."
+        ]
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-sake-maki-6-sake-maki.webp",
+        "alt": {
+          "sk": "Sake maki — Trang An",
+          "en": "Sake maki — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-sake-maki-12",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "sake-maki",
+      "name": {
+        "sk": "Sake maki",
+        "en": "Sake maki"
+      },
+      "gloss": {
+        "sk": "tenká rolka s lososom",
+        "en": "thin roll with salmon"
+      },
+      "description": null,
+      "portionLabel": "12 ks",
+      "price": {
+        "inStoreEur": 7.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": true,
+        "needsReview": false,
+        "notes": [
+          "Wolt sells maki as 8/16 pcs, in store 6/12 pcs — different SKU, Wolt price intentionally not shown."
+        ]
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-sake-maki-6-sake-maki.webp",
+        "alt": {
+          "sk": "Sake maki — Trang An",
+          "en": "Sake maki — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-avok-do-maki-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "avokado-maki",
+      "name": {
+        "sk": "Avokádo maki",
+        "en": "Avokádo maki"
+      },
+      "gloss": {
+        "sk": "tenká rolka s avokádom",
+        "en": "thin roll with avocado"
+      },
+      "description": null,
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 3.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": true,
+        "needsReview": false,
+        "notes": [
+          "Wolt sells maki as 8/16 pcs, in store 6/12 pcs — different SKU, Wolt price intentionally not shown."
+        ]
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-avok-do-maki-12",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "avokado-maki",
+      "name": {
+        "sk": "Avokádo maki",
+        "en": "Avokádo maki"
+      },
+      "gloss": {
+        "sk": "tenká rolka s avokádom",
+        "en": "thin roll with avocado"
+      },
+      "description": null,
+      "portionLabel": "12 ks",
+      "price": {
+        "inStoreEur": 7.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": true,
+        "needsReview": false,
+        "notes": [
+          "Wolt sells maki as 8/16 pcs, in store 6/12 pcs — different SKU, Wolt price intentionally not shown."
+        ]
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-kappa-maki-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "kappa-maki",
+      "name": {
+        "sk": "Kappa maki",
+        "en": "Kappa maki"
+      },
+      "gloss": {
+        "sk": "tenká rolka s uhorkou",
+        "en": "thin roll with cucumber"
+      },
+      "description": null,
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 3.2,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": true,
+        "needsReview": false,
+        "notes": [
+          "Wolt sells maki as 8/16 pcs, in store 6/12 pcs — different SKU, Wolt price intentionally not shown."
+        ]
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-kappa-maki-12",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "kappa-maki",
+      "name": {
+        "sk": "Kappa maki",
+        "en": "Kappa maki"
+      },
+      "gloss": {
+        "sk": "tenká rolka s uhorkou",
+        "en": "thin roll with cucumber"
+      },
+      "description": null,
+      "portionLabel": "12 ks",
+      "price": {
+        "inStoreEur": 6,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": true,
+        "needsReview": false,
+        "notes": [
+          "Wolt sells maki as 8/16 pcs, in store 6/12 pcs — different SKU, Wolt price intentionally not shown."
+        ]
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-kani-maki-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "kani-maki",
+      "name": {
+        "sk": "Kani maki",
+        "en": "Kani maki"
+      },
+      "gloss": {
+        "sk": "tenká rolka s krabou tyčinkou",
+        "en": "thin roll with crab stick"
+      },
+      "description": null,
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 3.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": true,
+        "needsReview": false,
+        "notes": [
+          "Wolt sells maki as 8/16 pcs, in store 6/12 pcs — different SKU, Wolt price intentionally not shown."
+        ]
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-kani-maki-12",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "kani-maki",
+      "name": {
+        "sk": "Kani maki",
+        "en": "Kani maki"
+      },
+      "gloss": {
+        "sk": "tenká rolka s krabou tyčinkou",
+        "en": "thin roll with crab stick"
+      },
+      "description": null,
+      "portionLabel": "12 ks",
+      "price": {
+        "inStoreEur": 7.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": true,
+        "needsReview": false,
+        "notes": [
+          "Wolt sells maki as 8/16 pcs, in store 6/12 pcs — different SKU, Wolt price intentionally not shown."
+        ]
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-ebi-maki-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "ebi-maki",
+      "name": {
+        "sk": "Ebi maki",
+        "en": "Ebi maki"
+      },
+      "gloss": {
+        "sk": "tenká rolka s krevetou",
+        "en": "thin roll with shrimp"
+      },
+      "description": null,
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 3.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": true,
+        "needsReview": false,
+        "notes": [
+          "Wolt sells maki as 8/16 pcs, in store 6/12 pcs — different SKU, Wolt price intentionally not shown."
+        ]
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-ebi-maki-12",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "ebi-maki",
+      "name": {
+        "sk": "Ebi maki",
+        "en": "Ebi maki"
+      },
+      "gloss": {
+        "sk": "tenká rolka s krevetou",
+        "en": "thin roll with shrimp"
+      },
+      "description": null,
+      "portionLabel": "12 ks",
+      "price": {
+        "inStoreEur": 7.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": true,
+        "needsReview": false,
+        "notes": [
+          "Wolt sells maki as 8/16 pcs, in store 6/12 pcs — different SKU, Wolt price intentionally not shown."
+        ]
+      },
+      "image": null,
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-california-futomaki-5",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "california-futomaki",
+      "name": {
+        "sk": "California futomaki",
+        "en": "California futomaki"
+      },
+      "gloss": {
+        "sk": "hrubá rolka California",
+        "en": "thick California roll"
+      },
+      "description": {
+        "sk": "losos, krabie tyčinky, avokádo, uhorky, pažítky, japonská majonéza",
+        "en": "salmon, crab sticks, avocado, cucumber, chives, Japanese mayonnaise"
+      },
+      "portionLabel": "5 ks",
+      "price": {
+        "inStoreEur": 5.5,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "California futomaki 5ks",
+          "portionMatch": "exact"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-california-futomaki-5-california-futomaki.webp",
+        "alt": {
+          "sk": "California futomaki — Trang An",
+          "en": "California futomaki — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-california-futomaki-10",
+      "brochureNumber": null,
+      "category": "sushi",
+      "group": "california-futomaki",
+      "name": {
+        "sk": "California futomaki",
+        "en": "California futomaki"
+      },
+      "gloss": {
+        "sk": "hrubá rolka California",
+        "en": "thick California roll"
+      },
+      "description": null,
+      "portionLabel": "10 ks",
+      "price": {
+        "inStoreEur": 10.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-california-futomaki-5-california-futomaki.webp",
+        "alt": {
+          "sk": "California futomaki — Trang An",
+          "en": "California futomaki — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-set-1",
+      "brochureNumber": null,
+      "category": "sushi-sets",
+      "group": null,
+      "name": {
+        "sk": "Set 1",
+        "en": "Set 1"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "losos, uhorky, avokádo, pažítky, japonská majonéza",
+        "en": "salmon, cucumber, avocado, chives, Japanese mayonnaise"
+      },
+      "portionLabel": null,
+      "price": {
+        "inStoreEur": 11.9,
+        "woltEur": 12.9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "brief-crosschecked",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Set 1",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": true,
+        "notes": [
+          "Set composition and piece count not on paper-menu seed; description is the ingredient list from Wolt."
+        ]
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-set-1-set-1.webp",
+        "alt": {
+          "sk": "Set 1 — Trang An",
+          "en": "Set 1 — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-set-2",
+      "brochureNumber": null,
+      "category": "sushi-sets",
+      "group": null,
+      "name": {
+        "sk": "Set 2",
+        "en": "Set 2"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "losos, krevety, japonská majonéza, avokádo, uhorky, tempura múka",
+        "en": "salmon, shrimp, Japanese mayonnaise, avocado, cucumber, tempura flour"
+      },
+      "portionLabel": null,
+      "price": {
+        "inStoreEur": 11.9,
+        "woltEur": 12.9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Set 2",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": true,
+        "notes": [
+          "Set composition and piece count not on paper-menu seed; description is the ingredient list from Wolt."
+        ]
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-set-2-set-2.webp",
+        "alt": {
+          "sk": "Set 2 — Trang An",
+          "en": "Set 2 — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-set-3",
+      "brochureNumber": null,
+      "category": "sushi-sets",
+      "group": null,
+      "name": {
+        "sk": "Set 3",
+        "en": "Set 3"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "krevety, pažítky, japonská majonéza, avokádo, uhorky, tempura múka, sweet chilli omáčka",
+        "en": "shrimp, chives, Japanese mayonnaise, avocado, cucumber, tempura flour, sweet chilli sauce"
+      },
+      "portionLabel": null,
+      "price": {
+        "inStoreEur": 10.9,
+        "woltEur": 12.9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Set 3",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": true,
+        "notes": [
+          "Set composition and piece count not on paper-menu seed; description is the ingredient list from Wolt."
+        ]
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-set-3-set-3.webp",
+        "alt": {
+          "sk": "Set 3 — Trang An",
+          "en": "Set 3 — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-set-4",
+      "brochureNumber": null,
+      "category": "sushi-sets",
+      "group": null,
+      "name": {
+        "sk": "Set 4",
+        "en": "Set 4"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "avokádo, losos, krevety",
+        "en": "avocado, salmon, shrimp"
+      },
+      "portionLabel": null,
+      "price": {
+        "inStoreEur": 9.9,
+        "woltEur": 10.9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Set 4",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": true,
+        "notes": [
+          "Set composition and piece count not on paper-menu seed; description is the ingredient list from Wolt."
+        ]
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-set-4-set-4.webp",
+        "alt": {
+          "sk": "Set 4 — Trang An",
+          "en": "Set 4 — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "shrimp",
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-set-5",
+      "brochureNumber": null,
+      "category": "sushi-sets",
+      "group": null,
+      "name": {
+        "sk": "Set 5",
+        "en": "Set 5"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "uhorky, avokádo, reďkovka",
+        "en": "cucumber, avocado, radish"
+      },
+      "portionLabel": null,
+      "price": {
+        "inStoreEur": 9.9,
+        "woltEur": 10.9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Set 5",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": true,
+        "notes": [
+          "Set composition and piece count not on paper-menu seed; description is the ingredient list from Wolt."
+        ]
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-set-5-set-5.webp",
+        "alt": {
+          "sk": "Set 5 — Trang An",
+          "en": "Set 5 — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "sushi"
+      ]
+    },
+    {
+      "id": "sushi-set-6",
+      "brochureNumber": null,
+      "category": "sushi-sets",
+      "group": null,
+      "name": {
+        "sk": "Set 6",
+        "en": "Set 6"
+      },
+      "gloss": null,
+      "description": {
+        "sk": "avokádo, losos",
+        "en": "avocado, salmon"
+      },
+      "portionLabel": null,
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": {
+          "checkedAt": "2026-11-03",
+          "itemName": "Set 6",
+          "portionMatch": "not-stated"
+        },
+        "descriptionSource": "wolt-2026-11-03",
+        "woltDifferentPortion": false,
+        "needsReview": true,
+        "notes": [
+          "Set composition and piece count not on paper-menu seed; description is the ingredient list from Wolt."
+        ]
+      },
+      "image": {
+        "src": "/menu/wolt/sushi-set-6-set-6.webp",
+        "alt": {
+          "sk": "Set 6 — Trang An",
+          "en": "Set 6 — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "fish",
+        "sushi"
+      ]
+    },
+    {
+      "id": "poke-tofu",
+      "brochureNumber": null,
+      "category": "poke-bowls",
+      "group": null,
+      "name": {
+        "sk": "Tofu poke bowl",
+        "en": "Tofu poke bowl"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "300 g",
+      "price": {
+        "inStoreEur": 9.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/poke-tofu-tofu-poke-bowl.webp",
+        "alt": {
+          "sk": "Tofu poke bowl — Trang An",
+          "en": "Tofu poke bowl — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "tofu"
+      ]
+    },
+    {
+      "id": "poke-chicken",
+      "brochureNumber": null,
+      "category": "poke-bowls",
+      "group": null,
+      "name": {
+        "sk": "Kuracie tempura poke bowl",
+        "en": "Chicken tempura poke bowl"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "300 g",
+      "price": {
+        "inStoreEur": 9.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/poke-chicken-kuracie-tempura-poke-bowl.webp",
+        "alt": {
+          "sk": "Kuracie tempura poke bowl — Trang An",
+          "en": "Chicken tempura poke bowl — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "chicken"
+      ]
+    },
+    {
+      "id": "poke-salmon",
+      "brochureNumber": null,
+      "category": "poke-bowls",
+      "group": null,
+      "name": {
+        "sk": "Losos poke bowl",
+        "en": "Salmon poke bowl"
+      },
+      "gloss": null,
+      "description": null,
+      "portionLabel": "300 g",
+      "price": {
+        "inStoreEur": 9.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStore": "seed-transcription",
+        "wolt": null,
+        "descriptionSource": null,
+        "woltDifferentPortion": false,
+        "needsReview": false,
+        "notes": []
+      },
+      "image": {
+        "src": "/menu/wolt/poke-salmon-losos-poke-bowl.webp",
+        "alt": {
+          "sk": "Losos poke bowl — Trang An",
+          "en": "Salmon poke bowl — Trang An"
+        },
+        "kind": "wolt-listing",
+        "needsOwnerApproval": true
+      },
+      "allergens": null,
+      "tags": [
+        "fish"
+      ]
+    }
+  ]
+}

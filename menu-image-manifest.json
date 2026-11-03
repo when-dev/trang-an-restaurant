@@ -1,0 +1,346 @@
+{
+  "count": 40,
+  "images": [
+    {
+      "id": "menu-007",
+      "nameSk": "Hovädzia polievka",
+      "file": "public/menu/menu-007-hovadzia-polievka.webp",
+      "image": "/menu/menu-007-hovadzia-polievka.webp",
+      "source": "AI-generated illustrative food photo; not an actual photograph of Trang An dish"
+    },
+    {
+      "id": "menu-008",
+      "nameSk": "Kuracia polievka",
+      "file": "public/menu/menu-008-kuracia-polievka.webp",
+      "image": "/menu/menu-008-kuracia-polievka.webp",
+      "source": "AI-generated illustrative food photo; not an actual photograph of Trang An dish"
+    },
+    {
+      "id": "menu-019",
+      "nameSk": "Bún bò Nam Bộ (hovädzie)",
+      "file": "public/menu/menu-019-bun-bo-nam-bo.webp",
+      "image": "/menu/menu-019-bun-bo-nam-bo.webp",
+      "source": "AI-generated illustrative food photo; not an actual photograph of Trang An dish"
+    },
+    {
+      "id": "menu-024",
+      "nameSk": "Miến bò Nam Bộ (hovädzie)",
+      "file": "public/menu/menu-024-mien-bo-nam-bo.webp",
+      "image": "/menu/menu-024-mien-bo-nam-bo.webp",
+      "source": "AI-generated illustrative food photo; not an actual photograph of Trang An dish"
+    },
+    {
+      "id": "menu-030",
+      "nameSk": "Jarné závitky (vyprážané)",
+      "file": "public/menu/menu-030-jarne-zavitky.webp",
+      "image": "/menu/menu-030-jarne-zavitky.webp",
+      "source": "AI-generated illustrative food photo; not an actual photograph of Trang An dish"
+    },
+    {
+      "id": "menu-032",
+      "nameSk": "Kuracie kung pao",
+      "file": "public/menu/menu-032-kuracie-kung-pao.webp",
+      "image": "/menu/menu-032-kuracie-kung-pao.webp",
+      "source": "AI-generated illustrative food photo; not an actual photograph of Trang An dish"
+    },
+    {
+      "id": "menu-038",
+      "nameSk": "Kuracie s arašidovou omáčkou",
+      "file": "public/menu/menu-038-kuracie-s-arasidovou-omackou.webp",
+      "image": "/menu/menu-038-kuracie-s-arasidovou-omackou.webp",
+      "source": "AI-generated illustrative food photo; not an actual photograph of Trang An dish"
+    },
+    {
+      "id": "menu-062",
+      "nameSk": "Tofu na kari",
+      "file": "public/menu/menu-062-tofu-na-kari.webp",
+      "image": "/menu/menu-062-tofu-na-kari.webp",
+      "source": "AI-generated illustrative food photo; not an actual photograph of Trang An dish"
+    },
+    {
+      "id": "sushi-set-1",
+      "nameSk": "Set 1",
+      "file": "public/menu/sushi-set-1.webp",
+      "image": "/menu/sushi-set-1.webp",
+      "source": "AI-generated illustrative food photo; not an actual photograph of Trang An dish"
+    },
+    {
+      "id": "sushi-set-2",
+      "nameSk": "Set 2",
+      "file": "public/menu/sushi-set-2.webp",
+      "image": "/menu/sushi-set-2.webp",
+      "source": "AI-generated illustrative food photo; not an actual photograph of Trang An dish"
+    },
+    {
+      "id": "menu-056",
+      "nameSk": "Chrumkavá kačica",
+      "file": "public/menu/menu-056-chrumkava-kacica.webp",
+      "image": "/menu/menu-056-chrumkava-kacica.webp",
+      "source": "AI-generated illustration cropped from a generated collage; not a photo of Trang An food",
+      "originalNativeDetailApproxPx": 300
+    },
+    {
+      "id": "menu-036",
+      "nameSk": "Kuracie s ananásom",
+      "file": "public/menu/menu-036-kuracie-s-ananasom.webp",
+      "image": "/menu/menu-036-kuracie-s-ananasom.webp",
+      "source": "AI-generated illustration cropped from a generated collage; not a photo of Trang An food",
+      "originalNativeDetailApproxPx": 300
+    },
+    {
+      "id": "menu-041",
+      "nameSk": "Hovädzie so zeleninou",
+      "file": "public/menu/menu-041-hovadzie-so-zeleninou.webp",
+      "image": "/menu/menu-041-hovadzie-so-zeleninou.webp",
+      "source": "AI-generated illustration cropped from a generated collage; not a photo of Trang An food",
+      "originalNativeDetailApproxPx": 300
+    },
+    {
+      "id": "menu-069",
+      "nameSk": "Obaľované krevety",
+      "file": "public/menu/menu-069-obalovane-krevety.webp",
+      "image": "/menu/menu-069-obalovane-krevety.webp",
+      "source": "AI-generated illustration cropped from a generated collage; not a photo of Trang An food",
+      "originalNativeDetailApproxPx": 300
+    },
+    {
+      "id": "menu-087",
+      "nameSk": "Rizoto s jazmínovou ryžou a krevetami",
+      "file": "public/menu/menu-087-rizoto-s-krevetami.webp",
+      "image": "/menu/menu-087-rizoto-s-krevetami.webp",
+      "source": "AI-generated illustration cropped from a generated collage; not a photo of Trang An food",
+      "originalNativeDetailApproxPx": 300
+    },
+    {
+      "id": "menu-083",
+      "nameSk": "Opekané rezance s kuracím mäsom",
+      "file": "public/menu/menu-083-opekane-rezance-s-kuracim-masom.webp",
+      "image": "/menu/menu-083-opekane-rezance-s-kuracim-masom.webp",
+      "source": "AI-generated illustration cropped from a generated collage; not a photo of Trang An food",
+      "originalNativeDetailApproxPx": 300
+    },
+    {
+      "id": "menu-099",
+      "nameSk": "Opekané udon rezance s hovädzím mäsom",
+      "file": "public/menu/menu-099-udon-s-hovadzim-masom.webp",
+      "image": "/menu/menu-099-udon-s-hovadzim-masom.webp",
+      "source": "AI-generated illustration cropped from a generated collage; not a photo of Trang An food",
+      "originalNativeDetailApproxPx": 300
+    },
+    {
+      "id": "menu-095",
+      "nameSk": "Udon rezance so zeleninou",
+      "file": "public/menu/menu-095-udon-rezance-so-zeleninou.webp",
+      "image": "/menu/menu-095-udon-rezance-so-zeleninou.webp",
+      "source": "AI-generated illustration cropped from a generated collage; not a photo of Trang An food",
+      "originalNativeDetailApproxPx": 300
+    },
+    {
+      "id": "menu-061",
+      "nameSk": "Tofu s mangovou omáčkou",
+      "file": "public/menu/menu-061-tofu-s-mangovou-omackou.webp",
+      "image": "/menu/menu-061-tofu-s-mangovou-omackou.webp",
+      "source": "AI-generated illustration cropped from a generated collage; not a photo of Trang An food",
+      "originalNativeDetailApproxPx": 300
+    },
+    {
+      "id": "poke-salmon",
+      "nameSk": "Losos poke bowl",
+      "file": "public/menu/poke-salmon-poke-losos.webp",
+      "image": "/menu/poke-salmon-poke-losos.webp",
+      "source": "AI-generated illustration cropped from a generated collage; not a photo of Trang An food",
+      "originalNativeDetailApproxPx": 300
+    },
+    {
+      "id": "menu-003",
+      "nameSk": "Tomyum s krevetami",
+      "file": "public/menu/menu-003-tomyum-s-krevetami.webp",
+      "image": "/menu/menu-003-tomyum-s-krevetami.webp",
+      "source": "AI-generated illustration cropped from contact sheet; not Trang An restaurant photography",
+      "nativeSizePx": 300,
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-005",
+      "nameSk": "Ostrokyslá polievka",
+      "file": "public/menu/menu-005-ostrokysla-polievka.webp",
+      "image": "/menu/menu-005-ostrokysla-polievka.webp",
+      "source": "AI-generated illustration cropped from contact sheet; not Trang An restaurant photography",
+      "nativeSizePx": 300,
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-029",
+      "nameSk": "Bún nem",
+      "file": "public/menu/menu-029-bun-nem.webp",
+      "image": "/menu/menu-029-bun-nem.webp",
+      "source": "AI-generated illustration cropped from contact sheet; not Trang An restaurant photography",
+      "nativeSizePx": 300,
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-031",
+      "nameSk": "Čerstvé jarné rolky",
+      "file": "public/menu/menu-031-cerstve-jarne-rolky.webp",
+      "image": "/menu/menu-031-cerstve-jarne-rolky.webp",
+      "source": "AI-generated illustration cropped from contact sheet; not Trang An restaurant photography",
+      "nativeSizePx": 300,
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-037",
+      "nameSk": "Kuracie na kari",
+      "file": "public/menu/menu-037-kuracie-na-kari.webp",
+      "image": "/menu/menu-037-kuracie-na-kari.webp",
+      "source": "AI-generated illustration cropped from contact sheet; not Trang An restaurant photography",
+      "nativeSizePx": 300,
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-046",
+      "nameSk": "Hovädzie na kari",
+      "file": "public/menu/menu-046-hovadzie-na-kari.webp",
+      "image": "/menu/menu-046-hovadzie-na-kari.webp",
+      "source": "AI-generated illustration cropped from contact sheet; not Trang An restaurant photography",
+      "nativeSizePx": 300,
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-047",
+      "nameSk": "Bravčové so zeleninou",
+      "file": "public/menu/menu-047-bravcove-so-zeleninou.webp",
+      "image": "/menu/menu-047-bravcove-so-zeleninou.webp",
+      "source": "AI-generated illustration cropped from contact sheet; not Trang An restaurant photography",
+      "nativeSizePx": 300,
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-055",
+      "nameSk": "Teriyaki kura",
+      "file": "public/menu/menu-055-teriyaki-kura.webp",
+      "image": "/menu/menu-055-teriyaki-kura.webp",
+      "source": "AI-generated illustration cropped from contact sheet; not Trang An restaurant photography",
+      "nativeSizePx": 300,
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-052",
+      "nameSk": "Kurací rezeň",
+      "file": "public/menu/menu-052-kuraci-rezen.webp",
+      "image": "/menu/menu-052-kuraci-rezen.webp",
+      "source": "AI-generated illustration cropped from contact sheet; not Trang An restaurant photography",
+      "nativeSizePx": 300,
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "sushi-california-futomaki-5",
+      "nameSk": "California futomaki",
+      "file": "public/menu/sushi-california-futomaki-5-california-futomaki.webp",
+      "image": "/menu/sushi-california-futomaki-5-california-futomaki.webp",
+      "source": "AI-generated illustration cropped from contact sheet; not Trang An restaurant photography",
+      "nativeSizePx": 300,
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-048",
+      "nameSk": "Bravčové mäso pikantné",
+      "file": "public/menu/menu-048-bravcove-maso-pikantne.webp",
+      "image": "/menu/menu-048-bravcove-maso-pikantne.webp",
+      "source": "AI-generated illustrative crop from collage (not a photo of Trang An dish)",
+      "imageSource": "ai-generated-illustration-cropped-from-contact-sheet",
+      "nativeSizePx": "300x300",
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-058",
+      "nameSk": "Syr s hranolkami",
+      "file": "public/menu/menu-058-syr-s-hranolkami.webp",
+      "image": "/menu/menu-058-syr-s-hranolkami.webp",
+      "source": "AI-generated illustrative crop from collage (not a photo of Trang An dish)",
+      "imageSource": "ai-generated-illustration-cropped-from-contact-sheet",
+      "nativeSizePx": "300x300",
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-092",
+      "nameSk": "Opekané sklenené rezance s krevetami",
+      "file": "public/menu/menu-092-opekane-sklenene-rezance-s-krevetami.webp",
+      "image": "/menu/menu-092-opekane-sklenene-rezance-s-krevetami.webp",
+      "source": "AI-generated illustrative crop from collage (not a photo of Trang An dish)",
+      "imageSource": "ai-generated-illustration-cropped-from-contact-sheet",
+      "nativeSizePx": "300x300",
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-086",
+      "nameSk": "Rizoto s jazmínovou ryžou a kačacím mäsom",
+      "file": "public/menu/menu-086-rizoto-s-kacacim-masom.webp",
+      "image": "/menu/menu-086-rizoto-s-kacacim-masom.webp",
+      "source": "AI-generated illustrative crop from collage (not a photo of Trang An dish)",
+      "imageSource": "ai-generated-illustration-cropped-from-contact-sheet",
+      "nativeSizePx": "300x300",
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "sushi-avok-do-maki-6",
+      "nameSk": "Avokádo maki",
+      "file": "public/menu/sushi-avok-do-maki-6-avokado-maki-6ks.webp",
+      "image": "/menu/sushi-avok-do-maki-6-avokado-maki-6ks.webp",
+      "source": "AI-generated illustrative crop from collage (not a photo of Trang An dish)",
+      "imageSource": "ai-generated-illustration-cropped-from-contact-sheet",
+      "nativeSizePx": "300x300",
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "sushi-set-3",
+      "nameSk": "Set 3",
+      "file": "public/menu/sushi-set-3-sushi-set-3.webp",
+      "image": "/menu/sushi-set-3-sushi-set-3.webp",
+      "source": "AI-generated illustrative crop from collage (not a photo of Trang An dish)",
+      "imageSource": "ai-generated-illustration-cropped-from-contact-sheet",
+      "nativeSizePx": "300x300",
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-009",
+      "nameSk": "Krevetová polievka",
+      "file": "public/menu/menu-009-krevetova-polievka.webp",
+      "image": "/menu/menu-009-krevetova-polievka.webp",
+      "source": "Cropped from user-provided restaurant brochure photo; no AI reconstruction and no new photographic detail",
+      "imageSource": "original-menu-photo-extract-enhanced",
+      "nativeSizePx": "480x360",
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-010",
+      "nameSk": "Tofu polievka",
+      "file": "public/menu/menu-010-tofu-polievka.webp",
+      "image": "/menu/menu-010-tofu-polievka.webp",
+      "source": "Cropped from user-provided restaurant brochure photo; no AI reconstruction and no new photographic detail",
+      "imageSource": "original-menu-photo-extract-enhanced",
+      "nativeSizePx": "480x360",
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-033",
+      "nameSk": "Kuracie so zeleninou",
+      "file": "public/menu/menu-033-kuracie-so-zeleninou.webp",
+      "image": "/menu/menu-033-kuracie-so-zeleninou.webp",
+      "source": "Cropped from user-provided restaurant brochure photo; no AI reconstruction and no new photographic detail",
+      "imageSource": "original-menu-photo-extract-enhanced",
+      "nativeSizePx": "480x360",
+      "needsOwnerApproval": true
+    },
+    {
+      "id": "menu-070",
+      "nameSk": "Krevety na kari",
+      "file": "public/menu/menu-070-krevety-na-kari.webp",
+      "image": "/menu/menu-070-krevety-na-kari.webp",
+      "source": "Cropped from user-provided restaurant brochure photo; no AI reconstruction and no new photographic detail",
+      "imageSource": "original-menu-photo-extract-enhanced",
+      "nativeSizePx": "480x360",
+      "needsOwnerApproval": true
+    }
+  ],
+  "qualitySummary": "Batch 1 individually generated in high resolution; batches 2-3 ~300px collage crops; batch 4 6 collage crops + 4 480x360 source brochure crops"
+}

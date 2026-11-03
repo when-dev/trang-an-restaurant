@@ -1,9 +1,29 @@
 import type { NextConfig } from "next";
 
+const securityHeaders = [
+  { key: "X-Content-Type-Options", value: "nosniff" },
+  { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
+  { key: "X-Frame-Options", value: "SAMEORIGIN" },
+  { key: "Permissions-Policy", value: "camera=(), microphone=(), geolocation=(), interest-cohort=()" },
+];
+
 const nextConfig: NextConfig = {
-  /* config options here */
   cacheComponents: true,
   partialPrefetching: true,
+  poweredByHeader: false,
+  images: {
+    formats: ["image/avif", "image/webp"],
+    // Required allowlist since Next 16; only the dish images in /public/menu are optimised.
+    qualities: [75],
+    localPatterns: [{ pathname: "/menu/**", search: "" }],
+  },
+  // OG image fonts are read from disk at request time — make sure they ship with the function.
+  outputFileTracingIncludes: {
+    "/**/opengraph-image*": ["./assets/fonts/*.woff"],
+  },
+  async headers() {
+    return [{ source: "/:path*", headers: securityHeaders }];
+  },
   turbopack: {
     rules: {
       "*.css": {

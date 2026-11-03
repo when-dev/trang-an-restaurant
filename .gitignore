@@ -39,3 +39,20 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# env: keep the template
+!.env.example
+
+# playwright
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+# downloaded Wolt listing images used only to verify photo matches
+/.cache/
+
+/tests
+
+/scripts
+
+/reference

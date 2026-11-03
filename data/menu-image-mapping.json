@@ -1,0 +1,4208 @@
+{
+  "_notice": "Confirmed menu item → photo mappings. Photos come from the restaurant's public Wolt listing and are NOT yet authorised for use on an independent website — get written permission before public launch.",
+  "source": {
+    "platform": "Wolt",
+    "listing": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia",
+    "evidenceFetchedOn": "2026-11-03",
+    "authorisedForWebsite": false
+  },
+  "generatedBy": "scripts/integrate-wolt-images.mjs",
+  "count": 115,
+  "mappings": [
+    {
+      "id": "menu-001",
+      "nameSk": "Vývar",
+      "image": "/menu/wolt/menu-001-vyvar.webp",
+      "sourceFile": "vyvar.png",
+      "sourcePath": "assets/menu-originals-wolt/vyvar.png",
+      "basis": "Wolt photo of \"Vývar\" + exact filename"
+    },
+    {
+      "id": "menu-002",
+      "nameSk": "Tomyum s kuracím mäsom",
+      "image": "/menu/wolt/menu-002-tomyum-s-kuracim-masom.webp",
+      "sourceFile": "tomyum-s-kuracim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/tomyum-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Tomyum s kuracím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-005",
+      "nameSk": "Ostrokyslá polievka",
+      "image": "/menu/wolt/menu-005-ostrokysla-polievka.webp",
+      "sourceFile": "ostrokysla.png",
+      "sourcePath": "assets/menu-originals-wolt/ostrokysla.png",
+      "basis": "Wolt photo of \"Ostrokyslá\" + exact filename"
+    },
+    {
+      "id": "menu-006",
+      "nameSk": "Bambusová polievka",
+      "image": "/menu/wolt/menu-006-bambusova-polievka.webp",
+      "sourceFile": "bambusova.png",
+      "sourcePath": "assets/menu-originals-wolt/bambusova.png",
+      "basis": "Wolt photo of \"Bambusová\" + exact filename"
+    },
+    {
+      "id": "menu-008",
+      "nameSk": "Kuracia polievka",
+      "image": "/menu/wolt/menu-008-kuracia-polievka.webp",
+      "sourceFile": "kuracia-polievka.png",
+      "sourcePath": "assets/menu-originals-wolt/kuracia-polievka.png",
+      "basis": "Wolt photo of \"Kuracia polievka\" + exact filename"
+    },
+    {
+      "id": "menu-009",
+      "nameSk": "Krevetová polievka",
+      "image": "/menu/wolt/menu-009-krevetova-polievka.webp",
+      "sourceFile": "krevetova-polievka.png",
+      "sourcePath": "assets/menu-originals-wolt/krevetova-polievka.png",
+      "basis": "Wolt photo of \"Krevetová polievka\" + exact filename",
+      "sharedOnWoltWith": [
+        "Miến polievka s krevetami"
+      ],
+      "samePhotoAs": [
+        "Miến polievka s krevetami"
+      ]
+    },
+    {
+      "id": "menu-010",
+      "nameSk": "Tofu polievka",
+      "image": "/menu/wolt/menu-010-tofu-polievka.webp",
+      "sourceFile": "bun-polievka-s-tofu.png",
+      "sourcePath": "assets/menu-originals-wolt/bun-polievka-s-tofu.png",
+      "basis": "Wolt photo of \"Tofu polievka\"",
+      "sharedOnWoltWith": [
+        "Bún polievka s tofu",
+        "Miến polievka s tofu"
+      ],
+      "samePhotoAs": [
+        "Bún polievka s tofu",
+        "Miến polievka s tofu"
+      ]
+    },
+    {
+      "id": "menu-011",
+      "nameSk": "Bún polievka s hovädzím mäsom",
+      "image": "/menu/wolt/menu-011-bun-polievka-s-hovadzim-masom.webp",
+      "sourceFile": "bun-polievka-s-hovadzim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/bun-polievka-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Bún polievka s hovädzím mäsom\" + exact filename",
+      "sharedOnWoltWith": [
+        "Miến polievka s hovädzím mäsom"
+      ],
+      "samePhotoAs": [
+        "Miến polievka s hovädzím mäsom"
+      ]
+    },
+    {
+      "id": "menu-012",
+      "nameSk": "Bún polievka s krevetami",
+      "image": "/menu/wolt/menu-012-bun-polievka-s-krevetami.webp",
+      "sourceFile": "bun-polievka-s-krevetkami.png",
+      "sourcePath": "assets/menu-originals-wolt/bun-polievka-s-krevetkami.png",
+      "basis": "Wolt photo of \"Bún polievka s krevetami\" + exact filename"
+    },
+    {
+      "id": "menu-013",
+      "nameSk": "Bún polievka s kuracím mäsom",
+      "image": "/menu/wolt/menu-013-bun-polievka-s-kuracim-masom.webp",
+      "sourceFile": "bun-polievka-s-kuracim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/bun-polievka-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Bún polievka s kuracím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-014",
+      "nameSk": "Bún polievka s tofu",
+      "image": "/menu/wolt/menu-014-bun-polievka-s-tofu.webp",
+      "sourceFile": "bun-polievka-s-tofu.png",
+      "sourcePath": "assets/menu-originals-wolt/bun-polievka-s-tofu.png",
+      "basis": "Wolt photo of \"Bún polievka s tofu\" + exact filename",
+      "sharedOnWoltWith": [
+        "Tofu polievka",
+        "Miến polievka s tofu"
+      ],
+      "samePhotoAs": [
+        "Tofu polievka",
+        "Miến polievka s tofu"
+      ]
+    },
+    {
+      "id": "menu-015",
+      "nameSk": "Miến polievka s hovädzím mäsom",
+      "image": "/menu/wolt/menu-015-mien-polievka-s-hovadzim-masom.webp",
+      "sourceFile": "mien-polievka-s-hovadzim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/mien-polievka-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Mien polievka s hovädzím mäsom\" + exact filename",
+      "sharedOnWoltWith": [
+        "Bún polievka s hovädzím mäsom"
+      ],
+      "samePhotoAs": [
+        "Bún polievka s hovädzím mäsom"
+      ]
+    },
+    {
+      "id": "menu-016",
+      "nameSk": "Miến polievka s krevetami",
+      "image": "/menu/wolt/menu-016-mien-polievka-s-krevetami.webp",
+      "sourceFile": "mien-polievka-s-krevetkami.png",
+      "sourcePath": "assets/menu-originals-wolt/mien-polievka-s-krevetkami.png",
+      "basis": "Wolt photo of \"Mien polievka s krevetami\" + exact filename",
+      "sharedOnWoltWith": [
+        "Krevetová polievka"
+      ],
+      "samePhotoAs": [
+        "Krevetová polievka"
+      ]
+    },
+    {
+      "id": "menu-017",
+      "nameSk": "Miến polievka s kuracím mäsom",
+      "image": "/menu/wolt/menu-017-mien-polievka-s-kuracim-masom.webp",
+      "sourceFile": "mien-polievka-s-kuracim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/mien-polievka-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Mien polievka s kuracím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-018",
+      "nameSk": "Miến polievka s tofu",
+      "image": "/menu/wolt/menu-018-mien-polievka-s-tofu.webp",
+      "sourceFile": "mien-polievka-s-tofu.png",
+      "sourcePath": "assets/menu-originals-wolt/mien-polievka-s-tofu.png",
+      "basis": "Wolt photo of \"Mien polievka s tofu\" + exact filename",
+      "sharedOnWoltWith": [
+        "Bún polievka s tofu",
+        "Tofu polievka"
+      ],
+      "samePhotoAs": [
+        "Tofu polievka",
+        "Bún polievka s tofu"
+      ]
+    },
+    {
+      "id": "menu-019",
+      "nameSk": "Bún bò Nam Bộ (hovädzie)",
+      "image": "/menu/wolt/menu-019-bun-bo-nam-bo-hovadzie.webp",
+      "sourceFile": "bun-bo-nam-bo-hovadzie.png",
+      "sourcePath": "assets/menu-originals-wolt/bun-bo-nam-bo-hovadzie.png",
+      "basis": "Wolt photo of \"Bun bo nam bo hovädzie\" + exact filename"
+    },
+    {
+      "id": "menu-020",
+      "nameSk": "Bún tôm Nam Bộ (krevety)",
+      "image": "/menu/wolt/menu-020-bun-tom-nam-bo-krevety.webp",
+      "sourceFile": "bun-tom-nam-bo-krevetove.png",
+      "sourcePath": "assets/menu-originals-wolt/bun-tom-nam-bo-krevetove.png",
+      "basis": "Wolt photo of \"Bun tom nam bo krevetové\" + exact filename"
+    },
+    {
+      "id": "menu-021",
+      "nameSk": "Bún ngan Nam Bộ (kačacie)",
+      "image": "/menu/wolt/menu-021-bun-ngan-nam-bo-kacacie.webp",
+      "sourceFile": "bun-ngan-kacacie.png",
+      "sourcePath": "assets/menu-originals-wolt/bun-ngan-kacacie.png",
+      "basis": "Wolt photo of \"Bun ngan kačacie\""
+    },
+    {
+      "id": "menu-022",
+      "nameSk": "Bún gà Nam Bộ (kuracie)",
+      "image": "/menu/wolt/menu-022-bun-ga-nam-bo-kuracie.webp",
+      "sourceFile": "bun-ga-nam-bo-kuracie.png",
+      "sourcePath": "assets/menu-originals-wolt/bun-ga-nam-bo-kuracie.png",
+      "basis": "Wolt photo of \"Bun ga nam bo kuracie\" + exact filename"
+    },
+    {
+      "id": "menu-023",
+      "nameSk": "Bún đậu Nam Bộ (tofu)",
+      "image": "/menu/wolt/menu-023-bun-dau-nam-bo-tofu.webp",
+      "sourceFile": "bun-dau-nam-bo-tofu.png",
+      "sourcePath": "assets/menu-originals-wolt/bun-dau-nam-bo-tofu.png",
+      "basis": "Wolt photo of \"Bun dau nam bo tofu\" + exact filename"
+    },
+    {
+      "id": "menu-024",
+      "nameSk": "Miến bò Nam Bộ (hovädzie)",
+      "image": "/menu/wolt/menu-024-mien-bo-nam-bo-hovadzie.webp",
+      "sourceFile": "mien-bo-nam-bo-hovadzie.png",
+      "sourcePath": "assets/menu-originals-wolt/mien-bo-nam-bo-hovadzie.png",
+      "basis": "Wolt photo of \"Mien bo nam bo hovädzie\" + exact filename"
+    },
+    {
+      "id": "menu-025",
+      "nameSk": "Miến tôm Nam Bộ (krevety)",
+      "image": "/menu/wolt/menu-025-mien-tom-nam-bo-krevety.webp",
+      "sourceFile": "mien-tom-nam-bo-krevetove.png",
+      "sourcePath": "assets/menu-originals-wolt/mien-tom-nam-bo-krevetove.png",
+      "basis": "Wolt photo of \"Mien tom nam bo krevetové\" + exact filename"
+    },
+    {
+      "id": "menu-026",
+      "nameSk": "Miến ngan Nam Bộ (kačacie)",
+      "image": "/menu/wolt/menu-026-mien-ngan-nam-bo-kacacie.webp",
+      "sourceFile": "mien-ngan-kacacie.png",
+      "sourcePath": "assets/menu-originals-wolt/mien-ngan-kacacie.png",
+      "basis": "Wolt photo of \"Mien ngan kačacie\""
+    },
+    {
+      "id": "menu-027",
+      "nameSk": "Miến gà Nam Bộ (kuracie)",
+      "image": "/menu/wolt/menu-027-mien-ga-nam-bo-kuracie.webp",
+      "sourceFile": "mien-ga-nam-bo-kuracie.png",
+      "sourcePath": "assets/menu-originals-wolt/mien-ga-nam-bo-kuracie.png",
+      "basis": "Wolt photo of \"Mien ga nam bo kuracie\" + exact filename"
+    },
+    {
+      "id": "menu-028",
+      "nameSk": "Miến đậu Nam Bộ (tofu)",
+      "image": "/menu/wolt/menu-028-mien-dau-nam-bo-tofu.webp",
+      "sourceFile": "mien-dau-nam-bo-tofu.png",
+      "sourcePath": "assets/menu-originals-wolt/mien-dau-nam-bo-tofu.png",
+      "basis": "Wolt photo of \"Mien dau nam bo tofu\" + exact filename"
+    },
+    {
+      "id": "menu-029",
+      "nameSk": "Bún nem",
+      "image": "/menu/wolt/menu-029-bun-nem.webp",
+      "sourceFile": "bun-nem.png",
+      "sourcePath": "assets/menu-originals-wolt/bun-nem.png",
+      "basis": "Wolt photo of \"Bun nem\" + exact filename"
+    },
+    {
+      "id": "menu-030",
+      "nameSk": "Jarné závitky (vyprážané)",
+      "image": "/menu/wolt/menu-030-jarne-zavitky-vyprazane.webp",
+      "sourceFile": "cercstve-jarne-rolky.png",
+      "sourcePath": "assets/menu-originals-wolt/cercstve-jarne-rolky.png",
+      "basis": "visual: photo shows 4 fried spring rolls = Jarné závitky (vyprážané) 4 ks; Wolt shows it for Čerstvé jarné rolky"
+    },
+    {
+      "id": "menu-032",
+      "nameSk": "Kuracie kung pao",
+      "image": "/menu/wolt/menu-032-kuracie-kung-pao.webp",
+      "sourceFile": "kuracie-kung-pao.png",
+      "sourcePath": "assets/menu-originals-wolt/kuracie-kung-pao.png",
+      "basis": "Wolt photo of \"Kuracie kung pao\" + exact filename"
+    },
+    {
+      "id": "menu-033",
+      "nameSk": "Kuracie so zeleninou",
+      "image": "/menu/wolt/menu-033-kuracie-so-zeleninou.webp",
+      "sourceFile": "kuracie-so-zeleninou.png",
+      "sourcePath": "assets/menu-originals-wolt/kuracie-so-zeleninou.png",
+      "basis": "Wolt photo of \"Kuracie so zeleninou\" + exact filename"
+    },
+    {
+      "id": "menu-034",
+      "nameSk": "Kuracie s klíčkami",
+      "image": "/menu/wolt/menu-034-kuracie-s-klickami.webp",
+      "sourceFile": "kuracie-s-klickami.png",
+      "sourcePath": "assets/menu-originals-wolt/kuracie-s-klickami.png",
+      "basis": "Wolt photo of \"Kuracie s klíčkami\" + exact filename"
+    },
+    {
+      "id": "menu-035",
+      "nameSk": "Pikantné kuracie mäso",
+      "image": "/menu/wolt/menu-035-pikantne-kuracie-maso.webp",
+      "sourceFile": "pikantne-kuracie-maso.png",
+      "sourcePath": "assets/menu-originals-wolt/pikantne-kuracie-maso.png",
+      "basis": "Wolt photo of \"Pikantné kuracie mäso\" + exact filename (photo visibly shows chicken)",
+      "sharedOnWoltWith": [
+        "Hovädzie pikantné"
+      ]
+    },
+    {
+      "id": "menu-036",
+      "nameSk": "Kuracie s ananásom",
+      "image": "/menu/wolt/menu-036-kuracie-s-ananasom.webp",
+      "sourceFile": "kuracie-s-ananasom.png",
+      "sourcePath": "assets/menu-originals-wolt/kuracie-s-ananasom.png",
+      "basis": "Wolt photo of \"Kuracie s ananásom\" + exact filename"
+    },
+    {
+      "id": "menu-037",
+      "nameSk": "Kuracie na kari",
+      "image": "/menu/wolt/menu-037-kuracie-na-kari.webp",
+      "sourceFile": "kuracie-na-kari.png",
+      "sourcePath": "assets/menu-originals-wolt/kuracie-na-kari.png",
+      "basis": "Wolt photo of \"Kuracie na kari\" + exact filename"
+    },
+    {
+      "id": "menu-039",
+      "nameSk": "Kuracie s mangovou omáčkou",
+      "image": "/menu/wolt/menu-039-kuracie-s-mangovou-omackou.webp",
+      "sourceFile": "kuracie-s-mangovou-omackou.png",
+      "sourcePath": "assets/menu-originals-wolt/kuracie-s-mangovou-omackou.png",
+      "basis": "Wolt photo of \"Kuracie s mangovou omáčkou\" + exact filename"
+    },
+    {
+      "id": "menu-040",
+      "nameSk": "Hovädzie s fazuľou",
+      "image": "/menu/wolt/menu-040-hovadzie-s-fazulou.webp",
+      "sourceFile": "hovadzie-s-fazulou.png",
+      "sourcePath": "assets/menu-originals-wolt/hovadzie-s-fazulou.png",
+      "basis": "Wolt photo of \"Hovädzie s fazuľou\" + exact filename"
+    },
+    {
+      "id": "menu-041",
+      "nameSk": "Hovädzie so zeleninou",
+      "image": "/menu/wolt/menu-041-hovadzie-so-zeleninou.webp",
+      "sourceFile": "hovadzie-so-zeleninou.png",
+      "sourcePath": "assets/menu-originals-wolt/hovadzie-so-zeleninou.png",
+      "basis": "Wolt photo of \"Hovädzie so zeleninou\" + exact filename (photo visibly shows beef)",
+      "sharedOnWoltWith": [
+        "Bravčové mäso pikantné",
+        "Hovädzie na kari",
+        "Hovädzie s arašidovou omáčkou"
+      ],
+      "samePhotoAs": [
+        "Hovädzie s arašidovou omáčkou",
+        "Hovädzie na kari"
+      ]
+    },
+    {
+      "id": "menu-042",
+      "nameSk": "Hovädzie s klíčkami",
+      "image": "/menu/wolt/menu-042-hovadzie-s-klickami.webp",
+      "sourceFile": "hovadzie-s-klickami.png",
+      "sourcePath": "assets/menu-originals-wolt/hovadzie-s-klickami.png",
+      "basis": "Wolt photo of \"Hovädzie s klíčkami\" + exact filename"
+    },
+    {
+      "id": "menu-044",
+      "nameSk": "Hovädzie s arašidovou omáčkou",
+      "image": "/menu/wolt/menu-044-hovadzie-s-arasidovou-omackou.webp",
+      "sourceFile": "hovadzie-maso-s-arasidovou-omackou.png",
+      "sourcePath": "assets/menu-originals-wolt/hovadzie-maso-s-arasidovou-omackou.png",
+      "basis": "Wolt photo of \"Hovädzie mäso s arašídovou omáčkou\" + exact filename (photo visibly shows beef)",
+      "sharedOnWoltWith": [
+        "Bravčové mäso pikantné",
+        "Hovädzie na kari",
+        "Hovädzie so zeleninou"
+      ],
+      "samePhotoAs": [
+        "Hovädzie so zeleninou",
+        "Hovädzie na kari"
+      ]
+    },
+    {
+      "id": "menu-045",
+      "nameSk": "Hovädzie s mangovou omáčkou",
+      "image": "/menu/wolt/menu-045-hovadzie-s-mangovou-omackou.webp",
+      "sourceFile": "hovadzie-maso-s-mango-omackou.png",
+      "sourcePath": "assets/menu-originals-wolt/hovadzie-maso-s-mango-omackou.png",
+      "basis": "Wolt photo of \"Hovädzie mäso s mango omáčkou\" + exact filename"
+    },
+    {
+      "id": "menu-046",
+      "nameSk": "Hovädzie na kari",
+      "image": "/menu/wolt/menu-046-hovadzie-na-kari.webp",
+      "sourceFile": "hovadzie-na-curry.png",
+      "sourcePath": "assets/menu-originals-wolt/hovadzie-na-curry.png",
+      "basis": "Wolt photo of \"Hovädzie na curry\" + exact filename (photo visibly shows beef)",
+      "sharedOnWoltWith": [
+        "Bravčové mäso pikantné",
+        "Hovädzie s arašidovou omáčkou",
+        "Hovädzie so zeleninou"
+      ],
+      "samePhotoAs": [
+        "Hovädzie so zeleninou",
+        "Hovädzie s arašidovou omáčkou"
+      ]
+    },
+    {
+      "id": "menu-047",
+      "nameSk": "Bravčové so zeleninou",
+      "image": "/menu/wolt/menu-047-bravcove-so-zeleninou.webp",
+      "sourceFile": "bravcove-so-zeleninou.png",
+      "sourcePath": "assets/menu-originals-wolt/bravcove-so-zeleninou.png",
+      "basis": "Wolt photo of \"Bravčové so zeleninou\" + exact filename",
+      "samePhotoAs": [
+        "Bravčové mäso pikantné"
+      ]
+    },
+    {
+      "id": "menu-048",
+      "nameSk": "Bravčové mäso pikantné",
+      "image": "/menu/wolt/menu-048-bravcove-maso-pikantne.webp",
+      "sourceFile": "bravcove-maso-pikantne.png",
+      "sourcePath": "assets/menu-originals-wolt/bravcove-maso-pikantne.png",
+      "basis": "exact filename; the photo is Wolt's photo of \"Bravčové so zeleninou\" (same protein, category and ingredient list)",
+      "samePhotoAs": [
+        "Bravčové so zeleninou"
+      ]
+    },
+    {
+      "id": "menu-049",
+      "nameSk": "Bravčové na kari",
+      "image": "/menu/wolt/menu-049-bravcove-na-kari.webp",
+      "sourceFile": "bravcove-na-kari.png",
+      "sourcePath": "assets/menu-originals-wolt/bravcove-na-kari.png",
+      "basis": "Wolt photo of \"Bravčové na kari\" + exact filename"
+    },
+    {
+      "id": "menu-050",
+      "nameSk": "Bravčové s mangovou omáčkou",
+      "image": "/menu/wolt/menu-050-bravcove-s-mangovou-omackou.webp",
+      "sourceFile": "bravcove-s-mango-omackou.png",
+      "sourcePath": "assets/menu-originals-wolt/bravcove-s-mango-omackou.png",
+      "basis": "Wolt photo of \"Bravčové s mango omáčkou\" + exact filename"
+    },
+    {
+      "id": "menu-054",
+      "nameSk": "Kuracie tempura",
+      "image": "/menu/wolt/menu-054-kuracie-tempura.webp",
+      "sourceFile": "kuracie-tempura.png",
+      "sourcePath": "assets/menu-originals-wolt/kuracie-tempura.png",
+      "basis": "Wolt photo of \"Kuracie tempura\" + exact filename"
+    },
+    {
+      "id": "menu-056",
+      "nameSk": "Chrumkavá kačica",
+      "image": "/menu/wolt/menu-056-chrumkava-kacica.webp",
+      "sourceFile": "chrumkava-kacica.png",
+      "sourcePath": "assets/menu-originals-wolt/chrumkava-kacica.png",
+      "basis": "Wolt photo of \"Chrumkavá kačica\" + exact filename"
+    },
+    {
+      "id": "menu-057",
+      "nameSk": "Chrumkavé kura",
+      "image": "/menu/wolt/menu-057-chrumkave-kura.webp",
+      "sourceFile": "chrumkave-kura.png",
+      "sourcePath": "assets/menu-originals-wolt/chrumkave-kura.png",
+      "basis": "Wolt photo of \"Chrumkavé kura\" + exact filename"
+    },
+    {
+      "id": "menu-058",
+      "nameSk": "Syr s hranolkami",
+      "image": "/menu/wolt/menu-058-syr-s-hranolkami.webp",
+      "sourceFile": "syr-s-hranolkami.png",
+      "sourcePath": "assets/menu-originals-wolt/syr-s-hranolkami.png",
+      "basis": "Wolt photo of \"Syr s hranolkami\" + exact filename"
+    },
+    {
+      "id": "menu-059",
+      "nameSk": "Kuracie medailónky",
+      "image": "/menu/wolt/menu-059-kuracie-medailonky.webp",
+      "sourceFile": "kuracie-medailonky.png",
+      "sourcePath": "assets/menu-originals-wolt/kuracie-medailonky.png",
+      "basis": "Wolt photo of \"Kuracie medailónky\" + exact filename"
+    },
+    {
+      "id": "menu-061",
+      "nameSk": "Tofu s mangovou omáčkou",
+      "image": "/menu/wolt/menu-061-tofu-s-mangovou-omackou.webp",
+      "sourceFile": "tofu-s-mango-omackou.png",
+      "sourcePath": "assets/menu-originals-wolt/tofu-s-mango-omackou.png",
+      "basis": "Wolt photo of \"Tofu s mango omáčkou\" + exact filename"
+    },
+    {
+      "id": "menu-062",
+      "nameSk": "Tofu na kari",
+      "image": "/menu/wolt/menu-062-tofu-na-kari.webp",
+      "sourceFile": "tofu-na-curry.png",
+      "sourcePath": "assets/menu-originals-wolt/tofu-na-curry.png",
+      "basis": "Wolt photo of \"Tofu na curry\" + exact filename"
+    },
+    {
+      "id": "menu-063",
+      "nameSk": "Tofu s fazuľou",
+      "image": "/menu/wolt/menu-063-tofu-s-fazulou.webp",
+      "sourceFile": "tofu-s-fazulou.png",
+      "sourcePath": "assets/menu-originals-wolt/tofu-s-fazulou.png",
+      "basis": "Wolt photo of \"Tofu s fazuľou\" + exact filename",
+      "sharedOnWoltWith": [
+        "Tofu so zeleninou",
+        "Tofu s klíčkami"
+      ],
+      "samePhotoAs": [
+        "Tofu s klíčkami",
+        "Tofu so zeleninou"
+      ]
+    },
+    {
+      "id": "menu-064",
+      "nameSk": "Tofu s klíčkami",
+      "image": "/menu/wolt/menu-064-tofu-s-klickami.webp",
+      "sourceFile": "tofu-s-klickami.png",
+      "sourcePath": "assets/menu-originals-wolt/tofu-s-klickami.png",
+      "basis": "Wolt photo of \"Tofu s klíčkami\" + exact filename",
+      "sharedOnWoltWith": [
+        "Tofu so zeleninou",
+        "Tofu s fazuľou"
+      ],
+      "samePhotoAs": [
+        "Tofu s fazuľou",
+        "Tofu so zeleninou"
+      ]
+    },
+    {
+      "id": "menu-065",
+      "nameSk": "Tofu so zeleninou",
+      "image": "/menu/wolt/menu-065-tofu-so-zeleninou.webp",
+      "sourceFile": "tofu-s-zeleninou.png",
+      "sourcePath": "assets/menu-originals-wolt/tofu-s-zeleninou.png",
+      "basis": "Wolt photo of \"Tofu so zeleninou\" + exact filename",
+      "sharedOnWoltWith": [
+        "Tofu s klíčkami",
+        "Tofu s fazuľou"
+      ],
+      "samePhotoAs": [
+        "Tofu s fazuľou",
+        "Tofu s klíčkami"
+      ]
+    },
+    {
+      "id": "menu-066",
+      "nameSk": "Krevety s klíčkami",
+      "image": "/menu/wolt/menu-066-krevety-s-klickami.webp",
+      "sourceFile": "krevety-s-klickami.png",
+      "sourcePath": "assets/menu-originals-wolt/krevety-s-klickami.png",
+      "basis": "Wolt photo of \"Krevety s klíčkami\" + exact filename",
+      "sharedOnWoltWith": [
+        "Krevety so zeleninou",
+        "Krevety s fazuľou"
+      ],
+      "samePhotoAs": [
+        "Krevety s fazuľou",
+        "Krevety so zeleninou"
+      ]
+    },
+    {
+      "id": "menu-067",
+      "nameSk": "Krevety s fazuľou",
+      "image": "/menu/wolt/menu-067-krevety-s-fazulou.webp",
+      "sourceFile": "krevety-s-fazolou.png",
+      "sourcePath": "assets/menu-originals-wolt/krevety-s-fazolou.png",
+      "basis": "Wolt photo of \"Krevety s fazuľou\" + exact filename",
+      "sharedOnWoltWith": [
+        "Krevety so zeleninou",
+        "Krevety s klíčkami"
+      ],
+      "samePhotoAs": [
+        "Krevety s klíčkami",
+        "Krevety so zeleninou"
+      ]
+    },
+    {
+      "id": "menu-068",
+      "nameSk": "Krevety so zeleninou",
+      "image": "/menu/wolt/menu-068-krevety-so-zeleninou.webp",
+      "sourceFile": "krevety-so-zeleninou.png",
+      "sourcePath": "assets/menu-originals-wolt/krevety-so-zeleninou.png",
+      "basis": "Wolt photo of \"Krevety so zeleninou\" + exact filename",
+      "sharedOnWoltWith": [
+        "Krevety s klíčkami",
+        "Krevety s fazuľou"
+      ],
+      "samePhotoAs": [
+        "Krevety s klíčkami",
+        "Krevety s fazuľou"
+      ]
+    },
+    {
+      "id": "menu-069",
+      "nameSk": "Obaľované krevety",
+      "image": "/menu/wolt/menu-069-obalovane-krevety.webp",
+      "sourceFile": "obalovane-krevety.png",
+      "sourcePath": "assets/menu-originals-wolt/obalovane-krevety.png",
+      "basis": "Wolt photo of \"Obaľované krevety\" + exact filename"
+    },
+    {
+      "id": "menu-070",
+      "nameSk": "Krevety na kari",
+      "image": "/menu/wolt/menu-070-krevety-na-kari.webp",
+      "sourceFile": "krevety-na-curry.png",
+      "sourcePath": "assets/menu-originals-wolt/krevety-na-curry.png",
+      "basis": "Wolt photo of \"Krevety na curry\" + exact filename"
+    },
+    {
+      "id": "menu-075",
+      "nameSk": "Opekané ryžové rezance s hovädzím mäsom",
+      "image": "/menu/wolt/menu-075-opekane-ryzove-rezance-s-hovadzim-masom.webp",
+      "sourceFile": "opekane-ryzove-rezance-s-hovadzim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Opekané ryžové rezance s hovädzím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-076",
+      "nameSk": "Opekané ryžové rezance s kačacím mäsom",
+      "image": "/menu/wolt/menu-076-opekane-ryzove-rezance-s-kacacim-masom.webp",
+      "sourceFile": "opekane-ryzove-rezance-s-kacacim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-kacacim-masom.png",
+      "basis": "Wolt photo of \"Opekané ryžové rezance s kačacím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-077",
+      "nameSk": "Opekané ryžové rezance s krevetami",
+      "image": "/menu/wolt/menu-077-opekane-ryzove-rezance-s-krevetami.webp",
+      "sourceFile": "opekane-ryzove-rezance-s-krevetami.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-krevetami.png",
+      "basis": "Wolt photo of \"Opekané ryžové rezance s krevetami\" + exact filename"
+    },
+    {
+      "id": "menu-078",
+      "nameSk": "Opekané ryžové rezance s kuracím mäsom",
+      "image": "/menu/wolt/menu-078-opekane-ryzove-rezance-s-kuracim-masom.webp",
+      "sourceFile": "opekane-ryzove-rezance-s-kuracim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Opekané ryžové rezance s kuracím mäsom\" + exact filename",
+      "sharedOnWoltWith": [
+        "Opekané ryžové rezance"
+      ]
+    },
+    {
+      "id": "menu-079",
+      "nameSk": "Opekané ryžové rezance s tofu",
+      "image": "/menu/wolt/menu-079-opekane-ryzove-rezance-s-tofu.webp",
+      "sourceFile": "opekane-ryzove-rezance-s-tofu.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-tofu.png",
+      "basis": "Wolt photo of \"Opekané ryžové rezance s tofu\" + exact filename",
+      "sharedOnWoltWith": [
+        "Ryžové rezance so zeleninou"
+      ]
+    },
+    {
+      "id": "menu-080",
+      "nameSk": "Opekané rezance s hovädzím mäsom",
+      "image": "/menu/wolt/menu-080-opekane-rezance-s-hovadzim-masom.webp",
+      "sourceFile": "opekane-rezance-s-hovadzim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-rezance-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Opekané rezance s hovädzím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-081",
+      "nameSk": "Opekané rezance s kačacím mäsom",
+      "image": "/menu/wolt/menu-081-opekane-rezance-s-kacacim-masom.webp",
+      "sourceFile": "opekane-rezance-s-kacacim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-rezance-s-kacacim-masom.png",
+      "basis": "Wolt photo of \"Opekané rezance s kačacím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-082",
+      "nameSk": "Opekané rezance s krevetami",
+      "image": "/menu/wolt/menu-082-opekane-rezance-s-krevetami.webp",
+      "sourceFile": "opekane-rezance-s-krevetami.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-rezance-s-krevetami.png",
+      "basis": "Wolt photo of \"Opekané rezance s krevetami\" + exact filename"
+    },
+    {
+      "id": "menu-083",
+      "nameSk": "Opekané rezance s kuracím mäsom",
+      "image": "/menu/wolt/menu-083-opekane-rezance-s-kuracim-masom.webp",
+      "sourceFile": "opekane-rezance-s-kuracim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-rezance-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Opekané rezance s kuracím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-084",
+      "nameSk": "Opekané rezance s tofu",
+      "image": "/menu/wolt/menu-084-opekane-rezance-s-tofu.webp",
+      "sourceFile": "opekane-rezance-s-tofu.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-rezance-s-tofu.png",
+      "basis": "Wolt photo of \"Opekané rezance s tofu\" + exact filename"
+    },
+    {
+      "id": "menu-085",
+      "nameSk": "Rizoto s jazmínovou ryžou a hovädzím mäsom",
+      "image": "/menu/wolt/menu-085-rizoto-s-jazminovou-ryzou-a-hovadzim-masom.webp",
+      "sourceFile": "rizoto-s-hovadzim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/rizoto-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Rizoto s hovädzím mäsom\""
+    },
+    {
+      "id": "menu-086",
+      "nameSk": "Rizoto s jazmínovou ryžou a kačacím mäsom",
+      "image": "/menu/wolt/menu-086-rizoto-s-jazminovou-ryzou-a-kacacim-masom.webp",
+      "sourceFile": "rizoto-s-kacacim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/rizoto-s-kacacim-masom.png",
+      "basis": "Wolt photo of \"Rizoto s kačacím mäsom\""
+    },
+    {
+      "id": "menu-087",
+      "nameSk": "Rizoto s jazmínovou ryžou a krevetami",
+      "image": "/menu/wolt/menu-087-rizoto-s-jazminovou-ryzou-a-krevetami.webp",
+      "sourceFile": "rizoto-s-krevetami.png",
+      "sourcePath": "assets/menu-originals-wolt/rizoto-s-krevetami.png",
+      "basis": "Wolt photo of \"Rizoto s krevetami\""
+    },
+    {
+      "id": "menu-088",
+      "nameSk": "Rizoto s jazmínovou ryžou a kuracím mäsom",
+      "image": "/menu/wolt/menu-088-rizoto-s-jazminovou-ryzou-a-kuracim-masom.webp",
+      "sourceFile": "rizoto-s-kuracim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/rizoto-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Rizoto s kuracím mäsom\""
+    },
+    {
+      "id": "menu-089",
+      "nameSk": "Rizoto s jazmínovou ryžou a tofu",
+      "image": "/menu/wolt/menu-089-rizoto-s-jazminovou-ryzou-a-tofu.webp",
+      "sourceFile": "rizoto-s-tofu.png",
+      "sourcePath": "assets/menu-originals-wolt/rizoto-s-tofu.png",
+      "basis": "Wolt photo of \"Rizoto s tofu\""
+    },
+    {
+      "id": "menu-090",
+      "nameSk": "Opekané sklenené rezance s hovädzím mäsom",
+      "image": "/menu/wolt/menu-090-opekane-sklenene-rezance-s-hovadzim-masom.webp",
+      "sourceFile": "opekane-sklenene-rezance-s-hovadzim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-sklenene-rezance-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Opekané sklenené rezance s hovädzím mäsom\" + exact filename (photo visibly shows beef)",
+      "sharedOnWoltWith": [
+        "Opekané sklenené rezance s kačacím mäsom"
+      ]
+    },
+    {
+      "id": "menu-092",
+      "nameSk": "Opekané sklenené rezance s krevetami",
+      "image": "/menu/wolt/menu-092-opekane-sklenene-rezance-s-krevetami.webp",
+      "sourceFile": "opekane-sklenene-rezance-s-krevetami.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-sklenene-rezance-s-krevetami.png",
+      "basis": "Wolt photo of \"Opekané sklenené rezance s krevetami\" + exact filename"
+    },
+    {
+      "id": "menu-093",
+      "nameSk": "Opekané sklenené rezance s kuracím mäsom",
+      "image": "/menu/wolt/menu-093-opekane-sklenene-rezance-s-kuracim-masom.webp",
+      "sourceFile": "opekane-sklenene-rezance-s-kuracim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-sklenene-rezance-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Opekané sklenené rezance s kuracím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-094",
+      "nameSk": "Opekané sklenené rezance s tofu",
+      "image": "/menu/wolt/menu-094-opekane-sklenene-rezance-s-tofu.webp",
+      "sourceFile": "opekane-sklenene-rezance-s-tofu.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-sklenene-rezance-s-tofu.png",
+      "basis": "Wolt photo of \"Opekané sklenené rezance s tofu\" + exact filename"
+    },
+    {
+      "id": "menu-095",
+      "nameSk": "Udon rezance so zeleninou",
+      "image": "/menu/wolt/menu-095-udon-rezance-so-zeleninou.webp",
+      "sourceFile": "udon-rezance-so-zeleninou.png",
+      "sourcePath": "assets/menu-originals-wolt/udon-rezance-so-zeleninou.png",
+      "basis": "Wolt photo of \"Udon rezance so zeleninou\" + exact filename"
+    },
+    {
+      "id": "menu-096",
+      "nameSk": "Vaječné rezance so zeleninou",
+      "image": "/menu/wolt/menu-096-vajecne-rezance-so-zeleninou.webp",
+      "sourceFile": "vajecne-rezance-so-zeleninou.png",
+      "sourcePath": "assets/menu-originals-wolt/vajecne-rezance-so-zeleninou.png",
+      "basis": "Wolt photo of \"Vaječné rezance so zeleninou\" + exact filename"
+    },
+    {
+      "id": "menu-097",
+      "nameSk": "Ryžové rezance so zeleninou",
+      "image": "/menu/wolt/menu-097-ryzove-rezance-so-zeleninou.webp",
+      "sourceFile": "ryzove-rezance-so-zeleninou.png",
+      "sourcePath": "assets/menu-originals-wolt/ryzove-rezance-so-zeleninou.png",
+      "basis": "Wolt photo of \"Ryžové rezance so zeleninou\" + exact filename",
+      "sharedOnWoltWith": [
+        "Opekané ryžové rezance s tofu"
+      ]
+    },
+    {
+      "id": "menu-098",
+      "nameSk": "Sklenené rezance so zeleninou",
+      "image": "/menu/wolt/menu-098-sklenene-rezance-so-zeleninou.webp",
+      "sourceFile": "skelenene-rezance-so-zeleninou.png",
+      "sourcePath": "assets/menu-originals-wolt/skelenene-rezance-so-zeleninou.png",
+      "basis": "Wolt photo of \"Sklenené rezance so zeleninou\" + exact filename"
+    },
+    {
+      "id": "menu-099",
+      "nameSk": "Opekané udon rezance s hovädzím mäsom",
+      "image": "/menu/wolt/menu-099-opekane-udon-rezance-s-hovadzim-masom.webp",
+      "sourceFile": "opekane-udon-rezance-s-hovadzim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-udon-rezance-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Opekané udon rezance s hovädzím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-100",
+      "nameSk": "Opekané udon rezance s kačacím mäsom",
+      "image": "/menu/wolt/menu-100-opekane-udon-rezance-s-kacacim-masom.webp",
+      "sourceFile": "opekane-udon-rezance-s-kacacim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-udon-rezance-s-kacacim-masom.png",
+      "basis": "Wolt photo of \"Opekané udon rezance s kačacím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-102",
+      "nameSk": "Opekané udon rezance s kuracím mäsom",
+      "image": "/menu/wolt/menu-102-opekane-udon-rezance-s-kuracim-masom.webp",
+      "sourceFile": "opekane-udon-rezance-s-kuracim-masom.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-udon-rezance-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Opekané udon rezance s kuracím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-103",
+      "nameSk": "Opekané udon rezance s tofu",
+      "image": "/menu/wolt/menu-103-opekane-udon-rezance-s-tofu.webp",
+      "sourceFile": "opekane-udon-rezance-s-tofu.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-udon-rezance-s-tofu.png",
+      "basis": "Wolt photo of \"Opekané udon rezance s tofu\" + exact filename"
+    },
+    {
+      "id": "menu-104",
+      "nameSk": "Ryža",
+      "image": "/menu/wolt/menu-104-ryza.webp",
+      "sourceFile": "ryza.png",
+      "sourcePath": "assets/menu-originals-wolt/ryza.png",
+      "basis": "Wolt photo of \"Ryža\" + exact filename"
+    },
+    {
+      "id": "menu-105",
+      "nameSk": "Hranolky",
+      "image": "/menu/wolt/menu-105-hranolky.webp",
+      "sourceFile": "hranolky.png",
+      "sourcePath": "assets/menu-originals-wolt/hranolky.png",
+      "basis": "Wolt photo of \"Hranolky\" + exact filename"
+    },
+    {
+      "id": "menu-106",
+      "nameSk": "Zemiaky",
+      "image": "/menu/wolt/menu-106-zemiaky.webp",
+      "sourceFile": "zemiaky.png",
+      "sourcePath": "assets/menu-originals-wolt/zemiaky.png",
+      "basis": "Wolt photo of \"Zemiaky\" + exact filename"
+    },
+    {
+      "id": "menu-107",
+      "nameSk": "Opekané rezance",
+      "image": "/menu/wolt/menu-107-opekane-rezance.webp",
+      "sourceFile": "opekane-rezance.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-rezance.png",
+      "basis": "Wolt photo of \"Opekané rezance\" + exact filename"
+    },
+    {
+      "id": "menu-108",
+      "nameSk": "Rizoto",
+      "image": "/menu/wolt/menu-108-rizoto.webp",
+      "sourceFile": "rizoto.png",
+      "sourcePath": "assets/menu-originals-wolt/rizoto.png",
+      "basis": "Wolt photo of \"Rizoto\" + exact filename"
+    },
+    {
+      "id": "menu-109",
+      "nameSk": "Opekané ryžové rezance",
+      "image": "/menu/wolt/menu-109-opekane-ryzove-rezance.webp",
+      "sourceFile": "opekane-ryzove-rezance.png",
+      "sourcePath": "assets/menu-originals-wolt/opekane-ryzove-rezance.png",
+      "basis": "Wolt photo of \"Opekané ryžové rezance\" + exact filename",
+      "sharedOnWoltWith": [
+        "Opekané ryžové rezance s kuracím mäsom"
+      ]
+    },
+    {
+      "id": "sushi-sake-futomaki-5",
+      "nameSk": "Sake futomaki",
+      "image": "/menu/wolt/sushi-sake-futomaki-5-sake-futomaki.webp",
+      "sourceFile": "sake-futomaki-5ks.png",
+      "sourcePath": "assets/menu-originals-wolt/sake-futomaki-5ks.png",
+      "basis": "Wolt photo of \"Sake futomaki 5ks\""
+    },
+    {
+      "id": "sushi-sake-futomaki-10",
+      "nameSk": "Sake futomaki",
+      "image": "/menu/wolt/sushi-sake-futomaki-10-sake-futomaki.webp",
+      "sourceFile": "sake-futomaki-5ks.png",
+      "sourcePath": "assets/menu-originals-wolt/sake-futomaki-5ks.png",
+      "basis": "Wolt photo of \"Sake futomaki 10ks\""
+    },
+    {
+      "id": "sushi-ebi-tempura-5",
+      "nameSk": "Ebi tempura",
+      "image": "/menu/wolt/sushi-ebi-tempura-5-ebi-tempura.webp",
+      "sourceFile": "ebi-tempura.png",
+      "sourcePath": "assets/menu-originals-wolt/ebi-tempura.png",
+      "basis": "Wolt photo of \"Ebi tempura 5ks\" + exact filename"
+    },
+    {
+      "id": "sushi-ebi-tempura-10",
+      "nameSk": "Ebi tempura",
+      "image": "/menu/wolt/sushi-ebi-tempura-10-ebi-tempura.webp",
+      "sourceFile": "ebi-tempura.png",
+      "sourcePath": "assets/menu-originals-wolt/ebi-tempura.png",
+      "basis": "Wolt photo of \"Ebi tempura 10ks\" + exact filename"
+    },
+    {
+      "id": "sushi-tamago-tempura-5",
+      "nameSk": "Tamago tempura",
+      "image": "/menu/wolt/sushi-tamago-tempura-5-tamago-tempura.webp",
+      "sourceFile": "tamago-tempura.png",
+      "sourcePath": "assets/menu-originals-wolt/tamago-tempura.png",
+      "basis": "Wolt photo of \"Tamago tempura 5ks\" + exact filename"
+    },
+    {
+      "id": "sushi-tamago-tempura-10",
+      "nameSk": "Tamago tempura",
+      "image": "/menu/wolt/sushi-tamago-tempura-10-tamago-tempura.webp",
+      "sourceFile": "tamago-tempura.png",
+      "sourcePath": "assets/menu-originals-wolt/tamago-tempura.png",
+      "basis": "Wolt photo of \"Tamago tempura 10ks\" + exact filename"
+    },
+    {
+      "id": "sushi-sake-nigiri-3",
+      "nameSk": "Sake nigiri",
+      "image": "/menu/wolt/sushi-sake-nigiri-3-sake-nigiri.webp",
+      "sourceFile": "sake-nigiri.png",
+      "sourcePath": "assets/menu-originals-wolt/sake-nigiri.png",
+      "basis": "Wolt photo of \"Sake nigiri 3ks\" + exact filename"
+    },
+    {
+      "id": "sushi-sake-nigiri-6",
+      "nameSk": "Sake nigiri",
+      "image": "/menu/wolt/sushi-sake-nigiri-6-sake-nigiri.webp",
+      "sourceFile": "sake-nigiri.png",
+      "sourcePath": "assets/menu-originals-wolt/sake-nigiri.png",
+      "basis": "Wolt photo of \"Sake nigiri 6ks\" + exact filename"
+    },
+    {
+      "id": "sushi-ebi-nigiri-3",
+      "nameSk": "Ebi nigiri",
+      "image": "/menu/wolt/sushi-ebi-nigiri-3-ebi-nigiri.webp",
+      "sourceFile": "ebi-nigiri.png",
+      "sourcePath": "assets/menu-originals-wolt/ebi-nigiri.png",
+      "basis": "Wolt photo of \"Ebi nigiri 3ks\" + exact filename"
+    },
+    {
+      "id": "sushi-ebi-nigiri-6",
+      "nameSk": "Ebi nigiri",
+      "image": "/menu/wolt/sushi-ebi-nigiri-6-ebi-nigiri.webp",
+      "sourceFile": "ebi-nigiri.png",
+      "sourcePath": "assets/menu-originals-wolt/ebi-nigiri.png",
+      "basis": "Wolt photo of \"Ebi nigiri 6ks\" + exact filename"
+    },
+    {
+      "id": "sushi-sake-maki-6",
+      "nameSk": "Sake maki",
+      "image": "/menu/wolt/sushi-sake-maki-6-sake-maki.webp",
+      "sourceFile": "sake-maki.png",
+      "sourcePath": "assets/menu-originals-wolt/sake-maki.png",
+      "basis": "visual: 6 pieces visible = in-store 6 ks (Wolt labels the photo for its 8 ks SKU)"
+    },
+    {
+      "id": "sushi-sake-maki-12",
+      "nameSk": "Sake maki",
+      "image": "/menu/wolt/sushi-sake-maki-6-sake-maki.webp",
+      "sourceFile": "sake-maki.png",
+      "sourcePath": "assets/menu-originals-wolt/sake-maki.png",
+      "basis": "same card as the 6 ks variant",
+      "sharedWithVariant": "sushi-sake-maki-6"
+    },
+    {
+      "id": "sushi-california-futomaki-5",
+      "nameSk": "California futomaki",
+      "image": "/menu/wolt/sushi-california-futomaki-5-california-futomaki.webp",
+      "sourceFile": "california-futomaki.png",
+      "sourcePath": "assets/menu-originals-wolt/california-futomaki.png",
+      "basis": "Wolt photo of \"California futomaki 5ks\" + exact filename"
+    },
+    {
+      "id": "sushi-california-futomaki-10",
+      "nameSk": "California futomaki",
+      "image": "/menu/wolt/sushi-california-futomaki-5-california-futomaki.webp",
+      "sourceFile": "california-futomaki.png",
+      "sourcePath": "assets/menu-originals-wolt/california-futomaki.png",
+      "basis": "same card as the 5 ks variant",
+      "sharedWithVariant": "sushi-california-futomaki-5"
+    },
+    {
+      "id": "sushi-set-1",
+      "nameSk": "Set 1",
+      "image": "/menu/wolt/sushi-set-1-set-1.webp",
+      "sourceFile": "set1.png",
+      "sourcePath": "assets/menu-originals-wolt/set1.png",
+      "basis": "Wolt photo of \"Set 1\" + exact filename"
+    },
+    {
+      "id": "sushi-set-2",
+      "nameSk": "Set 2",
+      "image": "/menu/wolt/sushi-set-2-set-2.webp",
+      "sourceFile": "set2.png",
+      "sourcePath": "assets/menu-originals-wolt/set2.png",
+      "basis": "Wolt photo of \"Set 2\" + exact filename"
+    },
+    {
+      "id": "sushi-set-3",
+      "nameSk": "Set 3",
+      "image": "/menu/wolt/sushi-set-3-set-3.webp",
+      "sourceFile": "set3.png",
+      "sourcePath": "assets/menu-originals-wolt/set3.png",
+      "basis": "Wolt photo of \"Set 3\" + exact filename"
+    },
+    {
+      "id": "sushi-set-4",
+      "nameSk": "Set 4",
+      "image": "/menu/wolt/sushi-set-4-set-4.webp",
+      "sourceFile": "set4.png",
+      "sourcePath": "assets/menu-originals-wolt/set4.png",
+      "basis": "Wolt photo of \"Set 4\" + exact filename"
+    },
+    {
+      "id": "sushi-set-5",
+      "nameSk": "Set 5",
+      "image": "/menu/wolt/sushi-set-5-set-5.webp",
+      "sourceFile": "set5.png",
+      "sourcePath": "assets/menu-originals-wolt/set5.png",
+      "basis": "exact filename; photo is not in the current Wolt listing (content checked visually)"
+    },
+    {
+      "id": "sushi-set-6",
+      "nameSk": "Set 6",
+      "image": "/menu/wolt/sushi-set-6-set-6.webp",
+      "sourceFile": "set6.png",
+      "sourcePath": "assets/menu-originals-wolt/set6.png",
+      "basis": "Wolt photo of \"Set 6\" + exact filename"
+    },
+    {
+      "id": "poke-tofu",
+      "nameSk": "Tofu poke bowl",
+      "image": "/menu/wolt/poke-tofu-tofu-poke-bowl.webp",
+      "sourceFile": "tofu-wok.png",
+      "sourcePath": "assets/menu-originals-wolt/tofu-wok.png",
+      "basis": "Wolt photo of \"Tofu\""
+    },
+    {
+      "id": "poke-chicken",
+      "nameSk": "Kuracie tempura poke bowl",
+      "image": "/menu/wolt/poke-chicken-kuracie-tempura-poke-bowl.webp",
+      "sourceFile": "kuracie-tempura-wok.png",
+      "sourcePath": "assets/menu-originals-wolt/kuracie-tempura-wok.png",
+      "basis": "Wolt photo of \"Kuracie tempura\""
+    },
+    {
+      "id": "poke-salmon",
+      "nameSk": "Losos poke bowl",
+      "image": "/menu/wolt/poke-salmon-losos-poke-bowl.webp",
+      "sourceFile": "losos-wok.png",
+      "sourcePath": "assets/menu-originals-wolt/losos-wok.png",
+      "basis": "Wolt photo of \"Losos\""
+    }
+  ],
+  "items": [
+    {
+      "id": "menu-001",
+      "nameSk": "Vývar",
+      "status": "assigned",
+      "file": "vyvar.png",
+      "basis": "Wolt photo of \"Vývar\" + exact filename"
+    },
+    {
+      "id": "menu-002",
+      "nameSk": "Tomyum s kuracím mäsom",
+      "status": "assigned",
+      "file": "tomyum-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Tomyum s kuracím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-003",
+      "nameSk": "Tomyum s krevetami",
+      "status": "review_ambiguous_protein",
+      "basis": "Wolt uses one photo (tomyum-s-krevetkami.png) for Tomyum s krevetami and Tomyum s tofu — the protein cannot be identified from the photo"
+    },
+    {
+      "id": "menu-004",
+      "nameSk": "Tomyum s tofu",
+      "status": "review_ambiguous_protein",
+      "basis": "Wolt uses one photo (tomyum-s-tofu.png) for Tomyum s tofu and Tomyum s krevetami — the protein cannot be identified from the photo"
+    },
+    {
+      "id": "menu-005",
+      "nameSk": "Ostrokyslá polievka",
+      "status": "assigned",
+      "file": "ostrokysla.png",
+      "basis": "Wolt photo of \"Ostrokyslá\" + exact filename"
+    },
+    {
+      "id": "menu-006",
+      "nameSk": "Bambusová polievka",
+      "status": "assigned",
+      "file": "bambusova.png",
+      "basis": "Wolt photo of \"Bambusová\" + exact filename"
+    },
+    {
+      "id": "menu-007",
+      "nameSk": "Hovädzia polievka",
+      "status": "rejected_wrong_photo",
+      "basis": "hovadzia-polievka.png is Wolt's photo of \"Bambusová\", not of this dish"
+    },
+    {
+      "id": "menu-008",
+      "nameSk": "Kuracia polievka",
+      "status": "assigned",
+      "file": "kuracia-polievka.png",
+      "basis": "Wolt photo of \"Kuracia polievka\" + exact filename"
+    },
+    {
+      "id": "menu-009",
+      "nameSk": "Krevetová polievka",
+      "status": "assigned",
+      "file": "krevetova-polievka.png",
+      "basis": "Wolt photo of \"Krevetová polievka\" + exact filename",
+      "sharedWith": [
+        "Miến polievka s krevetami"
+      ]
+    },
+    {
+      "id": "menu-010",
+      "nameSk": "Tofu polievka",
+      "status": "assigned",
+      "file": "bun-polievka-s-tofu.png",
+      "basis": "Wolt photo of \"Tofu polievka\"",
+      "sharedWith": [
+        "Bún polievka s tofu",
+        "Miến polievka s tofu"
+      ]
+    },
+    {
+      "id": "menu-011",
+      "nameSk": "Bún polievka s hovädzím mäsom",
+      "status": "assigned",
+      "file": "bun-polievka-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Bún polievka s hovädzím mäsom\" + exact filename",
+      "sharedWith": [
+        "Miến polievka s hovädzím mäsom"
+      ]
+    },
+    {
+      "id": "menu-012",
+      "nameSk": "Bún polievka s krevetami",
+      "status": "assigned",
+      "file": "bun-polievka-s-krevetkami.png",
+      "basis": "Wolt photo of \"Bún polievka s krevetami\" + exact filename"
+    },
+    {
+      "id": "menu-013",
+      "nameSk": "Bún polievka s kuracím mäsom",
+      "status": "assigned",
+      "file": "bun-polievka-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Bún polievka s kuracím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-014",
+      "nameSk": "Bún polievka s tofu",
+      "status": "assigned",
+      "file": "bun-polievka-s-tofu.png",
+      "basis": "Wolt photo of \"Bún polievka s tofu\" + exact filename",
+      "sharedWith": [
+        "Tofu polievka",
+        "Miến polievka s tofu"
+      ]
+    },
+    {
+      "id": "menu-015",
+      "nameSk": "Miến polievka s hovädzím mäsom",
+      "status": "assigned",
+      "file": "mien-polievka-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Mien polievka s hovädzím mäsom\" + exact filename",
+      "sharedWith": [
+        "Bún polievka s hovädzím mäsom"
+      ]
+    },
+    {
+      "id": "menu-016",
+      "nameSk": "Miến polievka s krevetami",
+      "status": "assigned",
+      "file": "mien-polievka-s-krevetkami.png",
+      "basis": "Wolt photo of \"Mien polievka s krevetami\" + exact filename",
+      "sharedWith": [
+        "Krevetová polievka"
+      ]
+    },
+    {
+      "id": "menu-017",
+      "nameSk": "Miến polievka s kuracím mäsom",
+      "status": "assigned",
+      "file": "mien-polievka-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Mien polievka s kuracím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-018",
+      "nameSk": "Miến polievka s tofu",
+      "status": "assigned",
+      "file": "mien-polievka-s-tofu.png",
+      "basis": "Wolt photo of \"Mien polievka s tofu\" + exact filename",
+      "sharedWith": [
+        "Bún polievka s tofu",
+        "Tofu polievka"
+      ]
+    },
+    {
+      "id": "menu-019",
+      "nameSk": "Bún bò Nam Bộ (hovädzie)",
+      "status": "assigned",
+      "file": "bun-bo-nam-bo-hovadzie.png",
+      "basis": "Wolt photo of \"Bun bo nam bo hovädzie\" + exact filename"
+    },
+    {
+      "id": "menu-020",
+      "nameSk": "Bún tôm Nam Bộ (krevety)",
+      "status": "assigned",
+      "file": "bun-tom-nam-bo-krevetove.png",
+      "basis": "Wolt photo of \"Bun tom nam bo krevetové\" + exact filename"
+    },
+    {
+      "id": "menu-021",
+      "nameSk": "Bún ngan Nam Bộ (kačacie)",
+      "status": "assigned",
+      "file": "bun-ngan-kacacie.png",
+      "basis": "Wolt photo of \"Bun ngan kačacie\""
+    },
+    {
+      "id": "menu-022",
+      "nameSk": "Bún gà Nam Bộ (kuracie)",
+      "status": "assigned",
+      "file": "bun-ga-nam-bo-kuracie.png",
+      "basis": "Wolt photo of \"Bun ga nam bo kuracie\" + exact filename"
+    },
+    {
+      "id": "menu-023",
+      "nameSk": "Bún đậu Nam Bộ (tofu)",
+      "status": "assigned",
+      "file": "bun-dau-nam-bo-tofu.png",
+      "basis": "Wolt photo of \"Bun dau nam bo tofu\" + exact filename"
+    },
+    {
+      "id": "menu-024",
+      "nameSk": "Miến bò Nam Bộ (hovädzie)",
+      "status": "assigned",
+      "file": "mien-bo-nam-bo-hovadzie.png",
+      "basis": "Wolt photo of \"Mien bo nam bo hovädzie\" + exact filename"
+    },
+    {
+      "id": "menu-025",
+      "nameSk": "Miến tôm Nam Bộ (krevety)",
+      "status": "assigned",
+      "file": "mien-tom-nam-bo-krevetove.png",
+      "basis": "Wolt photo of \"Mien tom nam bo krevetové\" + exact filename"
+    },
+    {
+      "id": "menu-026",
+      "nameSk": "Miến ngan Nam Bộ (kačacie)",
+      "status": "assigned",
+      "file": "mien-ngan-kacacie.png",
+      "basis": "Wolt photo of \"Mien ngan kačacie\""
+    },
+    {
+      "id": "menu-027",
+      "nameSk": "Miến gà Nam Bộ (kuracie)",
+      "status": "assigned",
+      "file": "mien-ga-nam-bo-kuracie.png",
+      "basis": "Wolt photo of \"Mien ga nam bo kuracie\" + exact filename"
+    },
+    {
+      "id": "menu-028",
+      "nameSk": "Miến đậu Nam Bộ (tofu)",
+      "status": "assigned",
+      "file": "mien-dau-nam-bo-tofu.png",
+      "basis": "Wolt photo of \"Mien dau nam bo tofu\" + exact filename"
+    },
+    {
+      "id": "menu-029",
+      "nameSk": "Bún nem",
+      "status": "assigned",
+      "file": "bun-nem.png",
+      "basis": "Wolt photo of \"Bun nem\" + exact filename"
+    },
+    {
+      "id": "menu-030",
+      "nameSk": "Jarné závitky (vyprážané)",
+      "status": "assigned",
+      "file": "cercstve-jarne-rolky.png",
+      "basis": "visual: photo shows 4 fried spring rolls = Jarné závitky (vyprážané) 4 ks; Wolt shows it for Čerstvé jarné rolky"
+    },
+    {
+      "id": "menu-031",
+      "nameSk": "Čerstvé jarné rolky",
+      "status": "rejected_wrong_photo",
+      "basis": "Wolt's photo for Čerstvé jarné rolky shows fried rolls, not fresh rice-paper rolls"
+    },
+    {
+      "id": "menu-032",
+      "nameSk": "Kuracie kung pao",
+      "status": "assigned",
+      "file": "kuracie-kung-pao.png",
+      "basis": "Wolt photo of \"Kuracie kung pao\" + exact filename"
+    },
+    {
+      "id": "menu-033",
+      "nameSk": "Kuracie so zeleninou",
+      "status": "assigned",
+      "file": "kuracie-so-zeleninou.png",
+      "basis": "Wolt photo of \"Kuracie so zeleninou\" + exact filename"
+    },
+    {
+      "id": "menu-034",
+      "nameSk": "Kuracie s klíčkami",
+      "status": "assigned",
+      "file": "kuracie-s-klickami.png",
+      "basis": "Wolt photo of \"Kuracie s klíčkami\" + exact filename"
+    },
+    {
+      "id": "menu-035",
+      "nameSk": "Pikantné kuracie mäso",
+      "status": "assigned",
+      "file": "pikantne-kuracie-maso.png",
+      "basis": "Wolt photo of \"Pikantné kuracie mäso\" + exact filename (photo visibly shows chicken)",
+      "sharedWith": [
+        "Hovädzie pikantné"
+      ]
+    },
+    {
+      "id": "menu-036",
+      "nameSk": "Kuracie s ananásom",
+      "status": "assigned",
+      "file": "kuracie-s-ananasom.png",
+      "basis": "Wolt photo of \"Kuracie s ananásom\" + exact filename"
+    },
+    {
+      "id": "menu-037",
+      "nameSk": "Kuracie na kari",
+      "status": "assigned",
+      "file": "kuracie-na-kari.png",
+      "basis": "Wolt photo of \"Kuracie na kari\" + exact filename"
+    },
+    {
+      "id": "menu-038",
+      "nameSk": "Kuracie s arašidovou omáčkou",
+      "status": "review_ambiguous_protein",
+      "basis": "Wolt uses one photo (kuracie-s-arasidovou-omackou.png) for Kuracie s arašidovou omáčkou and Bravčové s arašidovou omáčkou — the protein cannot be identified from the photo"
+    },
+    {
+      "id": "menu-039",
+      "nameSk": "Kuracie s mangovou omáčkou",
+      "status": "assigned",
+      "file": "kuracie-s-mangovou-omackou.png",
+      "basis": "Wolt photo of \"Kuracie s mangovou omáčkou\" + exact filename"
+    },
+    {
+      "id": "menu-040",
+      "nameSk": "Hovädzie s fazuľou",
+      "status": "assigned",
+      "file": "hovadzie-s-fazulou.png",
+      "basis": "Wolt photo of \"Hovädzie s fazuľou\" + exact filename"
+    },
+    {
+      "id": "menu-041",
+      "nameSk": "Hovädzie so zeleninou",
+      "status": "assigned",
+      "file": "hovadzie-so-zeleninou.png",
+      "basis": "Wolt photo of \"Hovädzie so zeleninou\" + exact filename (photo visibly shows beef)",
+      "sharedWith": [
+        "Bravčové mäso pikantné",
+        "Hovädzie na kari",
+        "Hovädzie s arašidovou omáčkou"
+      ]
+    },
+    {
+      "id": "menu-042",
+      "nameSk": "Hovädzie s klíčkami",
+      "status": "assigned",
+      "file": "hovadzie-s-klickami.png",
+      "basis": "Wolt photo of \"Hovädzie s klíčkami\" + exact filename"
+    },
+    {
+      "id": "menu-043",
+      "nameSk": "Hovädzie pikantné",
+      "status": "rejected_wrong_protein",
+      "basis": "Wolt shows hovadzie-pikantne.png for this dish, but the photo shows chicken"
+    },
+    {
+      "id": "menu-044",
+      "nameSk": "Hovädzie s arašidovou omáčkou",
+      "status": "assigned",
+      "file": "hovadzie-maso-s-arasidovou-omackou.png",
+      "basis": "Wolt photo of \"Hovädzie mäso s arašídovou omáčkou\" + exact filename (photo visibly shows beef)",
+      "sharedWith": [
+        "Bravčové mäso pikantné",
+        "Hovädzie na kari",
+        "Hovädzie so zeleninou"
+      ]
+    },
+    {
+      "id": "menu-045",
+      "nameSk": "Hovädzie s mangovou omáčkou",
+      "status": "assigned",
+      "file": "hovadzie-maso-s-mango-omackou.png",
+      "basis": "Wolt photo of \"Hovädzie mäso s mango omáčkou\" + exact filename"
+    },
+    {
+      "id": "menu-046",
+      "nameSk": "Hovädzie na kari",
+      "status": "assigned",
+      "file": "hovadzie-na-curry.png",
+      "basis": "Wolt photo of \"Hovädzie na curry\" + exact filename (photo visibly shows beef)",
+      "sharedWith": [
+        "Bravčové mäso pikantné",
+        "Hovädzie s arašidovou omáčkou",
+        "Hovädzie so zeleninou"
+      ]
+    },
+    {
+      "id": "menu-047",
+      "nameSk": "Bravčové so zeleninou",
+      "status": "assigned",
+      "file": "bravcove-so-zeleninou.png",
+      "basis": "Wolt photo of \"Bravčové so zeleninou\" + exact filename"
+    },
+    {
+      "id": "menu-048",
+      "nameSk": "Bravčové mäso pikantné",
+      "status": "assigned",
+      "file": "bravcove-maso-pikantne.png",
+      "basis": "exact filename; the photo is Wolt's photo of \"Bravčové so zeleninou\" (same protein, category and ingredient list)"
+    },
+    {
+      "id": "menu-049",
+      "nameSk": "Bravčové na kari",
+      "status": "assigned",
+      "file": "bravcove-na-kari.png",
+      "basis": "Wolt photo of \"Bravčové na kari\" + exact filename"
+    },
+    {
+      "id": "menu-050",
+      "nameSk": "Bravčové s mangovou omáčkou",
+      "status": "assigned",
+      "file": "bravcove-s-mango-omackou.png",
+      "basis": "Wolt photo of \"Bravčové s mango omáčkou\" + exact filename"
+    },
+    {
+      "id": "menu-051",
+      "nameSk": "Bravčové s arašidovou omáčkou",
+      "status": "review_ambiguous_protein",
+      "basis": "Wolt uses one photo (bravcove-s-arasidovou-omackou.png) for Bravčové s arašidovou omáčkou and Kuracie s arašidovou omáčkou — the protein cannot be identified from the photo"
+    },
+    {
+      "id": "menu-052",
+      "nameSk": "Kurací rezeň",
+      "status": "review_ambiguous_protein",
+      "basis": "Wolt uses one photo (kuraci-rezen.png) for Kurací rezeň and Bravčový rezeň — the protein cannot be identified from the photo"
+    },
+    {
+      "id": "menu-053",
+      "nameSk": "Bravčový rezeň",
+      "status": "review_ambiguous_protein",
+      "basis": "Wolt uses one photo (bravcovy-rezen.png) for Bravčový rezeň and Kurací rezeň — the protein cannot be identified from the photo"
+    },
+    {
+      "id": "menu-054",
+      "nameSk": "Kuracie tempura",
+      "status": "assigned",
+      "file": "kuracie-tempura.png",
+      "basis": "Wolt photo of \"Kuracie tempura\" + exact filename"
+    },
+    {
+      "id": "menu-055",
+      "nameSk": "Teriyaki kura",
+      "status": "photo_on_wolt_not_uploaded",
+      "basis": "Wolt has a photo for \"Teriyaki kura\", but it is not among the uploaded files"
+    },
+    {
+      "id": "menu-056",
+      "nameSk": "Chrumkavá kačica",
+      "status": "assigned",
+      "file": "chrumkava-kacica.png",
+      "basis": "Wolt photo of \"Chrumkavá kačica\" + exact filename"
+    },
+    {
+      "id": "menu-057",
+      "nameSk": "Chrumkavé kura",
+      "status": "assigned",
+      "file": "chrumkave-kura.png",
+      "basis": "Wolt photo of \"Chrumkavé kura\" + exact filename"
+    },
+    {
+      "id": "menu-058",
+      "nameSk": "Syr s hranolkami",
+      "status": "assigned",
+      "file": "syr-s-hranolkami.png",
+      "basis": "Wolt photo of \"Syr s hranolkami\" + exact filename"
+    },
+    {
+      "id": "menu-059",
+      "nameSk": "Kuracie medailónky",
+      "status": "assigned",
+      "file": "kuracie-medailonky.png",
+      "basis": "Wolt photo of \"Kuracie medailónky\" + exact filename"
+    },
+    {
+      "id": "menu-060",
+      "nameSk": "Tofu s arašidovou omáčkou",
+      "status": "review_ambiguous_protein",
+      "basis": "Wolt uses one photo (tofu-s-arasidovou-omackou.png) for Tofu s arašidovou omáčkou and Krevety s mangovou omáčkou and Krevety s arašidovou omáčkou — the protein cannot be identified from the photo"
+    },
+    {
+      "id": "menu-061",
+      "nameSk": "Tofu s mangovou omáčkou",
+      "status": "assigned",
+      "file": "tofu-s-mango-omackou.png",
+      "basis": "Wolt photo of \"Tofu s mango omáčkou\" + exact filename"
+    },
+    {
+      "id": "menu-062",
+      "nameSk": "Tofu na kari",
+      "status": "assigned",
+      "file": "tofu-na-curry.png",
+      "basis": "Wolt photo of \"Tofu na curry\" + exact filename"
+    },
+    {
+      "id": "menu-063",
+      "nameSk": "Tofu s fazuľou",
+      "status": "assigned",
+      "file": "tofu-s-fazulou.png",
+      "basis": "Wolt photo of \"Tofu s fazuľou\" + exact filename",
+      "sharedWith": [
+        "Tofu so zeleninou",
+        "Tofu s klíčkami"
+      ]
+    },
+    {
+      "id": "menu-064",
+      "nameSk": "Tofu s klíčkami",
+      "status": "assigned",
+      "file": "tofu-s-klickami.png",
+      "basis": "Wolt photo of \"Tofu s klíčkami\" + exact filename",
+      "sharedWith": [
+        "Tofu so zeleninou",
+        "Tofu s fazuľou"
+      ]
+    },
+    {
+      "id": "menu-065",
+      "nameSk": "Tofu so zeleninou",
+      "status": "assigned",
+      "file": "tofu-s-zeleninou.png",
+      "basis": "Wolt photo of \"Tofu so zeleninou\" + exact filename",
+      "sharedWith": [
+        "Tofu s klíčkami",
+        "Tofu s fazuľou"
+      ]
+    },
+    {
+      "id": "menu-066",
+      "nameSk": "Krevety s klíčkami",
+      "status": "assigned",
+      "file": "krevety-s-klickami.png",
+      "basis": "Wolt photo of \"Krevety s klíčkami\" + exact filename",
+      "sharedWith": [
+        "Krevety so zeleninou",
+        "Krevety s fazuľou"
+      ]
+    },
+    {
+      "id": "menu-067",
+      "nameSk": "Krevety s fazuľou",
+      "status": "assigned",
+      "file": "krevety-s-fazolou.png",
+      "basis": "Wolt photo of \"Krevety s fazuľou\" + exact filename",
+      "sharedWith": [
+        "Krevety so zeleninou",
+        "Krevety s klíčkami"
+      ]
+    },
+    {
+      "id": "menu-068",
+      "nameSk": "Krevety so zeleninou",
+      "status": "assigned",
+      "file": "krevety-so-zeleninou.png",
+      "basis": "Wolt photo of \"Krevety so zeleninou\" + exact filename",
+      "sharedWith": [
+        "Krevety s klíčkami",
+        "Krevety s fazuľou"
+      ]
+    },
+    {
+      "id": "menu-069",
+      "nameSk": "Obaľované krevety",
+      "status": "assigned",
+      "file": "obalovane-krevety.png",
+      "basis": "Wolt photo of \"Obaľované krevety\" + exact filename"
+    },
+    {
+      "id": "menu-070",
+      "nameSk": "Krevety na kari",
+      "status": "assigned",
+      "file": "krevety-na-curry.png",
+      "basis": "Wolt photo of \"Krevety na curry\" + exact filename"
+    },
+    {
+      "id": "menu-071",
+      "nameSk": "Krevety s mangovou omáčkou",
+      "status": "review_ambiguous_protein",
+      "basis": "Wolt uses one photo (krevety-s-mango-omackou.png) for Krevety s mangovou omáčkou and Tofu s arašidovou omáčkou — the protein cannot be identified from the photo"
+    },
+    {
+      "id": "menu-072",
+      "nameSk": "Krevety s arašidovou omáčkou",
+      "status": "review_ambiguous_protein",
+      "basis": "Wolt uses one photo (krevety-s-arasidovou-omackou.png) for Krevety s arašidovou omáčkou and Tofu s arašidovou omáčkou — the protein cannot be identified from the photo"
+    },
+    {
+      "id": "menu-073",
+      "nameSk": "Losos",
+      "status": "no_photo_available",
+      "basis": "dish is not on Wolt and no uploaded photo shows it"
+    },
+    {
+      "id": "menu-074",
+      "nameSk": "Tuniak",
+      "status": "no_photo_available",
+      "basis": "dish is not on Wolt and no uploaded photo shows it"
+    },
+    {
+      "id": "menu-075",
+      "nameSk": "Opekané ryžové rezance s hovädzím mäsom",
+      "status": "assigned",
+      "file": "opekane-ryzove-rezance-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Opekané ryžové rezance s hovädzím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-076",
+      "nameSk": "Opekané ryžové rezance s kačacím mäsom",
+      "status": "assigned",
+      "file": "opekane-ryzove-rezance-s-kacacim-masom.png",
+      "basis": "Wolt photo of \"Opekané ryžové rezance s kačacím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-077",
+      "nameSk": "Opekané ryžové rezance s krevetami",
+      "status": "assigned",
+      "file": "opekane-ryzove-rezance-s-krevetami.png",
+      "basis": "Wolt photo of \"Opekané ryžové rezance s krevetami\" + exact filename"
+    },
+    {
+      "id": "menu-078",
+      "nameSk": "Opekané ryžové rezance s kuracím mäsom",
+      "status": "assigned",
+      "file": "opekane-ryzove-rezance-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Opekané ryžové rezance s kuracím mäsom\" + exact filename",
+      "sharedWith": [
+        "Opekané ryžové rezance"
+      ]
+    },
+    {
+      "id": "menu-079",
+      "nameSk": "Opekané ryžové rezance s tofu",
+      "status": "assigned",
+      "file": "opekane-ryzove-rezance-s-tofu.png",
+      "basis": "Wolt photo of \"Opekané ryžové rezance s tofu\" + exact filename",
+      "sharedWith": [
+        "Ryžové rezance so zeleninou"
+      ]
+    },
+    {
+      "id": "menu-080",
+      "nameSk": "Opekané rezance s hovädzím mäsom",
+      "status": "assigned",
+      "file": "opekane-rezance-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Opekané rezance s hovädzím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-081",
+      "nameSk": "Opekané rezance s kačacím mäsom",
+      "status": "assigned",
+      "file": "opekane-rezance-s-kacacim-masom.png",
+      "basis": "Wolt photo of \"Opekané rezance s kačacím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-082",
+      "nameSk": "Opekané rezance s krevetami",
+      "status": "assigned",
+      "file": "opekane-rezance-s-krevetami.png",
+      "basis": "Wolt photo of \"Opekané rezance s krevetami\" + exact filename"
+    },
+    {
+      "id": "menu-083",
+      "nameSk": "Opekané rezance s kuracím mäsom",
+      "status": "assigned",
+      "file": "opekane-rezance-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Opekané rezance s kuracím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-084",
+      "nameSk": "Opekané rezance s tofu",
+      "status": "assigned",
+      "file": "opekane-rezance-s-tofu.png",
+      "basis": "Wolt photo of \"Opekané rezance s tofu\" + exact filename"
+    },
+    {
+      "id": "menu-085",
+      "nameSk": "Rizoto s jazmínovou ryžou a hovädzím mäsom",
+      "status": "assigned",
+      "file": "rizoto-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Rizoto s hovädzím mäsom\""
+    },
+    {
+      "id": "menu-086",
+      "nameSk": "Rizoto s jazmínovou ryžou a kačacím mäsom",
+      "status": "assigned",
+      "file": "rizoto-s-kacacim-masom.png",
+      "basis": "Wolt photo of \"Rizoto s kačacím mäsom\""
+    },
+    {
+      "id": "menu-087",
+      "nameSk": "Rizoto s jazmínovou ryžou a krevetami",
+      "status": "assigned",
+      "file": "rizoto-s-krevetami.png",
+      "basis": "Wolt photo of \"Rizoto s krevetami\""
+    },
+    {
+      "id": "menu-088",
+      "nameSk": "Rizoto s jazmínovou ryžou a kuracím mäsom",
+      "status": "assigned",
+      "file": "rizoto-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Rizoto s kuracím mäsom\""
+    },
+    {
+      "id": "menu-089",
+      "nameSk": "Rizoto s jazmínovou ryžou a tofu",
+      "status": "assigned",
+      "file": "rizoto-s-tofu.png",
+      "basis": "Wolt photo of \"Rizoto s tofu\""
+    },
+    {
+      "id": "menu-090",
+      "nameSk": "Opekané sklenené rezance s hovädzím mäsom",
+      "status": "assigned",
+      "file": "opekane-sklenene-rezance-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Opekané sklenené rezance s hovädzím mäsom\" + exact filename (photo visibly shows beef)",
+      "sharedWith": [
+        "Opekané sklenené rezance s kačacím mäsom"
+      ]
+    },
+    {
+      "id": "menu-091",
+      "nameSk": "Opekané sklenené rezance s kačacím mäsom",
+      "status": "rejected_wrong_protein",
+      "basis": "Wolt shows opekane-sklenene-rezance-s-hovadzim-masom.png for this dish, but the photo shows beef"
+    },
+    {
+      "id": "menu-092",
+      "nameSk": "Opekané sklenené rezance s krevetami",
+      "status": "assigned",
+      "file": "opekane-sklenene-rezance-s-krevetami.png",
+      "basis": "Wolt photo of \"Opekané sklenené rezance s krevetami\" + exact filename"
+    },
+    {
+      "id": "menu-093",
+      "nameSk": "Opekané sklenené rezance s kuracím mäsom",
+      "status": "assigned",
+      "file": "opekane-sklenene-rezance-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Opekané sklenené rezance s kuracím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-094",
+      "nameSk": "Opekané sklenené rezance s tofu",
+      "status": "assigned",
+      "file": "opekane-sklenene-rezance-s-tofu.png",
+      "basis": "Wolt photo of \"Opekané sklenené rezance s tofu\" + exact filename"
+    },
+    {
+      "id": "menu-095",
+      "nameSk": "Udon rezance so zeleninou",
+      "status": "assigned",
+      "file": "udon-rezance-so-zeleninou.png",
+      "basis": "Wolt photo of \"Udon rezance so zeleninou\" + exact filename"
+    },
+    {
+      "id": "menu-096",
+      "nameSk": "Vaječné rezance so zeleninou",
+      "status": "assigned",
+      "file": "vajecne-rezance-so-zeleninou.png",
+      "basis": "Wolt photo of \"Vaječné rezance so zeleninou\" + exact filename"
+    },
+    {
+      "id": "menu-097",
+      "nameSk": "Ryžové rezance so zeleninou",
+      "status": "assigned",
+      "file": "ryzove-rezance-so-zeleninou.png",
+      "basis": "Wolt photo of \"Ryžové rezance so zeleninou\" + exact filename",
+      "sharedWith": [
+        "Opekané ryžové rezance s tofu"
+      ]
+    },
+    {
+      "id": "menu-098",
+      "nameSk": "Sklenené rezance so zeleninou",
+      "status": "assigned",
+      "file": "skelenene-rezance-so-zeleninou.png",
+      "basis": "Wolt photo of \"Sklenené rezance so zeleninou\" + exact filename"
+    },
+    {
+      "id": "menu-099",
+      "nameSk": "Opekané udon rezance s hovädzím mäsom",
+      "status": "assigned",
+      "file": "opekane-udon-rezance-s-hovadzim-masom.png",
+      "basis": "Wolt photo of \"Opekané udon rezance s hovädzím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-100",
+      "nameSk": "Opekané udon rezance s kačacím mäsom",
+      "status": "assigned",
+      "file": "opekane-udon-rezance-s-kacacim-masom.png",
+      "basis": "Wolt photo of \"Opekané udon rezance s kačacím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-101",
+      "nameSk": "Opekané udon rezance s krevetami",
+      "status": "rejected_wrong_photo",
+      "basis": "opekane-udon-rezance-s-krevetami.png is Wolt's photo of \"Opekané udon rezance s kačacím mäsom\", not of this dish"
+    },
+    {
+      "id": "menu-102",
+      "nameSk": "Opekané udon rezance s kuracím mäsom",
+      "status": "assigned",
+      "file": "opekane-udon-rezance-s-kuracim-masom.png",
+      "basis": "Wolt photo of \"Opekané udon rezance s kuracím mäsom\" + exact filename"
+    },
+    {
+      "id": "menu-103",
+      "nameSk": "Opekané udon rezance s tofu",
+      "status": "assigned",
+      "file": "opekane-udon-rezance-s-tofu.png",
+      "basis": "Wolt photo of \"Opekané udon rezance s tofu\" + exact filename"
+    },
+    {
+      "id": "menu-104",
+      "nameSk": "Ryža",
+      "status": "assigned",
+      "file": "ryza.png",
+      "basis": "Wolt photo of \"Ryža\" + exact filename"
+    },
+    {
+      "id": "menu-105",
+      "nameSk": "Hranolky",
+      "status": "assigned",
+      "file": "hranolky.png",
+      "basis": "Wolt photo of \"Hranolky\" + exact filename"
+    },
+    {
+      "id": "menu-106",
+      "nameSk": "Zemiaky",
+      "status": "assigned",
+      "file": "zemiaky.png",
+      "basis": "Wolt photo of \"Zemiaky\" + exact filename"
+    },
+    {
+      "id": "menu-107",
+      "nameSk": "Opekané rezance",
+      "status": "assigned",
+      "file": "opekane-rezance.png",
+      "basis": "Wolt photo of \"Opekané rezance\" + exact filename"
+    },
+    {
+      "id": "menu-108",
+      "nameSk": "Rizoto",
+      "status": "assigned",
+      "file": "rizoto.png",
+      "basis": "Wolt photo of \"Rizoto\" + exact filename"
+    },
+    {
+      "id": "menu-109",
+      "nameSk": "Opekané ryžové rezance",
+      "status": "assigned",
+      "file": "opekane-ryzove-rezance.png",
+      "basis": "Wolt photo of \"Opekané ryžové rezance\" + exact filename",
+      "sharedWith": [
+        "Opekané ryžové rezance s kuracím mäsom"
+      ]
+    },
+    {
+      "id": "sushi-sake-uramaki-5",
+      "nameSk": "Sake uramaki",
+      "status": "no_photo_available",
+      "basis": "dish is not on Wolt and no uploaded photo shows it"
+    },
+    {
+      "id": "sushi-sake-uramaki-10",
+      "nameSk": "Sake uramaki",
+      "status": "no_photo_available",
+      "basis": "dish is not on Wolt and no uploaded photo shows it"
+    },
+    {
+      "id": "sushi-tobiko-uramaki-5",
+      "nameSk": "Tobiko uramaki",
+      "status": "no_photo_available",
+      "basis": "dish is not on Wolt and no uploaded photo shows it"
+    },
+    {
+      "id": "sushi-tobiko-uramaki-10",
+      "nameSk": "Tobiko uramaki",
+      "status": "no_photo_available",
+      "basis": "dish is not on Wolt and no uploaded photo shows it"
+    },
+    {
+      "id": "sushi-sake-futomaki-5",
+      "nameSk": "Sake futomaki",
+      "status": "assigned",
+      "file": "sake-futomaki-5ks.png",
+      "basis": "Wolt photo of \"Sake futomaki 5ks\""
+    },
+    {
+      "id": "sushi-sake-futomaki-10",
+      "nameSk": "Sake futomaki",
+      "status": "assigned",
+      "file": "sake-futomaki-5ks.png",
+      "basis": "Wolt photo of \"Sake futomaki 10ks\""
+    },
+    {
+      "id": "sushi-ebi-tempura-5",
+      "nameSk": "Ebi tempura",
+      "status": "assigned",
+      "file": "ebi-tempura.png",
+      "basis": "Wolt photo of \"Ebi tempura 5ks\" + exact filename"
+    },
+    {
+      "id": "sushi-ebi-tempura-10",
+      "nameSk": "Ebi tempura",
+      "status": "assigned",
+      "file": "ebi-tempura.png",
+      "basis": "Wolt photo of \"Ebi tempura 10ks\" + exact filename"
+    },
+    {
+      "id": "sushi-tamago-tempura-5",
+      "nameSk": "Tamago tempura",
+      "status": "assigned",
+      "file": "tamago-tempura.png",
+      "basis": "Wolt photo of \"Tamago tempura 5ks\" + exact filename"
+    },
+    {
+      "id": "sushi-tamago-tempura-10",
+      "nameSk": "Tamago tempura",
+      "status": "assigned",
+      "file": "tamago-tempura.png",
+      "basis": "Wolt photo of \"Tamago tempura 10ks\" + exact filename"
+    },
+    {
+      "id": "sushi-sake-nigiri-3",
+      "nameSk": "Sake nigiri",
+      "status": "assigned",
+      "file": "sake-nigiri.png",
+      "basis": "Wolt photo of \"Sake nigiri 3ks\" + exact filename"
+    },
+    {
+      "id": "sushi-sake-nigiri-6",
+      "nameSk": "Sake nigiri",
+      "status": "assigned",
+      "file": "sake-nigiri.png",
+      "basis": "Wolt photo of \"Sake nigiri 6ks\" + exact filename"
+    },
+    {
+      "id": "sushi-ebi-nigiri-3",
+      "nameSk": "Ebi nigiri",
+      "status": "assigned",
+      "file": "ebi-nigiri.png",
+      "basis": "Wolt photo of \"Ebi nigiri 3ks\" + exact filename"
+    },
+    {
+      "id": "sushi-ebi-nigiri-6",
+      "nameSk": "Ebi nigiri",
+      "status": "assigned",
+      "file": "ebi-nigiri.png",
+      "basis": "Wolt photo of \"Ebi nigiri 6ks\" + exact filename"
+    },
+    {
+      "id": "sushi-sake-maki-6",
+      "nameSk": "Sake maki",
+      "status": "assigned",
+      "file": "sake-maki.png",
+      "basis": "visual: 6 pieces visible = in-store 6 ks (Wolt labels the photo for its 8 ks SKU)"
+    },
+    {
+      "id": "sushi-sake-maki-12",
+      "nameSk": "Sake maki",
+      "status": "assigned",
+      "file": "sake-maki.png",
+      "basis": "same card as the 6 ks variant",
+      "groupOf": "sushi-sake-maki-6"
+    },
+    {
+      "id": "sushi-avok-do-maki-6",
+      "nameSk": "Avokádo maki",
+      "status": "portion_mismatch",
+      "basis": "Wolt photo belongs to its Avokádo maki 8ks / Avokádo maki 16ks SKU; the in-store portion is 6 ks"
+    },
+    {
+      "id": "sushi-avok-do-maki-12",
+      "nameSk": "Avokádo maki",
+      "status": "portion_mismatch",
+      "basis": "Wolt photo belongs to its Avokádo maki 8ks / Avokádo maki 16ks SKU; the in-store portion is 12 ks"
+    },
+    {
+      "id": "sushi-kappa-maki-6",
+      "nameSk": "Kappa maki",
+      "status": "portion_mismatch",
+      "basis": "Wolt photo belongs to its Kappa maki 8ks / Kappa maki 16ks SKU; the in-store portion is 6 ks"
+    },
+    {
+      "id": "sushi-kappa-maki-12",
+      "nameSk": "Kappa maki",
+      "status": "portion_mismatch",
+      "basis": "Wolt photo belongs to its Kappa maki 8ks / Kappa maki 16ks SKU; the in-store portion is 12 ks"
+    },
+    {
+      "id": "sushi-kani-maki-6",
+      "nameSk": "Kani maki",
+      "status": "portion_mismatch",
+      "basis": "Wolt photo belongs to its Kani maki 8ks / Kani maki 16ks SKU; the in-store portion is 6 ks"
+    },
+    {
+      "id": "sushi-kani-maki-12",
+      "nameSk": "Kani maki",
+      "status": "portion_mismatch",
+      "basis": "Wolt photo belongs to its Kani maki 8ks / Kani maki 16ks SKU; the in-store portion is 12 ks"
+    },
+    {
+      "id": "sushi-ebi-maki-6",
+      "nameSk": "Ebi maki",
+      "status": "portion_mismatch",
+      "basis": "Wolt photo belongs to its Ebi maki 8ks / Ebi maki 16ks SKU; the in-store portion is 6 ks"
+    },
+    {
+      "id": "sushi-ebi-maki-12",
+      "nameSk": "Ebi maki",
+      "status": "portion_mismatch",
+      "basis": "Wolt photo belongs to its Ebi maki 8ks / Ebi maki 16ks SKU; the in-store portion is 12 ks"
+    },
+    {
+      "id": "sushi-california-futomaki-5",
+      "nameSk": "California futomaki",
+      "status": "assigned",
+      "file": "california-futomaki.png",
+      "basis": "Wolt photo of \"California futomaki 5ks\" + exact filename"
+    },
+    {
+      "id": "sushi-california-futomaki-10",
+      "nameSk": "California futomaki",
+      "status": "assigned",
+      "file": "california-futomaki.png",
+      "basis": "same card as the 5 ks variant",
+      "groupOf": "sushi-california-futomaki-5"
+    },
+    {
+      "id": "sushi-set-1",
+      "nameSk": "Set 1",
+      "status": "assigned",
+      "file": "set1.png",
+      "basis": "Wolt photo of \"Set 1\" + exact filename"
+    },
+    {
+      "id": "sushi-set-2",
+      "nameSk": "Set 2",
+      "status": "assigned",
+      "file": "set2.png",
+      "basis": "Wolt photo of \"Set 2\" + exact filename"
+    },
+    {
+      "id": "sushi-set-3",
+      "nameSk": "Set 3",
+      "status": "assigned",
+      "file": "set3.png",
+      "basis": "Wolt photo of \"Set 3\" + exact filename"
+    },
+    {
+      "id": "sushi-set-4",
+      "nameSk": "Set 4",
+      "status": "assigned",
+      "file": "set4.png",
+      "basis": "Wolt photo of \"Set 4\" + exact filename"
+    },
+    {
+      "id": "sushi-set-5",
+      "nameSk": "Set 5",
+      "status": "assigned",
+      "file": "set5.png",
+      "basis": "exact filename; photo is not in the current Wolt listing (content checked visually)"
+    },
+    {
+      "id": "sushi-set-6",
+      "nameSk": "Set 6",
+      "status": "assigned",
+      "file": "set6.png",
+      "basis": "Wolt photo of \"Set 6\" + exact filename"
+    },
+    {
+      "id": "poke-tofu",
+      "nameSk": "Tofu poke bowl",
+      "status": "assigned",
+      "file": "tofu-wok.png",
+      "basis": "Wolt photo of \"Tofu\""
+    },
+    {
+      "id": "poke-chicken",
+      "nameSk": "Kuracie tempura poke bowl",
+      "status": "assigned",
+      "file": "kuracie-tempura-wok.png",
+      "basis": "Wolt photo of \"Kuracie tempura\""
+    },
+    {
+      "id": "poke-salmon",
+      "nameSk": "Losos poke bowl",
+      "status": "assigned",
+      "file": "losos-wok.png",
+      "basis": "Wolt photo of \"Losos\""
+    }
+  ],
+  "files": [
+    {
+      "file": "avokado-maki.png",
+      "path": "assets/menu-originals-wolt/avokado-maki.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10468,
+      "sha256": "b25954de660e78c2f0977d8def7056f2d88f01f5052cafb30b476dda60d40753",
+      "used": false,
+      "reason": "Avokádo maki: portion_mismatch; Avokádo maki: portion_mismatch",
+      "woltDishes": [
+        "Avokádo maki 16ks — SUSHI",
+        "Avokádo maki 8ks — SUSHI"
+      ]
+    },
+    {
+      "file": "bambusova.png",
+      "path": "assets/menu-originals-wolt/bambusova.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 7074,
+      "sha256": "973bb40965fb45cfd55c2ea93e3dd913250f6c749373920fd67176c77261aec4",
+      "used": true,
+      "usedBy": [
+        "menu-006"
+      ],
+      "woltDishes": [
+        "Bambusová — POLIEVKY"
+      ]
+    },
+    {
+      "file": "bravcove-maso-pikantne.png",
+      "path": "assets/menu-originals-wolt/bravcove-maso-pikantne.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11225,
+      "sha256": "291f2b99cfc11eecd383110216dfa0a6f7df176fee3d948f0559789c2e278d9a",
+      "used": true,
+      "usedBy": [
+        "menu-048"
+      ],
+      "woltDishes": [
+        "Bravčové so zeleninou — BRAVČOVÉ MÄSO"
+      ]
+    },
+    {
+      "file": "bravcove-na-kari.png",
+      "path": "assets/menu-originals-wolt/bravcove-na-kari.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10068,
+      "sha256": "fcbdc9acadcfb3ac006cf95e20d8fbda7791efcaf55535b8f14620620d238714",
+      "used": true,
+      "usedBy": [
+        "menu-049"
+      ],
+      "woltDishes": [
+        "Bravčové na kari — BRAVČOVÉ MÄSO"
+      ]
+    },
+    {
+      "file": "bravcove-s-arasidovou-omackou.png",
+      "path": "assets/menu-originals-wolt/bravcove-s-arasidovou-omackou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 5789,
+      "sha256": "40452bb60e1a7f15cb59daac91922a8fa8aefb822f89b2fed32c3b9133e87fb9",
+      "used": false,
+      "reason": "Bravčové s arašidovou omáčkou: review_ambiguous_protein; Kuracie s arašidovou omáčkou: review_ambiguous_protein",
+      "woltDishes": [
+        "Bravčové s arašídovou omáčkou — BRAVČOVÉ MÄSO",
+        "Kuracie s arašídovou omáčkou — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "bravcove-s-mango-omackou.png",
+      "path": "assets/menu-originals-wolt/bravcove-s-mango-omackou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11590,
+      "sha256": "9c0248fc68a0e826b151961ba739e1b37f72a9ed891abbdf621bed3eb84e4682",
+      "used": true,
+      "usedBy": [
+        "menu-050"
+      ],
+      "woltDishes": [
+        "Bravčové s mango omáčkou — BRAVČOVÉ MÄSO"
+      ]
+    },
+    {
+      "file": "bravcove-so-zeleninou.png",
+      "path": "assets/menu-originals-wolt/bravcove-so-zeleninou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11225,
+      "sha256": "291f2b99cfc11eecd383110216dfa0a6f7df176fee3d948f0559789c2e278d9a",
+      "used": true,
+      "usedBy": [
+        "menu-047"
+      ],
+      "woltDishes": [
+        "Bravčové so zeleninou — BRAVČOVÉ MÄSO"
+      ]
+    },
+    {
+      "file": "bravcovy-rezen.png",
+      "path": "assets/menu-originals-wolt/bravcovy-rezen.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 4292,
+      "sha256": "a4c95f1a60645be8d29148d8d5ded6b6cfb66a967f8ff5471afdbf043cf2aedc",
+      "used": false,
+      "reason": "Bravčový rezeň: review_ambiguous_protein; Kurací rezeň: review_ambiguous_protein",
+      "woltDishes": [
+        "Bravčový rezeň — BRAVČOVÉ MÄSO",
+        "Kurací rezeň — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "bun-bo-nam-bo-hovadzie.png",
+      "path": "assets/menu-originals-wolt/bun-bo-nam-bo-hovadzie.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 13881,
+      "sha256": "5ba07548610fa835b42349ed22b2527744451001a12f95b8cbb7c19f78fbfaf1",
+      "used": true,
+      "usedBy": [
+        "menu-019"
+      ],
+      "woltDishes": [
+        "Bun bo nam bo hovädzie — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "bun-dau-nam-bo-tofu.png",
+      "path": "assets/menu-originals-wolt/bun-dau-nam-bo-tofu.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11089,
+      "sha256": "9b1899d97329bd8d3930318ab09e08911aee00161c38479790a66ed67a23affb",
+      "used": true,
+      "usedBy": [
+        "menu-023"
+      ],
+      "woltDishes": [
+        "Bun dau nam bo tofu — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "bun-ga-nam-bo-kuracie.png",
+      "path": "assets/menu-originals-wolt/bun-ga-nam-bo-kuracie.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 13908,
+      "sha256": "578594cc0a2354da8aadaa547307be08b82d62fcbe9d235bc452df500a7a816b",
+      "used": true,
+      "usedBy": [
+        "menu-022"
+      ],
+      "woltDishes": [
+        "Bun ga nam bo kuracie — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "bun-nem.png",
+      "path": "assets/menu-originals-wolt/bun-nem.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10680,
+      "sha256": "704286d22e38c2788973acef53cee3d2ed36f7e0fe75a4b76c560bc243282fbd",
+      "used": true,
+      "usedBy": [
+        "menu-029"
+      ],
+      "woltDishes": [
+        "Bun nem — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "bun-ngan-kacacie.png",
+      "path": "assets/menu-originals-wolt/bun-ngan-kacacie.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 14718,
+      "sha256": "91045276eed42d64da49f43ac74c53c82116a19ceb2b695bad10e95fee6aa802",
+      "used": true,
+      "usedBy": [
+        "menu-021"
+      ],
+      "woltDishes": [
+        "Bun ngan kačacie — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "bun-polievka-s-hovadzim-masom.png",
+      "path": "assets/menu-originals-wolt/bun-polievka-s-hovadzim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 12712,
+      "sha256": "d642c8409487732275130e6f1311ba79d7838c51485e9adb228229b148058fbf",
+      "used": true,
+      "usedBy": [
+        "menu-011"
+      ],
+      "woltDishes": [
+        "Bún polievka s hovädzím mäsom — POLIEVKY",
+        "Mien polievka s hovädzím mäsom — POLIEVKY"
+      ]
+    },
+    {
+      "file": "bun-polievka-s-krevetkami.png",
+      "path": "assets/menu-originals-wolt/bun-polievka-s-krevetkami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11282,
+      "sha256": "906d517f7eaf902874c761aff58b86d6872768abd7ad2649243a0722707731d3",
+      "used": true,
+      "usedBy": [
+        "menu-012"
+      ],
+      "woltDishes": [
+        "Bún polievka s krevetami — POLIEVKY"
+      ]
+    },
+    {
+      "file": "bun-polievka-s-kuracim-masom.png",
+      "path": "assets/menu-originals-wolt/bun-polievka-s-kuracim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10372,
+      "sha256": "6f7e2846e613fda2772874e05a38e77965fd8eaa4caeeb64870540063c93e5c2",
+      "used": true,
+      "usedBy": [
+        "menu-013"
+      ],
+      "woltDishes": [
+        "Bún polievka s kuracím mäsom — POLIEVKY"
+      ]
+    },
+    {
+      "file": "bun-polievka-s-tofu.png",
+      "path": "assets/menu-originals-wolt/bun-polievka-s-tofu.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9459,
+      "sha256": "0af579bf886d21382fa713047248c8387e70e75c8f7d64d5bd4b7a401fa4047a",
+      "used": true,
+      "usedBy": [
+        "menu-010",
+        "menu-014"
+      ],
+      "woltDishes": [
+        "Bún polievka s tofu — POLIEVKY",
+        "Tofu polievka — POLIEVKY",
+        "Mien polievka s tofu — POLIEVKY"
+      ]
+    },
+    {
+      "file": "bun-tom-nam-bo-krevetove.png",
+      "path": "assets/menu-originals-wolt/bun-tom-nam-bo-krevetove.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 17006,
+      "sha256": "c311bf113d9f91a7ea782734cb13eeb6b2fa6252433b231c58391a8fcebd11e3",
+      "used": true,
+      "usedBy": [
+        "menu-020"
+      ],
+      "woltDishes": [
+        "Bun tom nam bo krevetové — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "california-futomaki.png",
+      "path": "assets/menu-originals-wolt/california-futomaki.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 6007,
+      "sha256": "d6652af973ab674e2c004de6be7254446d28bfb51cac4458a9aa4967b5162f06",
+      "used": true,
+      "usedBy": [
+        "sushi-california-futomaki-5",
+        "sushi-california-futomaki-10"
+      ],
+      "woltDishes": [
+        "California futomaki 5ks — SUSHI"
+      ]
+    },
+    {
+      "file": "cercstve-jarne-rolky.png",
+      "path": "assets/menu-originals-wolt/cercstve-jarne-rolky.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 5940,
+      "sha256": "794bc1c2ddf32da3d714218be6284391e2c0220a9fa8d5a12f458c9e87beb933",
+      "used": true,
+      "usedBy": [
+        "menu-030"
+      ],
+      "woltDishes": [
+        "Čerstvé jarné rolky — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "chrumkava-kacica.png",
+      "path": "assets/menu-originals-wolt/chrumkava-kacica.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8203,
+      "sha256": "9e6c8664e0b6ea7977221903c597d5c02e321d1cf784e9d24fb897331aa05934",
+      "used": true,
+      "usedBy": [
+        "menu-056"
+      ],
+      "woltDishes": [
+        "Chrumkavá kačica — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "chrumkave-kura.png",
+      "path": "assets/menu-originals-wolt/chrumkave-kura.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10533,
+      "sha256": "5e296cb27c96e7153c8085f6909ee8605e813363d9876abf5197a2b920d5cb1f",
+      "used": true,
+      "usedBy": [
+        "menu-057"
+      ],
+      "woltDishes": [
+        "Chrumkavé kura — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "ebi-maki.png",
+      "path": "assets/menu-originals-wolt/ebi-maki.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 5817,
+      "sha256": "3ee08d50b5303e77cd22bf8978b9886053309c724b3d946a79ea876378c2916b",
+      "used": false,
+      "reason": "Ebi maki: portion_mismatch; Ebi maki: portion_mismatch",
+      "woltDishes": [
+        "Ebi maki 8ks — SUSHI",
+        "Ebi maki 16ks — SUSHI"
+      ]
+    },
+    {
+      "file": "ebi-nigiri.png",
+      "path": "assets/menu-originals-wolt/ebi-nigiri.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 6254,
+      "sha256": "861c278a42b9f35b604194b622dde2c10797a45e9e6fbcfd90216b6353fccc29",
+      "used": true,
+      "usedBy": [
+        "sushi-ebi-nigiri-3",
+        "sushi-ebi-nigiri-6"
+      ],
+      "woltDishes": [
+        "Ebi nigiri 6ks — SUSHI",
+        "Ebi nigiri 3ks — SUSHI"
+      ]
+    },
+    {
+      "file": "ebi-tempura.png",
+      "path": "assets/menu-originals-wolt/ebi-tempura.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9463,
+      "sha256": "9f0f45a3f9beecf658399f0adcf0819d37ef06393f90f176f9ef7be849db30df",
+      "used": true,
+      "usedBy": [
+        "sushi-ebi-tempura-5",
+        "sushi-ebi-tempura-10"
+      ],
+      "woltDishes": [
+        "Ebi tempura 10ks — SUSHI",
+        "Ebi tempura 5ks — SUSHI"
+      ]
+    },
+    {
+      "file": "hovadzia-polievka.png",
+      "path": "assets/menu-originals-wolt/hovadzia-polievka.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 7074,
+      "sha256": "973bb40965fb45cfd55c2ea93e3dd913250f6c749373920fd67176c77261aec4",
+      "used": false,
+      "reason": "duplicate (byte-identical) of bambusova.png, which is used",
+      "woltDishes": [
+        "Bambusová — POLIEVKY"
+      ]
+    },
+    {
+      "file": "hovadzie-maso-s-arasidovou-omackou.png",
+      "path": "assets/menu-originals-wolt/hovadzie-maso-s-arasidovou-omackou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8750,
+      "sha256": "0e09bcbe4565f82cddad581156e6f005ea84b72bdf557f1e9b8d15484b8464bc",
+      "used": true,
+      "usedBy": [
+        "menu-044"
+      ],
+      "woltDishes": [
+        "Bravčové mäso pikantné — BRAVČOVÉ MÄSO",
+        "Hovädzie na curry — HOVÄDZIE MÄSO",
+        "Hovädzie mäso s arašídovou omáčkou — HOVÄDZIE MÄSO",
+        "Hovädzie so zeleninou — HOVÄDZIE MÄSO"
+      ]
+    },
+    {
+      "file": "hovadzie-maso-s-mango-omackou.png",
+      "path": "assets/menu-originals-wolt/hovadzie-maso-s-mango-omackou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9683,
+      "sha256": "cdc3f9003a3eaf10f20c4738d39eee01a2abd766498825b13dbc951006a1c55c",
+      "used": true,
+      "usedBy": [
+        "menu-045"
+      ],
+      "woltDishes": [
+        "Hovädzie mäso s mango omáčkou — HOVÄDZIE MÄSO"
+      ]
+    },
+    {
+      "file": "hovadzie-na-curry.png",
+      "path": "assets/menu-originals-wolt/hovadzie-na-curry.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8750,
+      "sha256": "0e09bcbe4565f82cddad581156e6f005ea84b72bdf557f1e9b8d15484b8464bc",
+      "used": true,
+      "usedBy": [
+        "menu-046"
+      ],
+      "woltDishes": [
+        "Bravčové mäso pikantné — BRAVČOVÉ MÄSO",
+        "Hovädzie na curry — HOVÄDZIE MÄSO",
+        "Hovädzie mäso s arašídovou omáčkou — HOVÄDZIE MÄSO",
+        "Hovädzie so zeleninou — HOVÄDZIE MÄSO"
+      ]
+    },
+    {
+      "file": "hovadzie-pikantne.png",
+      "path": "assets/menu-originals-wolt/hovadzie-pikantne.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9341,
+      "sha256": "0ca5654a02c61f05d53b43523d1039f8a2508f9bdb29764aadf880fb498a0860",
+      "used": false,
+      "reason": "duplicate (byte-identical) of pikantne-kuracie-maso.png, which is used",
+      "woltDishes": [
+        "Hovädzie pikantné — HOVÄDZIE MÄSO",
+        "Pikantné kuracie mäso — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "hovadzie-s-fazulou.png",
+      "path": "assets/menu-originals-wolt/hovadzie-s-fazulou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11064,
+      "sha256": "f738a478c25fdf9e1f55f3a25e0982816d0fe26b22295c88517417794faa7fb6",
+      "used": true,
+      "usedBy": [
+        "menu-040"
+      ],
+      "woltDishes": [
+        "Hovädzie s fazuľou — HOVÄDZIE MÄSO"
+      ]
+    },
+    {
+      "file": "hovadzie-s-klickami.png",
+      "path": "assets/menu-originals-wolt/hovadzie-s-klickami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9607,
+      "sha256": "a0427ac9b8a7d3e309f62f73a9121c2d530a6207ef2ee6ee42e03194f5881d6f",
+      "used": true,
+      "usedBy": [
+        "menu-042"
+      ],
+      "woltDishes": [
+        "Hovädzie s klíčkami — HOVÄDZIE MÄSO"
+      ]
+    },
+    {
+      "file": "hovadzie-so-zeleninou.png",
+      "path": "assets/menu-originals-wolt/hovadzie-so-zeleninou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8750,
+      "sha256": "0e09bcbe4565f82cddad581156e6f005ea84b72bdf557f1e9b8d15484b8464bc",
+      "used": true,
+      "usedBy": [
+        "menu-041"
+      ],
+      "woltDishes": [
+        "Bravčové mäso pikantné — BRAVČOVÉ MÄSO",
+        "Hovädzie na curry — HOVÄDZIE MÄSO",
+        "Hovädzie mäso s arašídovou omáčkou — HOVÄDZIE MÄSO",
+        "Hovädzie so zeleninou — HOVÄDZIE MÄSO"
+      ]
+    },
+    {
+      "file": "hranolky.png",
+      "path": "assets/menu-originals-wolt/hranolky.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 4951,
+      "sha256": "a3a9c9531dec2690d9c45da9ea6169b2a4018a0566cb7d0e55b9ac32ce8546c5",
+      "used": true,
+      "usedBy": [
+        "menu-105"
+      ],
+      "woltDishes": [
+        "Hranolky — PRÍLOHY"
+      ]
+    },
+    {
+      "file": "jarne-zavitky.png",
+      "path": "assets/menu-originals-wolt/jarne-zavitky.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10680,
+      "sha256": "704286d22e38c2788973acef53cee3d2ed36f7e0fe75a4b76c560bc243282fbd",
+      "used": false,
+      "reason": "file is Wolt's Bún nem photo (noodle bowl), not fried spring rolls",
+      "woltDishes": [
+        "Bun nem — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "kani-maki.png",
+      "path": "assets/menu-originals-wolt/kani-maki.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 7120,
+      "sha256": "8e72885f28bc45bcb44ae410f59af2f35d2bea1fc06b51a110b5ca4c0d159415",
+      "used": false,
+      "reason": "Kani maki: portion_mismatch; Kani maki: portion_mismatch",
+      "woltDishes": [
+        "Kani maki 8ks — SUSHI",
+        "Kani maki 16ks — SUSHI"
+      ]
+    },
+    {
+      "file": "kappa-maki.png",
+      "path": "assets/menu-originals-wolt/kappa-maki.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9891,
+      "sha256": "24f6b3104b3ea8b74feca43a79ac6f3fef9906ba5cccf2108963fcfed967e0d5",
+      "used": false,
+      "reason": "Kappa maki: portion_mismatch; Kappa maki: portion_mismatch",
+      "woltDishes": [
+        "Kappa maki 16ks — SUSHI",
+        "Kappa maki 8ks — SUSHI"
+      ]
+    },
+    {
+      "file": "krevetova-polievka.png",
+      "path": "assets/menu-originals-wolt/krevetova-polievka.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11864,
+      "sha256": "8abd4dc388e04ef834937979a60be2a4f7c0fcd95f2e5ed879992f64103d2115",
+      "used": true,
+      "usedBy": [
+        "menu-009"
+      ],
+      "woltDishes": [
+        "Mien polievka s krevetami — POLIEVKY",
+        "Krevetová polievka — POLIEVKY"
+      ]
+    },
+    {
+      "file": "krevety-na-curry.png",
+      "path": "assets/menu-originals-wolt/krevety-na-curry.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 5709,
+      "sha256": "f3ed1693dd801d706d0a3e45cedc0df82b9328ca4ce51eaf9ea1efb085c018ab",
+      "used": true,
+      "usedBy": [
+        "menu-070"
+      ],
+      "woltDishes": [
+        "Krevety na curry — RYBY A MORSKÉ PLODY"
+      ]
+    },
+    {
+      "file": "krevety-s-arasidovou-omackou.png",
+      "path": "assets/menu-originals-wolt/krevety-s-arasidovou-omackou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8745,
+      "sha256": "f50dba59aba355ee11de750e19c9e69ac012323194c57fbb9ae274168caa5373",
+      "used": false,
+      "reason": "Krevety s mangovou omáčkou: review_ambiguous_protein; Krevety s arašidovou omáčkou: review_ambiguous_protein; Tofu s arašidovou omáčkou: review_ambiguous_protein",
+      "woltDishes": [
+        "Krevety s mango omáčkou — RYBY A MORSKÉ PLODY",
+        "Krevety s arašídovou omáčkou — RYBY A MORSKÉ PLODY",
+        "Tofu s arašídovou omáčkou — BEZMÄSITÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "krevety-s-fazolou.png",
+      "path": "assets/menu-originals-wolt/krevety-s-fazolou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11342,
+      "sha256": "4832ffc5bfbbe2b486823e89ce643a1784f042740e12f9573c61f99eb07dd443",
+      "used": true,
+      "usedBy": [
+        "menu-067"
+      ],
+      "woltDishes": [
+        "Krevety so zeleninou — RYBY A MORSKÉ PLODY",
+        "Krevety s klíčkami — RYBY A MORSKÉ PLODY",
+        "Krevety s fazuľou — RYBY A MORSKÉ PLODY"
+      ]
+    },
+    {
+      "file": "krevety-s-klickami.png",
+      "path": "assets/menu-originals-wolt/krevety-s-klickami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11342,
+      "sha256": "4832ffc5bfbbe2b486823e89ce643a1784f042740e12f9573c61f99eb07dd443",
+      "used": true,
+      "usedBy": [
+        "menu-066"
+      ],
+      "woltDishes": [
+        "Krevety so zeleninou — RYBY A MORSKÉ PLODY",
+        "Krevety s klíčkami — RYBY A MORSKÉ PLODY",
+        "Krevety s fazuľou — RYBY A MORSKÉ PLODY"
+      ]
+    },
+    {
+      "file": "krevety-s-mango-omackou.png",
+      "path": "assets/menu-originals-wolt/krevety-s-mango-omackou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8745,
+      "sha256": "f50dba59aba355ee11de750e19c9e69ac012323194c57fbb9ae274168caa5373",
+      "used": false,
+      "reason": "Krevety s mangovou omáčkou: review_ambiguous_protein; Krevety s arašidovou omáčkou: review_ambiguous_protein; Tofu s arašidovou omáčkou: review_ambiguous_protein",
+      "woltDishes": [
+        "Krevety s mango omáčkou — RYBY A MORSKÉ PLODY",
+        "Krevety s arašídovou omáčkou — RYBY A MORSKÉ PLODY",
+        "Tofu s arašídovou omáčkou — BEZMÄSITÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "krevety-so-zeleninou.png",
+      "path": "assets/menu-originals-wolt/krevety-so-zeleninou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11342,
+      "sha256": "4832ffc5bfbbe2b486823e89ce643a1784f042740e12f9573c61f99eb07dd443",
+      "used": true,
+      "usedBy": [
+        "menu-068"
+      ],
+      "woltDishes": [
+        "Krevety so zeleninou — RYBY A MORSKÉ PLODY",
+        "Krevety s klíčkami — RYBY A MORSKÉ PLODY",
+        "Krevety s fazuľou — RYBY A MORSKÉ PLODY"
+      ]
+    },
+    {
+      "file": "kuraci-rezen.png",
+      "path": "assets/menu-originals-wolt/kuraci-rezen.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 4703,
+      "sha256": "b80265bf416bdad011c06250c396bdea00581856e929927464e8705b1e46bbb5",
+      "used": false,
+      "reason": "Kurací rezeň: review_ambiguous_protein; Bravčový rezeň: review_ambiguous_protein",
+      "woltDishes": [
+        "Kurací rezeň — KURACIE MÄSO",
+        "Bravčový rezeň — BRAVČOVÉ MÄSO"
+      ]
+    },
+    {
+      "file": "kuracia-polievka.png",
+      "path": "assets/menu-originals-wolt/kuracia-polievka.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9345,
+      "sha256": "ad172b9e183aa9981134659e126137387b38435e93e492830a5ef04742ef33b1",
+      "used": true,
+      "usedBy": [
+        "menu-008"
+      ],
+      "woltDishes": [
+        "Kuracia polievka — POLIEVKY"
+      ]
+    },
+    {
+      "file": "kuracie-kung-pao.png",
+      "path": "assets/menu-originals-wolt/kuracie-kung-pao.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10945,
+      "sha256": "b2b3bb5d34273277383936bd5adcf125a3be7d751e807f1ed908682b83d489d1",
+      "used": true,
+      "usedBy": [
+        "menu-032"
+      ],
+      "woltDishes": [
+        "Kuracie kung pao — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "kuracie-kura.png",
+      "path": "assets/menu-originals-wolt/kuracie-kura.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9230,
+      "sha256": "79fceb69c2d043de3090b4ed72f24cacd97ad3b64e8aaa6d9d1e060ea2ec0598",
+      "used": false,
+      "reason": "duplicate (byte-identical) of kuracie-tempura.png, which is used",
+      "woltDishes": [
+        "Kuracie tempura — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "kuracie-medailonky.png",
+      "path": "assets/menu-originals-wolt/kuracie-medailonky.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 12526,
+      "sha256": "b0348a409c124e3dfaff2e7204d3609c3f2dc4b9b9a54ae47d57e28b34629601",
+      "used": true,
+      "usedBy": [
+        "menu-059"
+      ],
+      "woltDishes": [
+        "Kuracie medailónky — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "kuracie-na-kari.png",
+      "path": "assets/menu-originals-wolt/kuracie-na-kari.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9207,
+      "sha256": "29236b66d25514f9d99b74629be88726f4206317439b7c144a5e649d21426da2",
+      "used": true,
+      "usedBy": [
+        "menu-037"
+      ],
+      "woltDishes": [
+        "Kuracie na kari — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "kuracie-s-ananasom.png",
+      "path": "assets/menu-originals-wolt/kuracie-s-ananasom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8605,
+      "sha256": "b22ef7ca31ac03f2ffbd670155795b8b8c023ddb355942d8a7b26eb779bbb15c",
+      "used": true,
+      "usedBy": [
+        "menu-036"
+      ],
+      "woltDishes": [
+        "Kuracie s ananásom — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "kuracie-s-arasidovou-omackou.png",
+      "path": "assets/menu-originals-wolt/kuracie-s-arasidovou-omackou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 6313,
+      "sha256": "f9bf1b02c328fb302483f7aacc6c7272ed7a5d13cda794e6075497f8ed4d3925",
+      "used": false,
+      "reason": "Bravčové s arašidovou omáčkou: review_ambiguous_protein; Kuracie s arašidovou omáčkou: review_ambiguous_protein",
+      "woltDishes": [
+        "Bravčové s arašídovou omáčkou — BRAVČOVÉ MÄSO",
+        "Kuracie s arašídovou omáčkou — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "kuracie-s-klickami.png",
+      "path": "assets/menu-originals-wolt/kuracie-s-klickami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8711,
+      "sha256": "d5fee5730cd95fa3aab3678ff40c30a472961b20231752dec94c53f3459454bd",
+      "used": true,
+      "usedBy": [
+        "menu-034"
+      ],
+      "woltDishes": [
+        "Kuracie s klíčkami — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "kuracie-s-mangovou-omackou.png",
+      "path": "assets/menu-originals-wolt/kuracie-s-mangovou-omackou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9027,
+      "sha256": "bb7f83ad05af87fa9ce99bd0c1997be360b877d12fa8aede9edc698689525e8b",
+      "used": true,
+      "usedBy": [
+        "menu-039"
+      ],
+      "woltDishes": [
+        "Kuracie s mangovou omáčkou — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "kuracie-so-zeleninou.png",
+      "path": "assets/menu-originals-wolt/kuracie-so-zeleninou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9654,
+      "sha256": "4760491a2ecdd696e3224a977e5edff13f03ae93b95223d5a4d34363ae730ca6",
+      "used": true,
+      "usedBy": [
+        "menu-033"
+      ],
+      "woltDishes": [
+        "Kuracie so zeleninou — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "kuracie-tempura-wok.png",
+      "path": "assets/menu-originals-wolt/kuracie-tempura-wok.png",
+      "format": "heif",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 59162,
+      "sha256": "6d501709e77325ab8dff46a1835b84b7c69ae1602cf079305761c5a418f01003",
+      "used": true,
+      "usedBy": [
+        "poke-chicken"
+      ],
+      "woltDishes": [
+        "Kuracie tempura — POKE BOWLS"
+      ]
+    },
+    {
+      "file": "kuracie-tempura.png",
+      "path": "assets/menu-originals-wolt/kuracie-tempura.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9230,
+      "sha256": "79fceb69c2d043de3090b4ed72f24cacd97ad3b64e8aaa6d9d1e060ea2ec0598",
+      "used": true,
+      "usedBy": [
+        "menu-054"
+      ],
+      "woltDishes": [
+        "Kuracie tempura — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "losos-wok.png",
+      "path": "assets/menu-originals-wolt/losos-wok.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 13556,
+      "sha256": "1968d33af4ebd4c3ffd5b3f13a5516a9ce8db5d0fe03f0ea091c4eca1b77a05f",
+      "used": true,
+      "usedBy": [
+        "poke-salmon"
+      ],
+      "woltDishes": [
+        "Losos — POKE BOWLS"
+      ]
+    },
+    {
+      "file": "mien-bo-nam-bo-hovadzie.png",
+      "path": "assets/menu-originals-wolt/mien-bo-nam-bo-hovadzie.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 15422,
+      "sha256": "a2e12cfd31c2e72440cb6ec3dd8f2663b1edc5194b32dbd24e6b48f4c01dd7ec",
+      "used": true,
+      "usedBy": [
+        "menu-024"
+      ],
+      "woltDishes": [
+        "Mien bo nam bo hovädzie — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "mien-dau-nam-bo-tofu.png",
+      "path": "assets/menu-originals-wolt/mien-dau-nam-bo-tofu.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10498,
+      "sha256": "d58d836458df625c6a6ae18894deadabab772fd700bf1e0e5a540c7b6d192a70",
+      "used": true,
+      "usedBy": [
+        "menu-028"
+      ],
+      "woltDishes": [
+        "Mien dau nam bo tofu — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "mien-ga-nam-bo-kuracie.png",
+      "path": "assets/menu-originals-wolt/mien-ga-nam-bo-kuracie.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9664,
+      "sha256": "cf24f8b51a90c4dc157b970fdc29221f65620af3d6d24cc82cd1646bf657b718",
+      "used": true,
+      "usedBy": [
+        "menu-027"
+      ],
+      "woltDishes": [
+        "Mien ga nam bo kuracie — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "mien-ngan-kacacie.png",
+      "path": "assets/menu-originals-wolt/mien-ngan-kacacie.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 13037,
+      "sha256": "fe175f7273d9677e632068c33fed3d1d4159e933591bdbd42dcbe466e1424f58",
+      "used": true,
+      "usedBy": [
+        "menu-026"
+      ],
+      "woltDishes": [
+        "Mien ngan kačacie — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "mien-polievka-s-hovadzim-masom.png",
+      "path": "assets/menu-originals-wolt/mien-polievka-s-hovadzim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 12712,
+      "sha256": "d642c8409487732275130e6f1311ba79d7838c51485e9adb228229b148058fbf",
+      "used": true,
+      "usedBy": [
+        "menu-015"
+      ],
+      "woltDishes": [
+        "Bún polievka s hovädzím mäsom — POLIEVKY",
+        "Mien polievka s hovädzím mäsom — POLIEVKY"
+      ]
+    },
+    {
+      "file": "mien-polievka-s-krevetkami.png",
+      "path": "assets/menu-originals-wolt/mien-polievka-s-krevetkami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11864,
+      "sha256": "8abd4dc388e04ef834937979a60be2a4f7c0fcd95f2e5ed879992f64103d2115",
+      "used": true,
+      "usedBy": [
+        "menu-016"
+      ],
+      "woltDishes": [
+        "Mien polievka s krevetami — POLIEVKY",
+        "Krevetová polievka — POLIEVKY"
+      ]
+    },
+    {
+      "file": "mien-polievka-s-kuracim-masom.png",
+      "path": "assets/menu-originals-wolt/mien-polievka-s-kuracim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 12356,
+      "sha256": "9165d9a928f8b0eb3284857a2b3ccc69e46863808fac6efc9c82db69e842d8ff",
+      "used": true,
+      "usedBy": [
+        "menu-017"
+      ],
+      "woltDishes": [
+        "Mien polievka s kuracím mäsom — POLIEVKY"
+      ]
+    },
+    {
+      "file": "mien-polievka-s-tofu.png",
+      "path": "assets/menu-originals-wolt/mien-polievka-s-tofu.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9459,
+      "sha256": "0af579bf886d21382fa713047248c8387e70e75c8f7d64d5bd4b7a401fa4047a",
+      "used": true,
+      "usedBy": [
+        "menu-018"
+      ],
+      "woltDishes": [
+        "Bún polievka s tofu — POLIEVKY",
+        "Tofu polievka — POLIEVKY",
+        "Mien polievka s tofu — POLIEVKY"
+      ]
+    },
+    {
+      "file": "mien-tom-nam-bo-krevetove.png",
+      "path": "assets/menu-originals-wolt/mien-tom-nam-bo-krevetove.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11802,
+      "sha256": "a11c8cfcc22e8d1107605cae0cef09329c69c0f089b8cda531939a600a60f75a",
+      "used": true,
+      "usedBy": [
+        "menu-025"
+      ],
+      "woltDishes": [
+        "Mien tom nam bo krevetové — HLAVNÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "obalovane-krevety.png",
+      "path": "assets/menu-originals-wolt/obalovane-krevety.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 12046,
+      "sha256": "241f3b29e3b603a5fbd5cc8241660f066dad5bc440cff77fe48f8ecf60549806",
+      "used": true,
+      "usedBy": [
+        "menu-069"
+      ],
+      "woltDishes": [
+        "Obaľované krevety — RYBY A MORSKÉ PLODY"
+      ]
+    },
+    {
+      "file": "opekane-rezance-s-hovadzim-masom.png",
+      "path": "assets/menu-originals-wolt/opekane-rezance-s-hovadzim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10666,
+      "sha256": "d4581173127b4ec91b45eccbf5ccdb1179dc77c1bd99537dba72f432c448bbd0",
+      "used": true,
+      "usedBy": [
+        "menu-080"
+      ],
+      "woltDishes": [
+        "Opekané rezance s hovädzím mäsom — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-rezance-s-kacacim-masom.png",
+      "path": "assets/menu-originals-wolt/opekane-rezance-s-kacacim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9897,
+      "sha256": "32824286db170776d149e4b053a3974b86c6ca34f2a749530790d4f50b2678aa",
+      "used": true,
+      "usedBy": [
+        "menu-081"
+      ],
+      "woltDishes": [
+        "Opekané rezance s kačacím mäsom — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-rezance-s-krevetami.png",
+      "path": "assets/menu-originals-wolt/opekane-rezance-s-krevetami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 14361,
+      "sha256": "cb17ebdd960c4f9eae3c674d2daf3a92c7c162da18d32e0efc680faf7b61f946",
+      "used": true,
+      "usedBy": [
+        "menu-082"
+      ],
+      "woltDishes": [
+        "Opekané rezance s krevetami — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-rezance-s-kuracim-masom.png",
+      "path": "assets/menu-originals-wolt/opekane-rezance-s-kuracim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10797,
+      "sha256": "c08f34a78ff8e8dd03c37fdd2e64fa5cca0b6630b1fa45d97df90ccf758f7634",
+      "used": true,
+      "usedBy": [
+        "menu-083"
+      ],
+      "woltDishes": [
+        "Opekané rezance s kuracím mäsom — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-rezance-s-tofu.png",
+      "path": "assets/menu-originals-wolt/opekane-rezance-s-tofu.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9315,
+      "sha256": "938ce9aa8b7a450842cf243e024f97317641df31ad20b4fa9e5bbedec7d933be",
+      "used": true,
+      "usedBy": [
+        "menu-084"
+      ],
+      "woltDishes": [
+        "Opekané rezance s tofu — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-rezance.png",
+      "path": "assets/menu-originals-wolt/opekane-rezance.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 7770,
+      "sha256": "26aea834690d3a9ee106122150fc0e2b4bb2d0c8ba26274b7a9d71b77aa7d15b",
+      "used": true,
+      "usedBy": [
+        "menu-107"
+      ],
+      "woltDishes": [
+        "Opekané rezance — PRÍLOHY"
+      ]
+    },
+    {
+      "file": "opekane-ryzove-rezance-s-hovadzim-masom.png",
+      "path": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-hovadzim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11864,
+      "sha256": "e3f1977d41b39d837a7a180c6c92bc31f73199ea2c9b714e66ba9af4bba1e718",
+      "used": true,
+      "usedBy": [
+        "menu-075"
+      ],
+      "woltDishes": [
+        "Opekané ryžové rezance s hovädzím mäsom — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-ryzove-rezance-s-kacacim-masom.png",
+      "path": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-kacacim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9825,
+      "sha256": "5e56b91617fa06fd2461c1b287e91e1a287cfd924862d993b86184a60f7a3634",
+      "used": true,
+      "usedBy": [
+        "menu-076"
+      ],
+      "woltDishes": [
+        "Opekané ryžové rezance s kačacím mäsom — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-ryzove-rezance-s-krevetami.png",
+      "path": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-krevetami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8715,
+      "sha256": "451d3129ae74c3fbd93de3c7b9545b0d9165583967568c504d4ee62c6025b7df",
+      "used": true,
+      "usedBy": [
+        "menu-077"
+      ],
+      "woltDishes": [
+        "Opekané ryžové rezance s krevetami — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-ryzove-rezance-s-kuracim-masom.png",
+      "path": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-kuracim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10488,
+      "sha256": "839a676e6038c87d9d17cd54f56b8dcbb8174fb89ca38b7ccea4d142581b5137",
+      "used": true,
+      "usedBy": [
+        "menu-078"
+      ],
+      "woltDishes": [
+        "Opekané ryžové rezance s kuracím mäsom — REZANCE",
+        "Opekané ryžové rezance — PRÍLOHY"
+      ]
+    },
+    {
+      "file": "opekane-ryzove-rezance-s-tofu.png",
+      "path": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-tofu.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8667,
+      "sha256": "70deee14c8dd2bfc3613d300b0d859a000263ac5110c09caa068dddab12711fe",
+      "used": true,
+      "usedBy": [
+        "menu-079"
+      ],
+      "woltDishes": [
+        "Opekané ryžové rezance s tofu — REZANCE",
+        "Ryžové rezance so zeleninou — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-ryzove-rezance.png",
+      "path": "assets/menu-originals-wolt/opekane-ryzove-rezance.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8900,
+      "sha256": "4efb113e79a8f92da9b5656d93a5a29259e2c3039771328d5db2a5fc522309fb",
+      "used": true,
+      "usedBy": [
+        "menu-109"
+      ],
+      "woltDishes": [
+        "Opekané ryžové rezance — PRÍLOHY",
+        "Opekané ryžové rezance s kuracím mäsom — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-sklenene-rezance-s-hovadzim-masom.png",
+      "path": "assets/menu-originals-wolt/opekane-sklenene-rezance-s-hovadzim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 12361,
+      "sha256": "cc39a37b79428cbf6b67d3644912cba03f30547fa5741dbd8af0e0a1b38b032e",
+      "used": true,
+      "usedBy": [
+        "menu-090"
+      ],
+      "woltDishes": [
+        "Opekané sklenené rezance s hovädzím mäsom — REZANCE",
+        "Opekané sklenené rezance s kačacím mäsom — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-sklenene-rezance-s-krevetami.png",
+      "path": "assets/menu-originals-wolt/opekane-sklenene-rezance-s-krevetami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10248,
+      "sha256": "e8978ccd548856a06aab00411e9117e0488db6485feef819bd620ed4b5dac03b",
+      "used": true,
+      "usedBy": [
+        "menu-092"
+      ],
+      "woltDishes": [
+        "Opekané sklenené rezance s krevetami — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-sklenene-rezance-s-kuracim-masom.png",
+      "path": "assets/menu-originals-wolt/opekane-sklenene-rezance-s-kuracim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10229,
+      "sha256": "9ce356ac9b2f94630ee9f0412291edd10ca26d7b26753760963a2d4133e8421f",
+      "used": true,
+      "usedBy": [
+        "menu-093"
+      ],
+      "woltDishes": [
+        "Opekané sklenené rezance s kuracím mäsom — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-sklenene-rezance-s-tofu.png",
+      "path": "assets/menu-originals-wolt/opekane-sklenene-rezance-s-tofu.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10536,
+      "sha256": "aa76fc046a270f518ed73932104f7adfd041769280a435914664a63b1d22ec85",
+      "used": true,
+      "usedBy": [
+        "menu-094"
+      ],
+      "woltDishes": [
+        "Opekané sklenené rezance s tofu — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-udon-rezance-s-hovadzim-masom.png",
+      "path": "assets/menu-originals-wolt/opekane-udon-rezance-s-hovadzim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 13988,
+      "sha256": "e4ecf32b6984705be49e36a391edcaf8ab31e0e98500e1b158bb17d684de623b",
+      "used": true,
+      "usedBy": [
+        "menu-099"
+      ],
+      "woltDishes": [
+        "Opekané udon rezance s hovädzím mäsom — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-udon-rezance-s-kacacim-masom.png",
+      "path": "assets/menu-originals-wolt/opekane-udon-rezance-s-kacacim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 13762,
+      "sha256": "32267537d5ca772a8a1ae4f56ee95cda3b5025bc16b10fd4e04632d963b1a4bd",
+      "used": true,
+      "usedBy": [
+        "menu-100"
+      ],
+      "woltDishes": [
+        "Opekané udon rezance s kačacím mäsom — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-udon-rezance-s-krevetami.png",
+      "path": "assets/menu-originals-wolt/opekane-udon-rezance-s-krevetami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 13762,
+      "sha256": "32267537d5ca772a8a1ae4f56ee95cda3b5025bc16b10fd4e04632d963b1a4bd",
+      "used": false,
+      "reason": "duplicate (byte-identical) of opekane-udon-rezance-s-kacacim-masom.png, which is used",
+      "woltDishes": [
+        "Opekané udon rezance s kačacím mäsom — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-udon-rezance-s-kuracim-masom.png",
+      "path": "assets/menu-originals-wolt/opekane-udon-rezance-s-kuracim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 13990,
+      "sha256": "26432c591ad9c71afbcf37f780fd2661fb71d09e687bbd600882810b88028f1d",
+      "used": true,
+      "usedBy": [
+        "menu-102"
+      ],
+      "woltDishes": [
+        "Opekané udon rezance s kuracím mäsom — REZANCE"
+      ]
+    },
+    {
+      "file": "opekane-udon-rezance-s-tofu.png",
+      "path": "assets/menu-originals-wolt/opekane-udon-rezance-s-tofu.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 13166,
+      "sha256": "5105f6ed3ff06b39068ec3423fa7598695a9e1655718dd303674793bf92c9efc",
+      "used": true,
+      "usedBy": [
+        "menu-103"
+      ],
+      "woltDishes": [
+        "Opekané udon rezance s tofu — REZANCE"
+      ]
+    },
+    {
+      "file": "ostrokysla.png",
+      "path": "assets/menu-originals-wolt/ostrokysla.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9887,
+      "sha256": "de41b7abe3047f2eaa14ac820948cdb480cb5ce560654b80bcb8b8ebfab5301d",
+      "used": true,
+      "usedBy": [
+        "menu-005"
+      ],
+      "woltDishes": [
+        "Ostrokyslá — POLIEVKY"
+      ]
+    },
+    {
+      "file": "pikantne-kuracie-maso.png",
+      "path": "assets/menu-originals-wolt/pikantne-kuracie-maso.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9341,
+      "sha256": "0ca5654a02c61f05d53b43523d1039f8a2508f9bdb29764aadf880fb498a0860",
+      "used": true,
+      "usedBy": [
+        "menu-035"
+      ],
+      "woltDishes": [
+        "Hovädzie pikantné — HOVÄDZIE MÄSO",
+        "Pikantné kuracie mäso — KURACIE MÄSO"
+      ]
+    },
+    {
+      "file": "rizoto-s-hovadzim-masom.png",
+      "path": "assets/menu-originals-wolt/rizoto-s-hovadzim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9451,
+      "sha256": "5d647ff18be207acfff61fd5887b19c86274edd81ed7359ecf540e4441164d59",
+      "used": true,
+      "usedBy": [
+        "menu-085"
+      ],
+      "woltDishes": [
+        "Rizoto s hovädzím mäsom — RIZOTO"
+      ]
+    },
+    {
+      "file": "rizoto-s-kacacim-masom.png",
+      "path": "assets/menu-originals-wolt/rizoto-s-kacacim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10675,
+      "sha256": "1c9c08f5db34f6b4dcb7348a4d31645e8a3d7211df51c85e2ca97ad3db0f8c3c",
+      "used": true,
+      "usedBy": [
+        "menu-086"
+      ],
+      "woltDishes": [
+        "Rizoto s kačacím mäsom — RIZOTO"
+      ]
+    },
+    {
+      "file": "rizoto-s-krevetami.png",
+      "path": "assets/menu-originals-wolt/rizoto-s-krevetami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9102,
+      "sha256": "37af4b49f6790bca9da4ed82aa95860b00368a731834ca4559f8bf818e991cb9",
+      "used": true,
+      "usedBy": [
+        "menu-087"
+      ],
+      "woltDishes": [
+        "Rizoto s krevetami — RIZOTO"
+      ]
+    },
+    {
+      "file": "rizoto-s-kuracim-masom.png",
+      "path": "assets/menu-originals-wolt/rizoto-s-kuracim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8857,
+      "sha256": "b1f3f91d717cafc74e0e593080de461107452f9dece55c204e4e9f94184e8621",
+      "used": true,
+      "usedBy": [
+        "menu-088"
+      ],
+      "woltDishes": [
+        "Rizoto s kuracím mäsom — RIZOTO"
+      ]
+    },
+    {
+      "file": "rizoto-s-tofu.png",
+      "path": "assets/menu-originals-wolt/rizoto-s-tofu.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9123,
+      "sha256": "6223d6d38f12a4f0c05e6eeb1d27dff26786057cec301cfd6ce7b4b0ba1d3b2a",
+      "used": true,
+      "usedBy": [
+        "menu-089"
+      ],
+      "woltDishes": [
+        "Rizoto s tofu — RIZOTO"
+      ]
+    },
+    {
+      "file": "rizoto.png",
+      "path": "assets/menu-originals-wolt/rizoto.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 7502,
+      "sha256": "217fcda9d7acfa73b84967527fa67b8684fbaee6033f6409a3db1adb1213f351",
+      "used": true,
+      "usedBy": [
+        "menu-108"
+      ],
+      "woltDishes": [
+        "Rizoto — PRÍLOHY"
+      ]
+    },
+    {
+      "file": "ryza.png",
+      "path": "assets/menu-originals-wolt/ryza.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 5336,
+      "sha256": "936d4576cafe76f4834488f500ec4b779f62518087f9115e09c9e7882aa5ab2d",
+      "used": true,
+      "usedBy": [
+        "menu-104"
+      ],
+      "woltDishes": [
+        "Ryža — PRÍLOHY"
+      ]
+    },
+    {
+      "file": "ryzove-rezance-so-zeleninou.png",
+      "path": "assets/menu-originals-wolt/ryzove-rezance-so-zeleninou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 7875,
+      "sha256": "516e7162d9a8d478242ec2a3a08968c8621b74eedd3b1cea3f136d69e33615fd",
+      "used": true,
+      "usedBy": [
+        "menu-097"
+      ],
+      "woltDishes": [
+        "Ryžové rezance so zeleninou — REZANCE",
+        "Opekané ryžové rezance s tofu — REZANCE"
+      ]
+    },
+    {
+      "file": "sake-futomaki-5ks.png",
+      "path": "assets/menu-originals-wolt/sake-futomaki-5ks.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 6377,
+      "sha256": "0054e2883828577c96a2bcf705fe482f739b5c949de252f30fa205737b0f76ff",
+      "used": true,
+      "usedBy": [
+        "sushi-sake-futomaki-5",
+        "sushi-sake-futomaki-10"
+      ],
+      "woltDishes": [
+        "Sake futomaki 5ks — SUSHI",
+        "Sake futomaki 10ks — SUSHI"
+      ]
+    },
+    {
+      "file": "sake-maki.png",
+      "path": "assets/menu-originals-wolt/sake-maki.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10583,
+      "sha256": "11727635c43c5fb7aa9fd5a9d1d5dc37fdb440df740ef88d4ea982fad2d9e634",
+      "used": true,
+      "usedBy": [
+        "sushi-sake-maki-6",
+        "sushi-sake-maki-12"
+      ],
+      "woltDishes": [
+        "Sake maki 8 ks — SUSHI",
+        "Sake maki 16ks — SUSHI"
+      ]
+    },
+    {
+      "file": "sake-nigiri.png",
+      "path": "assets/menu-originals-wolt/sake-nigiri.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 6361,
+      "sha256": "aa6768397888560066e1ac4535c340541cbfbc133edb2c052be342265902b91e",
+      "used": true,
+      "usedBy": [
+        "sushi-sake-nigiri-3",
+        "sushi-sake-nigiri-6"
+      ],
+      "woltDishes": [
+        "Sake nigiri 6ks — SUSHI",
+        "Sake nigiri 3ks — SUSHI"
+      ]
+    },
+    {
+      "file": "set1.png",
+      "path": "assets/menu-originals-wolt/set1.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10914,
+      "sha256": "109fe5a09a83e7601ddaa7493048c91036f94d3f44ae6ce626ccc320fb92174a",
+      "used": true,
+      "usedBy": [
+        "sushi-set-1"
+      ],
+      "woltDishes": [
+        "Set 1 — SUSHI SET"
+      ]
+    },
+    {
+      "file": "set2.png",
+      "path": "assets/menu-originals-wolt/set2.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 14345,
+      "sha256": "cdc504be469c088866c6a53f6687114df52c17ec0dbf76f0e6c4161d2366ec79",
+      "used": true,
+      "usedBy": [
+        "sushi-set-2"
+      ],
+      "woltDishes": [
+        "Set 2 — SUSHI SET"
+      ]
+    },
+    {
+      "file": "set3.png",
+      "path": "assets/menu-originals-wolt/set3.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 16787,
+      "sha256": "e82129c0b808f5fd231fd4a482a87c5bbd9eaa8f2d80607743f751378183cce8",
+      "used": true,
+      "usedBy": [
+        "sushi-set-3"
+      ],
+      "woltDishes": [
+        "Set 3 — SUSHI SET"
+      ]
+    },
+    {
+      "file": "set4.png",
+      "path": "assets/menu-originals-wolt/set4.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 21933,
+      "sha256": "69ec5f3470570668dc560b6d7202b3cb5fdb109a6889d2fde0a13693995cbbde",
+      "used": true,
+      "usedBy": [
+        "sushi-set-4"
+      ],
+      "woltDishes": [
+        "Set 4 — SUSHI SET"
+      ]
+    },
+    {
+      "file": "set5.png",
+      "path": "assets/menu-originals-wolt/set5.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 32021,
+      "sha256": "c40cfa625be5588c107b3e97ac06cd03e1c43ac28c253c3a1d3e48741f44707b",
+      "used": true,
+      "usedBy": [
+        "sushi-set-5"
+      ],
+      "woltDishes": []
+    },
+    {
+      "file": "set6.png",
+      "path": "assets/menu-originals-wolt/set6.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9201,
+      "sha256": "9f745dc679fa0ae4dc488e9aaa5d55a447fb937c308612f4dbae705d56a4e328",
+      "used": true,
+      "usedBy": [
+        "sushi-set-6"
+      ],
+      "woltDishes": [
+        "Set 6 — SUSHI SET"
+      ]
+    },
+    {
+      "file": "skelenene-rezance-so-zeleninou.png",
+      "path": "assets/menu-originals-wolt/skelenene-rezance-so-zeleninou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 7706,
+      "sha256": "8658ffad3949a14756cac214b0c40e3e24d8fb965eb824e598da80a9e343798e",
+      "used": true,
+      "usedBy": [
+        "menu-098"
+      ],
+      "woltDishes": [
+        "Sklenené rezance so zeleninou — REZANCE"
+      ]
+    },
+    {
+      "file": "syr-s-hranolkami.png",
+      "path": "assets/menu-originals-wolt/syr-s-hranolkami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10140,
+      "sha256": "45bf4fcf7440acb9f438b56ee15f15db05a76aea4d3bb0584a8b0081afb924ed",
+      "used": true,
+      "usedBy": [
+        "menu-058"
+      ],
+      "woltDishes": [
+        "Syr s hranolkami — BEZMÄSITÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "tamago-tempura.png",
+      "path": "assets/menu-originals-wolt/tamago-tempura.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11972,
+      "sha256": "5fc3a8e7eb6d33722391391e12cd2ed8d0766fab8f1fd07d05747dad0cb51e4d",
+      "used": true,
+      "usedBy": [
+        "sushi-tamago-tempura-5",
+        "sushi-tamago-tempura-10"
+      ],
+      "woltDishes": [
+        "Tamago tempura 10ks — SUSHI",
+        "Tamago tempura 5ks — SUSHI"
+      ]
+    },
+    {
+      "file": "tempura-losos.png",
+      "path": "assets/menu-originals-wolt/tempura-losos.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 7788,
+      "sha256": "f8a5c6712dce370ed80b97bf4712e452f143a0704c4661f482862be263b709fc",
+      "used": false,
+      "reason": "not_in_menu: Wolt dish \"Tempura losos\" has no counterpart in the 144-item menu",
+      "woltDishes": [
+        "Tempura losos — RYBY A MORSKÉ PLODY"
+      ]
+    },
+    {
+      "file": "tofu-na-curry.png",
+      "path": "assets/menu-originals-wolt/tofu-na-curry.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 13515,
+      "sha256": "02a3d61d589fc597a878b4a81d119c229fed6dbf90027c2be6f41b5b880a3801",
+      "used": true,
+      "usedBy": [
+        "menu-062"
+      ],
+      "woltDishes": [
+        "Tofu na curry — BEZMÄSITÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "tofu-polievka.png",
+      "path": "assets/menu-originals-wolt/tofu-polievka.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 11864,
+      "sha256": "8abd4dc388e04ef834937979a60be2a4f7c0fcd95f2e5ed879992f64103d2115",
+      "used": false,
+      "reason": "duplicate (byte-identical) of krevetova-polievka.png, which is used",
+      "woltDishes": [
+        "Mien polievka s krevetami — POLIEVKY",
+        "Krevetová polievka — POLIEVKY"
+      ]
+    },
+    {
+      "file": "tofu-s-arasidovou-omackou.png",
+      "path": "assets/menu-originals-wolt/tofu-s-arasidovou-omackou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 8618,
+      "sha256": "0c76aeaea985f192e25e25c2277c89ed9b2fb3d5fbafa1bb325a33d109d71253",
+      "used": false,
+      "reason": "Tofu s arašidovou omáčkou: review_ambiguous_protein; Krevety s mangovou omáčkou: review_ambiguous_protein; Krevety s arašidovou omáčkou: review_ambiguous_protein",
+      "woltDishes": [
+        "Tofu s arašídovou omáčkou — BEZMÄSITÉ JEDLÁ",
+        "Krevety s mango omáčkou — RYBY A MORSKÉ PLODY",
+        "Krevety s arašídovou omáčkou — RYBY A MORSKÉ PLODY"
+      ]
+    },
+    {
+      "file": "tofu-s-fazulou.png",
+      "path": "assets/menu-originals-wolt/tofu-s-fazulou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10206,
+      "sha256": "800f05671f3c7a3ce7aed59c1be35eb1b143eaeaf42c4714ef186f191cb2ab45",
+      "used": true,
+      "usedBy": [
+        "menu-063"
+      ],
+      "woltDishes": [
+        "Tofu so zeleninou — BEZMÄSITÉ JEDLÁ",
+        "Tofu s klíčkami — BEZMÄSITÉ JEDLÁ",
+        "Tofu s fazuľou — BEZMÄSITÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "tofu-s-klickami.png",
+      "path": "assets/menu-originals-wolt/tofu-s-klickami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10206,
+      "sha256": "800f05671f3c7a3ce7aed59c1be35eb1b143eaeaf42c4714ef186f191cb2ab45",
+      "used": true,
+      "usedBy": [
+        "menu-064"
+      ],
+      "woltDishes": [
+        "Tofu so zeleninou — BEZMÄSITÉ JEDLÁ",
+        "Tofu s klíčkami — BEZMÄSITÉ JEDLÁ",
+        "Tofu s fazuľou — BEZMÄSITÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "tofu-s-mango-omackou.png",
+      "path": "assets/menu-originals-wolt/tofu-s-mango-omackou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9937,
+      "sha256": "e7e323c4766b8a33151fcf38586b42eda3228cc3cb7d46ffa78174b09dc06bbf",
+      "used": true,
+      "usedBy": [
+        "menu-061"
+      ],
+      "woltDishes": [
+        "Tofu s mango omáčkou — BEZMÄSITÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "tofu-s-zeleninou.png",
+      "path": "assets/menu-originals-wolt/tofu-s-zeleninou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 10206,
+      "sha256": "800f05671f3c7a3ce7aed59c1be35eb1b143eaeaf42c4714ef186f191cb2ab45",
+      "used": true,
+      "usedBy": [
+        "menu-065"
+      ],
+      "woltDishes": [
+        "Tofu so zeleninou — BEZMÄSITÉ JEDLÁ",
+        "Tofu s klíčkami — BEZMÄSITÉ JEDLÁ",
+        "Tofu s fazuľou — BEZMÄSITÉ JEDLÁ"
+      ]
+    },
+    {
+      "file": "tofu-wok.png",
+      "path": "assets/menu-originals-wolt/tofu-wok.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 12697,
+      "sha256": "765e16c3d66403cf73ae100e2c3d7e68d251a6b010756bca652d00f96fa963d5",
+      "used": true,
+      "usedBy": [
+        "poke-tofu"
+      ],
+      "woltDishes": [
+        "Tofu — POKE BOWLS"
+      ]
+    },
+    {
+      "file": "tomyum-s-krevetkami.png",
+      "path": "assets/menu-originals-wolt/tomyum-s-krevetkami.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 12553,
+      "sha256": "d5de3710f59ae9bdb8503dd2cf343ea40be2f8f5d3642a2a399d1ee8f59b77b6",
+      "used": false,
+      "reason": "Tomyum s krevetami: review_ambiguous_protein; Tomyum s tofu: review_ambiguous_protein",
+      "woltDishes": [
+        "Tomyum s krevetami — POLIEVKY",
+        "Tomyum s tofu — POLIEVKY"
+      ]
+    },
+    {
+      "file": "tomyum-s-kuracim-masom.png",
+      "path": "assets/menu-originals-wolt/tomyum-s-kuracim-masom.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 12609,
+      "sha256": "a3a1592b84b8505b1387c7760b79fbffd368448980c57faea04947c6ff1c0007",
+      "used": true,
+      "usedBy": [
+        "menu-002"
+      ],
+      "woltDishes": [
+        "Tomyum s kuracím mäsom — POLIEVKY"
+      ]
+    },
+    {
+      "file": "tomyum-s-tofu.png",
+      "path": "assets/menu-originals-wolt/tomyum-s-tofu.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 12553,
+      "sha256": "d5de3710f59ae9bdb8503dd2cf343ea40be2f8f5d3642a2a399d1ee8f59b77b6",
+      "used": false,
+      "reason": "Tomyum s krevetami: review_ambiguous_protein; Tomyum s tofu: review_ambiguous_protein",
+      "woltDishes": [
+        "Tomyum s krevetami — POLIEVKY",
+        "Tomyum s tofu — POLIEVKY"
+      ]
+    },
+    {
+      "file": "udon-rezance-so-zeleninou.png",
+      "path": "assets/menu-originals-wolt/udon-rezance-so-zeleninou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 13101,
+      "sha256": "5470fab7c9e4aca86836896b4b93e7f1ca0f96c5f507fce028063077f7c86865",
+      "used": true,
+      "usedBy": [
+        "menu-095"
+      ],
+      "woltDishes": [
+        "Udon rezance so zeleninou — REZANCE"
+      ]
+    },
+    {
+      "file": "vajecne-rezance-so-zeleninou.png",
+      "path": "assets/menu-originals-wolt/vajecne-rezance-so-zeleninou.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 9205,
+      "sha256": "0f21a16f16c9cd53fc6d767da572510de2249fefad95e511d2a53af3804c7732",
+      "used": true,
+      "usedBy": [
+        "menu-096"
+      ],
+      "woltDishes": [
+        "Vaječné rezance so zeleninou — REZANCE"
+      ]
+    },
+    {
+      "file": "vyvar.png",
+      "path": "assets/menu-originals-wolt/vyvar.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 5018,
+      "sha256": "2a37ab410644b139b2ff33f358f2b97e057553f682397eca080d258df83957f4",
+      "used": true,
+      "usedBy": [
+        "menu-001"
+      ],
+      "woltDishes": [
+        "Vývar — POLIEVKY"
+      ]
+    },
+    {
+      "file": "zemiaky.png",
+      "path": "assets/menu-originals-wolt/zemiaky.png",
+      "format": "heif",
+      "width": 600,
+      "height": 338,
+      "bytes": 4897,
+      "sha256": "edbe6ee5ee3fbd2c980c6537b9cfc39f205643e3363ca0c9e69a01e46af96668",
+      "used": true,
+      "usedBy": [
+        "menu-106"
+      ],
+      "woltDishes": [
+        "Zemiaky — PRÍLOHY"
+      ]
+    }
+  ],
+  "woltDishesNotInMenu": [
+    "RYBY A MORSKÉ PLODY: Tempura losos"
+  ]
+}

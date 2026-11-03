@@ -1,0 +1,2799 @@
+{
+  "listing": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia",
+  "fetchedOn": "2026-11-03",
+  "sameDishThreshold": 4,
+  "wolt": [
+    {
+      "woltId": "0162e2ee1f1c5ef67756c1ac",
+      "category": "REZANCE",
+      "name": "Ryžové rezance so zeleninou",
+      "price": 6.8,
+      "description": "rezance, vajcia, sezónna zelenina",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a673"
+    },
+    {
+      "woltId": "028490e96b8a6a806ad90cda",
+      "category": "KURACIE MÄSO",
+      "name": "Kuracie medailónky",
+      "price": 6.6,
+      "description": "kuracie mäso, šalát 150g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe3540d17501bbe47a5dc"
+    },
+    {
+      "woltId": "0f42acf493eef0432f8fad64",
+      "category": "KURACIE MÄSO",
+      "name": "Kuracie na kari",
+      "price": 6.5,
+      "description": "kuracie mäso, mrkva, paprika, cibuľa, pór, thai kari, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbe3540d17501bbe47a5e6"
+    },
+    {
+      "woltId": "0f438c07f78958da660b98f7",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Čerstvé jarné rolky",
+      "price": 6.6,
+      "description": "kur. mäso, ryž, plátky, vajcia, ryž. rezance, krevety, koriander, vietnamský kapust. šalát 3ks",
+      "image": "https://imageproxy.wolt.com/assets/67dbe14b8e45b175b2f41736"
+    },
+    {
+      "woltId": "0fbea83a947c422fa6e671d5",
+      "category": "PRÍLOHY",
+      "name": "Ryža",
+      "price": 2,
+      "description": null,
+      "image": "https://imageproxy.wolt.com/assets/67dbfd368e45b175b2f417f2"
+    },
+    {
+      "woltId": "142778ed101e9710222ffa3e",
+      "category": "SUSHI",
+      "name": "California futomaki 5ks",
+      "price": 6.5,
+      "description": "losos, krabie tyčinky, avokádo, uhorky, pažítky, japonská majonéza",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfec9"
+    },
+    {
+      "woltId": "14d16a94a69e3e89585a8f2e",
+      "category": "RIZOTO",
+      "name": "Rizoto s tofu",
+      "price": 8,
+      "description": "ryža, vajcia, mrkva, čínska kapista, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb644c3fda48124bfeae"
+    },
+    {
+      "woltId": "185622512dafbcf89f2fce65",
+      "category": "BRAVČOVÉ MÄSO",
+      "name": "Bravčové s mango omáčkou",
+      "price": 6.8,
+      "description": "brav. mäso, mrkva, paprika, pór, brokolica, mango omáčka, šalát 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe5328e45b175b2f4175c"
+    },
+    {
+      "woltId": "1a6650a76d1b1596ae840f15",
+      "category": "SUSHI",
+      "name": "Kappa maki 16ks",
+      "price": 7,
+      "description": "uhorky, sezam",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfecf"
+    },
+    {
+      "woltId": "1bbf3203f8a0d5f69322da72",
+      "category": "REZANCE",
+      "name": "Opekané sklenené rezance s tofu",
+      "price": 8,
+      "description": "sklenené rezance, mrkva, judášovo ucho, pór",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a679"
+    },
+    {
+      "woltId": "1fcfe5a551206aecb22ac08a",
+      "category": "REZANCE",
+      "name": "Opekané ryžové rezance s tofu",
+      "price": 8,
+      "description": "ryž. rezance, vajcia, čínska kapusta, mkrva, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a67b"
+    },
+    {
+      "woltId": "223749880a7832272baf3ef4",
+      "category": "POLIEVKY",
+      "name": "Bún polievka s krevetami",
+      "price": 8.5,
+      "description": "krevety, ryžové rezance, koriander, jarná cibuľka, vývar 750ml",
+      "image": "https://imageproxy.wolt.com/assets/67dbde624c3fda48124bfe4f"
+    },
+    {
+      "woltId": "22b7b64779d893efdf1040c9",
+      "category": "REZANCE",
+      "name": "Opekané ryžové rezance s hovädzím mäsom",
+      "price": 8.5,
+      "description": "ryž. rezance, vajcia, čínska kapusta, mkrva, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a67e"
+    },
+    {
+      "woltId": "25f54657e564eb570ee27c6c",
+      "category": "POLIEVKY",
+      "name": "Bún polievka s tofu",
+      "price": 8,
+      "description": "tofu, ryžové rezance, koriander, jarná cibuľka, vývar 750ml",
+      "image": "https://imageproxy.wolt.com/assets/692f645435861cebc33612eb"
+    },
+    {
+      "woltId": "273c1f3cb90b3f4f70848663",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Mien tom nam bo krevetové",
+      "price": 9,
+      "description": "krevety, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašisy, mrkva 450g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe14b8e45b175b2f4172e"
+    },
+    {
+      "woltId": "277b9d4f2496f46d6da0718a",
+      "category": "BEZMÄSITÉ JEDLÁ",
+      "name": "Syr s hranolkami",
+      "price": 6.8,
+      "description": "syr, hranolky, šalát 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe6ce8e45b175b2f4176e"
+    },
+    {
+      "woltId": "2a3af1ac7fd58582bff52cf9",
+      "category": "RIZOTO",
+      "name": "Rizoto s kačacím mäsom",
+      "price": 8.5,
+      "description": "ryža, vajcia, mrkva, čínska kapista, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb644c3fda48124bfeac"
+    },
+    {
+      "woltId": "2c2f2057778e6cda941059e2",
+      "category": "REZANCE",
+      "name": "Opekané rezance s kuracím mäsom",
+      "price": 8,
+      "description": "rezance, vajcia, čínska kapusta, mkrva, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a672"
+    },
+    {
+      "woltId": "2d2f3dbd6f4c2ec45faff1f6",
+      "category": "PRÍLOHY",
+      "name": "Opekané rezance",
+      "price": 2.8,
+      "description": null,
+      "image": "https://imageproxy.wolt.com/assets/67dbfd368e45b175b2f417f3"
+    },
+    {
+      "woltId": "2da4b3fdc31c10a022e91531",
+      "category": "KURACIE MÄSO",
+      "name": "Kurací rezeň",
+      "price": 6.6,
+      "description": "kuracie mäso, vajcia, múka, šalát 200g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe3540d17501bbe47a5dd"
+    },
+    {
+      "woltId": "2f6747953f74ddfbbe439a24",
+      "category": "REZANCE",
+      "name": "Opekané ryžové rezance s kačacím mäsom",
+      "price": 8.5,
+      "description": "ryž. rezance, vajcia, čínska kapusta, mkrva, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a671"
+    },
+    {
+      "woltId": "32cdd8e30b0513ffdd8e712c",
+      "category": "REZANCE",
+      "name": "Opekané rezance s krevetami",
+      "price": 8.5,
+      "description": "rezance, vajcia, čínska kapusta, mkrva, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a67c"
+    },
+    {
+      "woltId": "3682798ffffb89580f203477",
+      "category": "HOVÄDZIE MÄSO",
+      "name": "Hovädzie s klíčkami",
+      "price": 7.8,
+      "description": "hovädzie mäso, klíčky, cibuľa, jarná cibuľka 250g",
+      "image": "https://imageproxy.wolt.com/assets/69314d2a7ece130ebc8b3b85"
+    },
+    {
+      "woltId": "36c4acf4ac944c930d7ec2b7",
+      "category": "KURACIE MÄSO",
+      "name": "Chrumkavé kura",
+      "price": 7,
+      "description": "kuracie mäso, vajcia, múka, šalát 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe3540d17501bbe47a5e2"
+    },
+    {
+      "woltId": "370cfd9e71c463ef6cd480d8",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Mien ga nam bo kuracie",
+      "price": 8.5,
+      "description": "kur. mäso, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašisy, mrkva 450g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe14b8e45b175b2f41732"
+    },
+    {
+      "woltId": "37cfdd378dcc2ce819522973",
+      "category": "REZANCE",
+      "name": "Udon rezance so zeleninou",
+      "price": 6.8,
+      "description": "rezance, vajcia, sezónna zelenina",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a67f"
+    },
+    {
+      "woltId": "393186b8f7483861838adc06",
+      "category": "SUSHI",
+      "name": "Ebi nigiri 6ks",
+      "price": 8,
+      "description": "krevety",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfed7"
+    },
+    {
+      "woltId": "3b141f664d794b5bf4916fa6",
+      "category": "SUSHI",
+      "name": "Ebi tempura 10ks",
+      "price": 10,
+      "description": "krevety, uhorky, pažítka, múka tempura, japonská majonéza",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfed6"
+    },
+    {
+      "woltId": "3bcef4eda923b17c9e15a98a",
+      "category": "POKE BOWLS",
+      "name": "Tofu",
+      "price": 10,
+      "description": "300g / obsahuje: 1,2",
+      "image": "https://imageproxy.wolt.com/assets/67dbfc864c3fda48124bfeb2"
+    },
+    {
+      "woltId": "3fcd6f0d2cb5f7528762f8a1",
+      "category": "BRAVČOVÉ MÄSO",
+      "name": "Bravčový rezeň",
+      "price": 6.8,
+      "description": "bravčové mäso, vajcia múka, šalát 200g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe5328e45b175b2f4175b"
+    },
+    {
+      "woltId": "44ed1a5de92a4f0ecd1ba3e2",
+      "category": "POLIEVKY",
+      "name": "Bún polievka s kuracím mäsom",
+      "price": 8,
+      "description": "kur. mäso, ryžové rezance, koriander, jarná cibuľka, vývar 750ml",
+      "image": "https://imageproxy.wolt.com/assets/67dbde624c3fda48124bfe45"
+    },
+    {
+      "woltId": "4694fb07dada5b274aaa3981",
+      "category": "RYBY A MORSKÉ PLODY",
+      "name": "Krevety so zeleninou",
+      "price": 7.8,
+      "description": "krevety, cibuľa, šampiňóny, brokolica, ba,busové výhonky, paprika, šalát 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbf6fc4c3fda48124bfea0"
+    },
+    {
+      "woltId": "47e38e4ad250a63c7a0fc1e6",
+      "category": "SUSHI",
+      "name": "Ebi nigiri 3ks",
+      "price": 4.5,
+      "description": "krevety",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfecb"
+    },
+    {
+      "woltId": "4900a22175466a6fd850a6ec",
+      "category": "POLIEVKY",
+      "name": "Kuracia polievka",
+      "price": 8,
+      "description": "kur. mäso, široké rezance, vývar, zázvor, jarná cibuľka, koriander, škorica, hviezdicový aníz 750ml",
+      "image": "https://imageproxy.wolt.com/assets/67dbde624c3fda48124bfe47"
+    },
+    {
+      "woltId": "4d00f8281e79fb5963fadb7d",
+      "category": "HOVÄDZIE MÄSO",
+      "name": "Hovädzie s fazuľou",
+      "price": 7.8,
+      "description": "restované hov. mäso, fazuľa, cesnak, ustricová omáčka, sójová omáčka 250g",
+      "image": "https://imageproxy.wolt.com/assets/69314ef57ece130ebc8b3c96"
+    },
+    {
+      "woltId": "4e45cf947db1d21c4279513f",
+      "category": "BEZMÄSITÉ JEDLÁ",
+      "name": "Tofu so zeleninou",
+      "price": 6.8,
+      "description": "tofu, mrkva, cibuľa, šampiňóny, brokolica, šalát, paprika, bambus. výhonky 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe6ce8e45b175b2f4176d"
+    },
+    {
+      "woltId": "504114e3d8a68212c472aff0",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Jarné závitky",
+      "price": 6.8,
+      "description": "brav. mäso, cibuľa, sklenené rezance, judášovo ucho, ryžový papier, vajcia 4ks",
+      "image": "https://imageproxy.wolt.com/assets/67dbe14b8e45b175b2f4172a"
+    },
+    {
+      "woltId": "5474b366e3ba4ec89b93f430",
+      "category": "SUSHI",
+      "name": "Tamago tempura 10ks",
+      "price": 9.8,
+      "description": "vajcia, uhorky, pažítka, japonská majonéza, múka tempura",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfeca"
+    },
+    {
+      "woltId": "5b7a2333c50ec2ab3c078873",
+      "category": "POLIEVKY",
+      "name": "Tofu polievka",
+      "price": 8,
+      "description": "tofu, široké rezance, vývar, zázvor, jarná cibuľka, koriander, škorica, hviezdicový aníz 750ml",
+      "image": "https://imageproxy.wolt.com/assets/692f626a35861cebc33612dc"
+    },
+    {
+      "woltId": "60f1e133339c0f7d718fda14",
+      "category": "POLIEVKY",
+      "name": "Bún polievka s hovädzím mäsom",
+      "price": 8.5,
+      "description": "hov. mäso, ryžové rezance, koriander, jarná cibuľka, vývar 750ml",
+      "image": "https://imageproxy.wolt.com/assets/692f64127e111a723486abe1"
+    },
+    {
+      "woltId": "63cbf65bc6e387684a0e62f1",
+      "category": "KURACIE MÄSO",
+      "name": "Kuracie tempura",
+      "price": 6.6,
+      "description": "kuracie mäso, múka, tatárska omáčka, šalát 200g",
+      "image": "https://imageproxy.wolt.com/assets/69314f4338b3239ead8f5172"
+    },
+    {
+      "woltId": "644ddd0935f7c6b15ccac820",
+      "category": "KURACIE MÄSO",
+      "name": "Kuracie s ananásom",
+      "price": 6.5,
+      "description": "kuracie mäso, ananás, mrkva, hrášok, šalát",
+      "image": "https://imageproxy.wolt.com/assets/693150c47d68e5375dcfd42f"
+    },
+    {
+      "woltId": "65046a2ec252c0b950de00f5",
+      "category": "POLIEVKY",
+      "name": "Tomyum s krevetami",
+      "price": 3.5,
+      "description": "krevety, zelenina, kokosové mlieko, tom yum omáčka",
+      "image": "https://imageproxy.wolt.com/assets/67dbde624c3fda48124bfe43"
+    },
+    {
+      "woltId": "65963611f372a9a6b3ff8fcb",
+      "category": "KURACIE MÄSO",
+      "name": "Kuracie s arašídovou omáčkou",
+      "price": 6.5,
+      "description": "kuracie mäso, mrkva, pór, cibuľa, arašídová omáčka, brokolica",
+      "image": "https://imageproxy.wolt.com/assets/67dbe3540d17501bbe47a5e5"
+    },
+    {
+      "woltId": "65d471e70ebed64b05ef013b",
+      "category": "SUSHI",
+      "name": "Kappa maki 8ks",
+      "price": 4,
+      "description": "uhorky, sezam",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfed3"
+    },
+    {
+      "woltId": "675dd43a5dcf9d2d53d3512b",
+      "category": "RIZOTO",
+      "name": "Rizoto s hovädzím mäsom",
+      "price": 8.5,
+      "description": "ryža, vajcia, mrkva, čínska kapista, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb644c3fda48124bfeaf"
+    },
+    {
+      "woltId": "6aade7a940670deebdcb405d",
+      "category": "SUSHI",
+      "name": "Ebi maki 8ks",
+      "price": 4.5,
+      "description": "krevety",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfecc"
+    },
+    {
+      "woltId": "6b874482ade257cdadd28e1c",
+      "category": "SUSHI",
+      "name": "Sake nigiri 6ks",
+      "price": 10,
+      "description": "losos",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfee0"
+    },
+    {
+      "woltId": "6ba97e1afd51b48a2dec7344",
+      "category": "POLIEVKY",
+      "name": "Bambusová",
+      "price": 2,
+      "description": "kuracie mäso, bambus, cibuľka, kurací vývar, sklenené rezance",
+      "image": "https://imageproxy.wolt.com/assets/67dbde624c3fda48124bfe4e"
+    },
+    {
+      "woltId": "6bdf1884f52c0a517ac790a1",
+      "category": "HOVÄDZIE MÄSO",
+      "name": "Hovädzie mäso s mango omáčkou",
+      "price": 7.8,
+      "description": "restované hov. mäso, brokolica, cesnak, ustricová omáčka, sezónna zelenina, mango omáčka 250g",
+      "image": "https://imageproxy.wolt.com/assets/69314dcf38b3239ead8f510a"
+    },
+    {
+      "woltId": "6d0e4586ab9898c30f9170db",
+      "category": "KURACIE MÄSO",
+      "name": "Teriyaki kura",
+      "price": 7,
+      "description": "kuracie mäso, teriyaki omáčka, šalát 200g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe3540d17501bbe47a5df"
+    },
+    {
+      "woltId": "6f8ae3888c2c7f3e5506b528",
+      "category": "PRÍLOHY",
+      "name": "Rizoto",
+      "price": 3.5,
+      "description": null,
+      "image": "https://imageproxy.wolt.com/assets/67dbfd368e45b175b2f417f1"
+    },
+    {
+      "woltId": "6f8c234bec93f960849b148d",
+      "category": "SUSHI",
+      "name": "Kani maki 8ks",
+      "price": 4.5,
+      "description": "krabia tyčinka",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfed9"
+    },
+    {
+      "woltId": "76b97005484b2b6be02349d5",
+      "category": "RYBY A MORSKÉ PLODY",
+      "name": "Tempura losos",
+      "price": 7.5,
+      "description": "losos, múka, mlieko 150g",
+      "image": "https://imageproxy.wolt.com/assets/67dbf6fc4c3fda48124bfe9c"
+    },
+    {
+      "woltId": "78767ece36f716b15e1bbe38",
+      "category": "POLIEVKY",
+      "name": "Mien polievka s krevetami",
+      "price": 8.5,
+      "description": "krevety, vývar, sklenené rezance, koriande, jarná cibuľka 750ml",
+      "image": "https://imageproxy.wolt.com/assets/692f637d35861cebc33612e3"
+    },
+    {
+      "woltId": "79263dc9d6df9ccdb7d1953b",
+      "category": "SUSHI SET",
+      "name": "Set 2",
+      "price": 12.9,
+      "description": "losos, krevety, japonská majonéza, avokádo, uhorky, tempura múka",
+      "image": "https://imageproxy.wolt.com/assets/68f0f75337e9a50256151492"
+    },
+    {
+      "woltId": "7c42a99eec81401789005bee",
+      "category": "BEZMÄSITÉ JEDLÁ",
+      "name": "Tofu s mango omáčkou",
+      "price": 6.8,
+      "description": "tofu, mango omáčka, paprika, zeler, mrkva, brokolica, cibuľa 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe6ce8e45b175b2f41773"
+    },
+    {
+      "woltId": "7ca41472acdf2ba1b325539a",
+      "category": "RYBY A MORSKÉ PLODY",
+      "name": "Krevety s mango omáčkou",
+      "price": 7.8,
+      "description": "restované krevety, zelenina, bazalka, kokos. mlieko, ryb. a mango omáčka",
+      "image": "https://imageproxy.wolt.com/assets/67dbf6fc4c3fda48124bfe9a"
+    },
+    {
+      "woltId": "7cecc5b7a2d9f2e9087b9834",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Mien dau nam bo tofu",
+      "price": 8.5,
+      "description": "tofu, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašisy, mrkva 450g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe14b8e45b175b2f41734"
+    },
+    {
+      "woltId": "7d99129cf80fe22930df88e2",
+      "category": "POLIEVKY",
+      "name": "Tomyum s kuracím mäsom",
+      "price": 3,
+      "description": "kuracie mäso, zelenina, kokosové mlieko, tom yum omáčka",
+      "image": "https://imageproxy.wolt.com/assets/67dbde624c3fda48124bfe52"
+    },
+    {
+      "woltId": "7ef43fcdd54e62b9be6782cc",
+      "category": "SUSHI",
+      "name": "Avokádo maki 16ks",
+      "price": 8,
+      "description": "avokádo, sezam",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfedf"
+    },
+    {
+      "woltId": "82ceb6636713f24fd5581055",
+      "category": "BRAVČOVÉ MÄSO",
+      "name": "Bravčové s arašídovou omáčkou",
+      "price": 6.8,
+      "description": "brav. mäso, mrkva, paprika, pór, brokolica, arašidová omáčka, šalát 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe5328e45b175b2f4175e"
+    },
+    {
+      "woltId": "82d583de8db94eb07d4e9f6b",
+      "category": "REZANCE",
+      "name": "Vaječné rezance so zeleninou",
+      "price": 6.8,
+      "description": "rezance, vajcia, sezónna zelenina",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a676"
+    },
+    {
+      "woltId": "842b1821c5bec6018f8a7e58",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Bun bo nam bo hovädzie",
+      "price": 8.5,
+      "description": "hov. mäso, varené ryž. rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva 450g",
+      "image": "https://imageproxy.wolt.com/assets/692f64b71f847ea89875f05d"
+    },
+    {
+      "woltId": "856d7d3daa56c0edaf7e7e66",
+      "category": "REZANCE",
+      "name": "Opekané udon rezance s hovädzím mäsom",
+      "price": 8.5,
+      "description": "udon rezance, paprika, mrkva, čínska kapusta, pór",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a674"
+    },
+    {
+      "woltId": "88c5ab0d6b0e5adf900eb730",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Mien bo nam bo hovädzie",
+      "price": 9,
+      "description": "hov. mäso, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašisy, mrkva 450g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe14b8e45b175b2f41737"
+    },
+    {
+      "woltId": "895e6582810bc034be202500",
+      "category": "POLIEVKY",
+      "name": "Krevetová polievka",
+      "price": 8.5,
+      "description": "krevety, široké rezance, vývar, zázvor, jarná cibuľka, koriander, škorica, hviezdicový aníz 750ml",
+      "image": "https://imageproxy.wolt.com/assets/692f623035861cebc33612d8"
+    },
+    {
+      "woltId": "8a76b1d8cb80af9c27871075",
+      "category": "BEZMÄSITÉ JEDLÁ",
+      "name": "Tofu s klíčkami",
+      "price": 6.8,
+      "description": "tofu, mrkva, cibuľa, šampiňóny, brokolica, šalát, paprika, bambus. výhonky 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe6ce8e45b175b2f41770"
+    },
+    {
+      "woltId": "8d431437ff2bd1217c4d2400",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Bun ngan kačacie",
+      "price": 8.5,
+      "description": "kač. mäso, varené ryž. rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva 450g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe14b8e45b175b2f41731"
+    },
+    {
+      "woltId": "8d9627301e19601005dc2cf7",
+      "category": "HOVÄDZIE MÄSO",
+      "name": "Hovädzie pikantné",
+      "price": 7.8,
+      "description": "hovädzie mäso, mrkva, cibuľa, paprika, šalát, šampiňóny, čili paprička, bam. výhonky 250g",
+      "image": "https://imageproxy.wolt.com/assets/69314ed87ece130ebc8b3c8d"
+    },
+    {
+      "woltId": "8da6066534d3180a97645754",
+      "category": "SUSHI SET",
+      "name": "Set 6",
+      "price": 7.8,
+      "description": "avokádo, losos",
+      "image": "https://imageproxy.wolt.com/assets/693150d77d68e5375dcfd434"
+    },
+    {
+      "woltId": "8dbce5661874773e6c0e0ac3",
+      "category": "REZANCE",
+      "name": "Sklenené rezance so zeleninou",
+      "price": 6.8,
+      "description": "rezance, vajcia, sezónna zelenina",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a681"
+    },
+    {
+      "woltId": "8e04e92ac89c228da5376ae1",
+      "category": "SUSHI",
+      "name": "Ebi tempura 5ks",
+      "price": 6,
+      "description": "krevety, uhorky, pažítka, múka tempura, japonská majonéza",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfed0"
+    },
+    {
+      "woltId": "8e51847a784f08c1a7e65774",
+      "category": "BEZMÄSITÉ JEDLÁ",
+      "name": "Tofu s fazuľou",
+      "price": 6.8,
+      "description": "tofu, mrkva, cibuľa, šampiňóny, brokolica, šalát, paprika, bambus. výhonky 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe6ce8e45b175b2f4176f"
+    },
+    {
+      "woltId": "8f324714faddb96d11135905",
+      "category": "REZANCE",
+      "name": "Opekané udon rezance s kačacím mäsom",
+      "price": 8.5,
+      "description": "udon rezance, paprika, mrkva, čínska kapusta, pór",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a67d"
+    },
+    {
+      "woltId": "902d7c4b662f5275bca366f1",
+      "category": "REZANCE",
+      "name": "Opekané ryžové rezance s krevetami",
+      "price": 8.5,
+      "description": "ryž. rezance, vajcia, čínska kapusta, mkrva, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a675"
+    },
+    {
+      "woltId": "98d2fe93cd846bfa374a0f33",
+      "category": "SUSHI SET",
+      "name": "Set 4",
+      "price": 10.9,
+      "description": "avokádo, losos, krevety",
+      "image": "https://imageproxy.wolt.com/assets/693150cb7d68e5375dcfd430"
+    },
+    {
+      "woltId": "9bef02f885a324fb0eb45815",
+      "category": "REZANCE",
+      "name": "Opekané rezance s tofu",
+      "price": 8,
+      "description": "rezance, vajcia, čínska kapusta, mkrva, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a67a"
+    },
+    {
+      "woltId": "9de1400491d451437c17dfdb",
+      "category": "SUSHI",
+      "name": "Sake nigiri 3ks",
+      "price": 6,
+      "description": "losos",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfec8"
+    },
+    {
+      "woltId": "a07177b2b15b90cc198f710a",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Bun tom nam bo krevetové",
+      "price": 8.5,
+      "description": "krevety, varené ryž. rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva 450g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe14b8e45b175b2f4172b"
+    },
+    {
+      "woltId": "a23b57aa1dc19c7e4d4edd17",
+      "category": "POLIEVKY",
+      "name": "Vývar",
+      "price": 2,
+      "description": "kuracie mäso, kurací vývar, rezance, jarná cibuľka",
+      "image": "https://imageproxy.wolt.com/assets/67dbde624c3fda48124bfe42"
+    },
+    {
+      "woltId": "a5912ba965369816300849f3",
+      "category": "BRAVČOVÉ MÄSO",
+      "name": "Bravčové mäso pikantné",
+      "price": 6.8,
+      "description": "brav. mäso, mrkva, paprika, brokolica, čínska, kapusta, pór 250g",
+      "image": "https://imageproxy.wolt.com/assets/69314f1638b3239ead8f5169"
+    },
+    {
+      "woltId": "a6f1c29a852123eaa8b71643",
+      "category": "SUSHI SET",
+      "name": "Set 1",
+      "price": 12.9,
+      "description": "losos, uhorky, avokádo, pažítky, japonská majonéza",
+      "image": "https://imageproxy.wolt.com/assets/68f0f74d37e9a5025615145b"
+    },
+    {
+      "woltId": "a8402c183c23a7d4a5e7729f",
+      "category": "SUSHI",
+      "name": "Kani maki 16ks",
+      "price": 8,
+      "description": "krabia tyčinka",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfede"
+    },
+    {
+      "woltId": "ae89d63d04d204fbf9940bd6",
+      "category": "POLIEVKY",
+      "name": "Tomyum s tofu",
+      "price": 3,
+      "description": "tofu, zelenina, kokosové mlieko, tom yum omáčka",
+      "image": "https://imageproxy.wolt.com/assets/67dbde624c3fda48124bfe51"
+    },
+    {
+      "woltId": "aec5a0b07cbf434c9f1dfadd",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Bun dau nam bo tofu",
+      "price": 8,
+      "description": "tofu, varené ryž. rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva 450g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe14b8e45b175b2f4172c"
+    },
+    {
+      "woltId": "af4ea65c24c0dd56b9a04efb",
+      "category": "SUSHI",
+      "name": "Avokádo maki 8ks",
+      "price": 4.5,
+      "description": "avokádo, sezam",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfed5"
+    },
+    {
+      "woltId": "af6f6e7359a72539b5975009",
+      "category": "KURACIE MÄSO",
+      "name": "Kuracie s mangovou omáčkou",
+      "price": 6.5,
+      "description": "kuracie mäso, pór cibuľa, mangová omáčka, brokolica, mrkva",
+      "image": "https://imageproxy.wolt.com/assets/67dbe3540d17501bbe47a5e7"
+    },
+    {
+      "woltId": "b092e51ee073b6983c9b42a2",
+      "category": "SUSHI SET",
+      "name": "Set 5",
+      "price": 10.9,
+      "description": "uhorky, avokádo, reďkovka",
+      "image": "https://imageproxy.wolt.com/assets/6943a048b089f867cf45fe6a"
+    },
+    {
+      "woltId": "b1caf0045c38e2a4c5b47feb",
+      "category": "POKE BOWLS",
+      "name": "Losos",
+      "price": 11,
+      "description": "300g / obsahuje: 1,4",
+      "image": "https://imageproxy.wolt.com/assets/67dbfc864c3fda48124bfeb1"
+    },
+    {
+      "woltId": "b25c6bde0cf1a8d966d4fdc2",
+      "category": "PRÍLOHY",
+      "name": "Zemiaky",
+      "price": 2,
+      "description": null,
+      "image": "https://imageproxy.wolt.com/assets/67dbfd368e45b175b2f417f6"
+    },
+    {
+      "woltId": "b2af18f6c799ab9d7160db29",
+      "category": "SUSHI",
+      "name": "Sake futomaki 5ks",
+      "price": 6,
+      "description": "losos, šalátová zelenina, uhorky, mango, japonská majonéza",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfece"
+    },
+    {
+      "woltId": "b43dbdf390c1fcf1acec3b47",
+      "category": "SUSHI",
+      "name": "Sake maki 8 ks",
+      "price": 5,
+      "description": "losos",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfeda"
+    },
+    {
+      "woltId": "b5840b72bd31b4a5ce96afff",
+      "category": "REZANCE",
+      "name": "Opekané sklenené rezance s hovädzím mäsom",
+      "price": 8.5,
+      "description": "sklenené rezance, mrkva, judášovo ucho, pór",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a66e"
+    },
+    {
+      "woltId": "b8a9b94edc30a6a8b56db758",
+      "category": "REZANCE",
+      "name": "Opekané udon rezance s krevetami",
+      "price": 8.5,
+      "description": "udon rezance, paprika, mrkva, čínska kapusta, pór",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a66d"
+    },
+    {
+      "woltId": "b8f6e853a5728f8775010174",
+      "category": "POLIEVKY",
+      "name": "Hovädzia polievka",
+      "price": 8.5,
+      "description": "hov. mäso, široké rezance, vývar, zázvor, jarná cibuľka, koriander, škorica, hviezdicový aníz 750ml",
+      "image": "https://imageproxy.wolt.com/assets/67dbde624c3fda48124bfe50"
+    },
+    {
+      "woltId": "ba4a022a98f4a192d7b6fcb1",
+      "category": "RIZOTO",
+      "name": "Rizoto s krevetami",
+      "price": 8.5,
+      "description": "ryža, vajcia, mrkva, čínska kapista, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb644c3fda48124bfeab"
+    },
+    {
+      "woltId": "bbec47e39841353ee35bff5c",
+      "category": "RYBY A MORSKÉ PLODY",
+      "name": "Krevety s arašídovou omáčkou",
+      "price": 7.8,
+      "description": "restované krevety, zelenina, bazalka, kokos. mlieko, ryb. a arašídová omáčka",
+      "image": "https://imageproxy.wolt.com/assets/67dbf6fc4c3fda48124bfe9e"
+    },
+    {
+      "woltId": "bc649cc19bd3e4b10c9cf117",
+      "category": "REZANCE",
+      "name": "Opekané rezance s hovädzím mäsom",
+      "price": 8.5,
+      "description": "rezance, vajcia, čínska kapusta, mkrva, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a682"
+    },
+    {
+      "woltId": "bcea8a4e5da7c947429fe6f6",
+      "category": "RYBY A MORSKÉ PLODY",
+      "name": "Krevety na curry",
+      "price": 7.8,
+      "description": "restované krevety, zelenina, bazalka, kokos. mlieko, ryb. a kari omáčka",
+      "image": "https://imageproxy.wolt.com/assets/67dbf6fc4c3fda48124bfea2"
+    },
+    {
+      "woltId": "bdb6c62e039e427801a4df19",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Bun ga nam bo kuracie",
+      "price": 8,
+      "description": "kur. mäso, varené ryž. rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva 450g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe14b8e45b175b2f41733"
+    },
+    {
+      "woltId": "bdf014bb60156490c48871e0",
+      "category": "BEZMÄSITÉ JEDLÁ",
+      "name": "Tofu na curry",
+      "price": 6.8,
+      "description": "tofu, curry omáčka, paprika, zeler, mrkva, brokolica, cibuľa 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe6ce8e45b175b2f41772"
+    },
+    {
+      "woltId": "be22c7514f408476cbed6c7c",
+      "category": "HOVÄDZIE MÄSO",
+      "name": "Hovädzie na curry",
+      "price": 7.8,
+      "description": "restované hov. mäso, brokolica, cesnak, ustricová omáčka, sezónna zelenina, kari omáčka 250g",
+      "image": "https://imageproxy.wolt.com/assets/69314efe7ece130ebc8b3c9b"
+    },
+    {
+      "woltId": "bee311729918ac4e6e906b1f",
+      "category": "RIZOTO",
+      "name": "Rizoto s kuracím mäsom",
+      "price": 8,
+      "description": "ryža, vajcia, mrkva, čínska kapista, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb644c3fda48124bfead"
+    },
+    {
+      "woltId": "c0362adc4e1558e7d8e2cf1d",
+      "category": "BRAVČOVÉ MÄSO",
+      "name": "Bravčové so zeleninou",
+      "price": 6.8,
+      "description": "brav. mäso, mrkva, paprika, brokolica, čínska, kapusta, pór 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe5328e45b175b2f41759"
+    },
+    {
+      "woltId": "c22e8178a60e0a9a94c66fe7",
+      "category": "REZANCE",
+      "name": "Opekané udon rezance s tofu",
+      "price": 8,
+      "description": "udon rezance, paprika, mrkva, čínska kapusta, pór",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a677"
+    },
+    {
+      "woltId": "c268df566381e54a4b5d1cd6",
+      "category": "REZANCE",
+      "name": "Opekané udon rezance s kuracím mäsom",
+      "price": 8,
+      "description": "udon rezance, paprika, mrkva, čínska kapusta, pór",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a684"
+    },
+    {
+      "woltId": "c26cdcdc15e86e4e78c86318",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Bun nem",
+      "price": 8.5,
+      "description": "jarný závitok, varené ryž. rezance, vietnamská zelenina, omáčka 450g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe14b8e45b175b2f4172f"
+    },
+    {
+      "woltId": "c3789225fe6aba8ee3d19e03",
+      "category": "HOVÄDZIE MÄSO",
+      "name": "Hovädzie mäso s arašídovou omáčkou",
+      "price": 7.8,
+      "description": "restované hov. mäso, brokolica, cesnak, ustricová omáčka, sezónna zelenina, arašídová omáčka 250g",
+      "image": "https://imageproxy.wolt.com/assets/69314f4b38b3239ead8f5175"
+    },
+    {
+      "woltId": "c48d4c5cd23d309a49d217de",
+      "category": "POLIEVKY",
+      "name": "Mien polievka s tofu",
+      "price": 8,
+      "description": "tofu, vývar, sklenené rezance, koriande, jarná cibuľka 750ml",
+      "image": "https://imageproxy.wolt.com/assets/692f63331f847ea89875f053"
+    },
+    {
+      "woltId": "c55cfcdc746abc27e3dd183b",
+      "category": "REZANCE",
+      "name": "Opekané ryžové rezance s kuracím mäsom",
+      "price": 8,
+      "description": "ryž. rezance, vajcia, čínska kapusta, mkrva, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a683"
+    },
+    {
+      "woltId": "c99f8f3e47887c1519aeaf4a",
+      "category": "SUSHI",
+      "name": "Ebi maki 16ks",
+      "price": 8,
+      "description": "krevety",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfecd"
+    },
+    {
+      "woltId": "caa7f04cc1c9de3a215e194a",
+      "category": "SUSHI",
+      "name": "Sake maki 16ks",
+      "price": 8.5,
+      "description": "losos",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfed8"
+    },
+    {
+      "woltId": "ccf7a8fdbca7f23d22690ce4",
+      "category": "PRÍLOHY",
+      "name": "Hranolky",
+      "price": 2,
+      "description": null,
+      "image": "https://imageproxy.wolt.com/assets/67dbfd368e45b175b2f417f4"
+    },
+    {
+      "woltId": "ce75142606227030533ac7c3",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Chrumkavá kačica",
+      "price": 7.2,
+      "description": "kačacie mäso, vajcia, múka, šalát 250g",
+      "image": "https://imageproxy.wolt.com/assets/69314d447d68e5375dcfd289"
+    },
+    {
+      "woltId": "cfb20f543b4f8cdf6aa54eb3",
+      "category": "REZANCE",
+      "name": "Opekané sklenené rezance s kačacím mäsom",
+      "price": 8.5,
+      "description": "sklenené rezance, mrkva, judášovo ucho, pór",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a670"
+    },
+    {
+      "woltId": "d09b6538f0ac0a437e1495b7",
+      "category": "KURACIE MÄSO",
+      "name": "Kuracie kung pao",
+      "price": 6.5,
+      "description": "kuracie mäso, mrkva, bamb. výhonky, pór, omáčka, paprika, judášovo ucho, paprika",
+      "image": "https://imageproxy.wolt.com/assets/69314d3c7d68e5375dcfd286"
+    },
+    {
+      "woltId": "d16c331eaa9f3ec347520724",
+      "category": "REZANCE",
+      "name": "Opekané rezance s kačacím mäsom",
+      "price": 8.5,
+      "description": "rezance, vajcia, čínska kapusta, mkrva, šalát",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a66f"
+    },
+    {
+      "woltId": "d52efe2bcca6599f4d02786d",
+      "category": "RYBY A MORSKÉ PLODY",
+      "name": "Krevety s klíčkami",
+      "price": 7.8,
+      "description": "krevety, klíčky, cibuľa, jarná cibuľka, pór 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbf6fc4c3fda48124bfe9b"
+    },
+    {
+      "woltId": "d62c8629cc1f7c38cf1617e5",
+      "category": "POLIEVKY",
+      "name": "Ostrokyslá",
+      "price": 2,
+      "description": "kuracie mäso, mrkva, paprika, voňavé huby, vajcia, judášovo ucho, bam. výhonky",
+      "image": "https://imageproxy.wolt.com/assets/67dbde624c3fda48124bfe4b"
+    },
+    {
+      "woltId": "d805ea3eef87aa0e4987b8b2",
+      "category": "POLIEVKY",
+      "name": "Mien polievka s hovädzím mäsom",
+      "price": 8.5,
+      "description": "hov. mäso, vývar, sklenené rezance, koriande, jarná cibuľka 750ml",
+      "image": "https://imageproxy.wolt.com/assets/692f635b7e111a723486abdf"
+    },
+    {
+      "woltId": "da3f6bef1d7e0168cf389d5a",
+      "category": "RYBY A MORSKÉ PLODY",
+      "name": "Krevety s fazuľou",
+      "price": 7.8,
+      "description": "krevety, fazuľa, cibuľa, jarná cibuľka, mrkva, cesnak 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbf6fc4c3fda48124bfe9f"
+    },
+    {
+      "woltId": "db969911b91a1e47a7734d4d",
+      "category": "PRÍLOHY",
+      "name": "Opekané ryžové rezance",
+      "price": 3.5,
+      "description": null,
+      "image": "https://imageproxy.wolt.com/assets/67dbfd368e45b175b2f417f5"
+    },
+    {
+      "woltId": "de73f57af672cecac3353107",
+      "category": "SUSHI",
+      "name": "Sake futomaki 10ks",
+      "price": 9.8,
+      "description": "losos, šalátová zelenina, uhorky, mango, japonská majonéza",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfed2"
+    },
+    {
+      "woltId": "df9ab5cdcbc497f47352bd6e",
+      "category": "REZANCE",
+      "name": "Opekané sklenené rezance s kuracím mäsom",
+      "price": 8,
+      "description": "sklenené rezance, mrkva, judášovo ucho, pór",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a680"
+    },
+    {
+      "woltId": "e6c4da114efe3cdc81e38b53",
+      "category": "SUSHI",
+      "name": "Tamago tempura 5ks",
+      "price": 6,
+      "description": "vajcia, uhorky, pažítka, japonská majonéza, múka tempura",
+      "image": "https://imageproxy.wolt.com/assets/67dc026a4c3fda48124bfee1"
+    },
+    {
+      "woltId": "e9833810ebb61dd2dd789d04",
+      "category": "KURACIE MÄSO",
+      "name": "Kuracie s klíčkami",
+      "price": 6.5,
+      "description": "klíčky, kuracie mäso, cibuľa, jarná cibuľka, mrkva",
+      "image": "https://imageproxy.wolt.com/assets/693150f87d68e5375dcfd43b"
+    },
+    {
+      "woltId": "ead9abdafe540953987c598a",
+      "category": "HLAVNÉ JEDLÁ",
+      "name": "Mien ngan kačacie",
+      "price": 9,
+      "description": "kač. mäso, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašisy, mrkva 450g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe1788e45b175b2f41738"
+    },
+    {
+      "woltId": "ede0466d54ba28daee2a6556",
+      "category": "KURACIE MÄSO",
+      "name": "Kuracie so zeleninou",
+      "price": 6.5,
+      "description": "kuracie mäso, paprika, čili paprička, mrkva, čínska kapusta, pór, citronella",
+      "image": "https://imageproxy.wolt.com/assets/67dbe3540d17501bbe47a5e1"
+    },
+    {
+      "woltId": "ee4ebecc5c7d1ac8c17df4a2",
+      "category": "HOVÄDZIE MÄSO",
+      "name": "Hovädzie so zeleninou",
+      "price": 7.8,
+      "description": "hovädzie mäso, mrkva, cibuľa, paprika, šampiňóny, kapusta, bam. výhonky, šalát 250g",
+      "image": "https://imageproxy.wolt.com/assets/69314f3b38b3239ead8f5171"
+    },
+    {
+      "woltId": "f529dfc71e4ec3068b0a4b16",
+      "category": "BEZMÄSITÉ JEDLÁ",
+      "name": "Tofu s arašídovou omáčkou",
+      "price": 6.5,
+      "description": "tofu, arašídová omáčka, paprika, zeler, mrkva, brokolica, cibuľa 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe6ce8e45b175b2f41771"
+    },
+    {
+      "woltId": "f6ca470cc8a10b52611d6a14",
+      "category": "REZANCE",
+      "name": "Opekané sklenené rezance s krevetami",
+      "price": 8.5,
+      "description": "sklenené rezance, mrkva, judášovo ucho, pór",
+      "image": "https://imageproxy.wolt.com/assets/67dbfb0b0d17501bbe47a678"
+    },
+    {
+      "woltId": "f7a396f5bf3f02de04e8f3b9",
+      "category": "POKE BOWLS",
+      "name": "Kuracie tempura",
+      "price": 10,
+      "description": "300g / obsahuje: 1,2",
+      "image": "https://imageproxy.wolt.com/assets/67dbfc864c3fda48124bfeb3"
+    },
+    {
+      "woltId": "f83cca1e05dce25d92ee7163",
+      "category": "KURACIE MÄSO",
+      "name": "Pikantné kuracie mäso",
+      "price": 7,
+      "description": "kuracie mäso, paprika, mrkva, brokolica, čínska kapusta",
+      "image": "https://imageproxy.wolt.com/assets/69314f3138b3239ead8f516f"
+    },
+    {
+      "woltId": "f8838f5f042a6797787b33cc",
+      "category": "SUSHI SET",
+      "name": "Set 3",
+      "price": 12.9,
+      "description": "krevety, pažítky, japonská majonéza, avokádo, uhorky, tempura múka, sweet chilli omáčka",
+      "image": "https://imageproxy.wolt.com/assets/69314e9438b3239ead8f514f"
+    },
+    {
+      "woltId": "f8b56ddfd35810c369a53b9a",
+      "category": "POLIEVKY",
+      "name": "Mien polievka s kuracím mäsom",
+      "price": 8,
+      "description": "kur. mäso, vývar, sklenené rezance, koriande, jarná cibuľka 750ml",
+      "image": "https://imageproxy.wolt.com/assets/692f63f21f847ea89875f059"
+    },
+    {
+      "woltId": "fb22d01869f6d0e233c5a896",
+      "category": "RYBY A MORSKÉ PLODY",
+      "name": "Obaľované krevety",
+      "price": 7.8,
+      "description": "krevety, múka, šalát 6ks",
+      "image": "https://imageproxy.wolt.com/assets/67dbf6fc4c3fda48124bfea1"
+    },
+    {
+      "woltId": "fe316f8f7d4c301d1ed559f5",
+      "category": "BRAVČOVÉ MÄSO",
+      "name": "Bravčové na kari",
+      "price": 6.8,
+      "description": "brav. mäso, mrkva, paprika, pór, brokolica, kari omáčka, šalát 250g",
+      "image": "https://imageproxy.wolt.com/assets/67dbe5328e45b175b2f4175a"
+    }
+  ],
+  "files": [
+    {
+      "file": "assets/menu-originals-wolt/avokado-maki.png",
+      "bestDiff": 1.76,
+      "woltDishes": [
+        {
+          "name": "Avokádo maki 16ks",
+          "category": "SUSHI",
+          "diff": 1.76
+        },
+        {
+          "name": "Avokádo maki 8ks",
+          "category": "SUSHI",
+          "diff": 1.76
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bambusova.png",
+      "bestDiff": 0.77,
+      "woltDishes": [
+        {
+          "name": "Bambusová",
+          "category": "POLIEVKY",
+          "diff": 0.77
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bravcove-maso-pikantne.png",
+      "bestDiff": 0.97,
+      "woltDishes": [
+        {
+          "name": "Bravčové so zeleninou",
+          "category": "BRAVČOVÉ MÄSO",
+          "diff": 0.97
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bravcove-na-kari.png",
+      "bestDiff": 0.97,
+      "woltDishes": [
+        {
+          "name": "Bravčové na kari",
+          "category": "BRAVČOVÉ MÄSO",
+          "diff": 0.97
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bravcove-s-arasidovou-omackou.png",
+      "bestDiff": 0.73,
+      "woltDishes": [
+        {
+          "name": "Bravčové s arašídovou omáčkou",
+          "category": "BRAVČOVÉ MÄSO",
+          "diff": 0.73
+        },
+        {
+          "name": "Kuracie s arašídovou omáčkou",
+          "category": "KURACIE MÄSO",
+          "diff": 0.89
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bravcove-s-mango-omackou.png",
+      "bestDiff": 0.9,
+      "woltDishes": [
+        {
+          "name": "Bravčové s mango omáčkou",
+          "category": "BRAVČOVÉ MÄSO",
+          "diff": 0.9
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bravcove-so-zeleninou.png",
+      "bestDiff": 0.97,
+      "woltDishes": [
+        {
+          "name": "Bravčové so zeleninou",
+          "category": "BRAVČOVÉ MÄSO",
+          "diff": 0.97
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bravcovy-rezen.png",
+      "bestDiff": 0.44,
+      "woltDishes": [
+        {
+          "name": "Bravčový rezeň",
+          "category": "BRAVČOVÉ MÄSO",
+          "diff": 0.44
+        },
+        {
+          "name": "Kurací rezeň",
+          "category": "KURACIE MÄSO",
+          "diff": 0.44
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bun-bo-nam-bo-hovadzie.png",
+      "bestDiff": 1.11,
+      "woltDishes": [
+        {
+          "name": "Bun bo nam bo hovädzie",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 1.11
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bun-dau-nam-bo-tofu.png",
+      "bestDiff": 0.99,
+      "woltDishes": [
+        {
+          "name": "Bun dau nam bo tofu",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 0.99
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bun-ga-nam-bo-kuracie.png",
+      "bestDiff": 0.85,
+      "woltDishes": [
+        {
+          "name": "Bun ga nam bo kuracie",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 0.85
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bun-nem.png",
+      "bestDiff": 1.02,
+      "woltDishes": [
+        {
+          "name": "Bun nem",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 1.02
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bun-ngan-kacacie.png",
+      "bestDiff": 2.18,
+      "woltDishes": [
+        {
+          "name": "Bun ngan kačacie",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 2.18
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bun-polievka-s-hovadzim-masom.png",
+      "bestDiff": 0.88,
+      "woltDishes": [
+        {
+          "name": "Bún polievka s hovädzím mäsom",
+          "category": "POLIEVKY",
+          "diff": 0.88
+        },
+        {
+          "name": "Mien polievka s hovädzím mäsom",
+          "category": "POLIEVKY",
+          "diff": 0.88
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bun-polievka-s-krevetkami.png",
+      "bestDiff": 1.04,
+      "woltDishes": [
+        {
+          "name": "Bún polievka s krevetami",
+          "category": "POLIEVKY",
+          "diff": 1.04
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bun-polievka-s-kuracim-masom.png",
+      "bestDiff": 1.28,
+      "woltDishes": [
+        {
+          "name": "Bún polievka s kuracím mäsom",
+          "category": "POLIEVKY",
+          "diff": 1.28
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bun-polievka-s-tofu.png",
+      "bestDiff": 0.82,
+      "woltDishes": [
+        {
+          "name": "Bún polievka s tofu",
+          "category": "POLIEVKY",
+          "diff": 0.82
+        },
+        {
+          "name": "Tofu polievka",
+          "category": "POLIEVKY",
+          "diff": 0.82
+        },
+        {
+          "name": "Mien polievka s tofu",
+          "category": "POLIEVKY",
+          "diff": 0.82
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/bun-tom-nam-bo-krevetove.png",
+      "bestDiff": 1.65,
+      "woltDishes": [
+        {
+          "name": "Bun tom nam bo krevetové",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 1.65
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/california-futomaki.png",
+      "bestDiff": 0.76,
+      "woltDishes": [
+        {
+          "name": "California futomaki 5ks",
+          "category": "SUSHI",
+          "diff": 0.76
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/cercstve-jarne-rolky.png",
+      "bestDiff": 0.59,
+      "woltDishes": [
+        {
+          "name": "Čerstvé jarné rolky",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 0.59
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/chrumkava-kacica.png",
+      "bestDiff": 0.95,
+      "woltDishes": [
+        {
+          "name": "Chrumkavá kačica",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 0.95
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/chrumkave-kura.png",
+      "bestDiff": 0.85,
+      "woltDishes": [
+        {
+          "name": "Chrumkavé kura",
+          "category": "KURACIE MÄSO",
+          "diff": 0.85
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/ebi-maki.png",
+      "bestDiff": 0.62,
+      "woltDishes": [
+        {
+          "name": "Ebi maki 8ks",
+          "category": "SUSHI",
+          "diff": 0.62
+        },
+        {
+          "name": "Ebi maki 16ks",
+          "category": "SUSHI",
+          "diff": 0.62
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/ebi-nigiri.png",
+      "bestDiff": 1.49,
+      "woltDishes": [
+        {
+          "name": "Ebi nigiri 6ks",
+          "category": "SUSHI",
+          "diff": 1.49
+        },
+        {
+          "name": "Ebi nigiri 3ks",
+          "category": "SUSHI",
+          "diff": 1.49
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/ebi-tempura.png",
+      "bestDiff": 1.52,
+      "woltDishes": [
+        {
+          "name": "Ebi tempura 10ks",
+          "category": "SUSHI",
+          "diff": 1.52
+        },
+        {
+          "name": "Ebi tempura 5ks",
+          "category": "SUSHI",
+          "diff": 1.52
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/hovadzia-polievka.png",
+      "bestDiff": 0.77,
+      "woltDishes": [
+        {
+          "name": "Bambusová",
+          "category": "POLIEVKY",
+          "diff": 0.77
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/hovadzie-maso-s-arasidovou-omackou.png",
+      "bestDiff": 0.94,
+      "woltDishes": [
+        {
+          "name": "Bravčové mäso pikantné",
+          "category": "BRAVČOVÉ MÄSO",
+          "diff": 0.94
+        },
+        {
+          "name": "Hovädzie na curry",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 0.94
+        },
+        {
+          "name": "Hovädzie mäso s arašídovou omáčkou",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 0.94
+        },
+        {
+          "name": "Hovädzie so zeleninou",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 0.94
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/hovadzie-maso-s-mango-omackou.png",
+      "bestDiff": 1.05,
+      "woltDishes": [
+        {
+          "name": "Hovädzie mäso s mango omáčkou",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 1.05
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/hovadzie-na-curry.png",
+      "bestDiff": 0.94,
+      "woltDishes": [
+        {
+          "name": "Bravčové mäso pikantné",
+          "category": "BRAVČOVÉ MÄSO",
+          "diff": 0.94
+        },
+        {
+          "name": "Hovädzie na curry",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 0.94
+        },
+        {
+          "name": "Hovädzie mäso s arašídovou omáčkou",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 0.94
+        },
+        {
+          "name": "Hovädzie so zeleninou",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 0.94
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/hovadzie-pikantne.png",
+      "bestDiff": 1.12,
+      "woltDishes": [
+        {
+          "name": "Hovädzie pikantné",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 1.12
+        },
+        {
+          "name": "Pikantné kuracie mäso",
+          "category": "KURACIE MÄSO",
+          "diff": 1.12
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/hovadzie-s-fazulou.png",
+      "bestDiff": 1.13,
+      "woltDishes": [
+        {
+          "name": "Hovädzie s fazuľou",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 1.13
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/hovadzie-s-klickami.png",
+      "bestDiff": 0.97,
+      "woltDishes": [
+        {
+          "name": "Hovädzie s klíčkami",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 0.97
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/hovadzie-so-zeleninou.png",
+      "bestDiff": 0.94,
+      "woltDishes": [
+        {
+          "name": "Bravčové mäso pikantné",
+          "category": "BRAVČOVÉ MÄSO",
+          "diff": 0.94
+        },
+        {
+          "name": "Hovädzie na curry",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 0.94
+        },
+        {
+          "name": "Hovädzie mäso s arašídovou omáčkou",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 0.94
+        },
+        {
+          "name": "Hovädzie so zeleninou",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 0.94
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/hranolky.png",
+      "bestDiff": 0.7,
+      "woltDishes": [
+        {
+          "name": "Hranolky",
+          "category": "PRÍLOHY",
+          "diff": 0.7
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/jarne-zavitky.png",
+      "bestDiff": 1.02,
+      "woltDishes": [
+        {
+          "name": "Bun nem",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 1.02
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kani-maki.png",
+      "bestDiff": 2.24,
+      "woltDishes": [
+        {
+          "name": "Kani maki 8ks",
+          "category": "SUSHI",
+          "diff": 2.24
+        },
+        {
+          "name": "Kani maki 16ks",
+          "category": "SUSHI",
+          "diff": 2.24
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kappa-maki.png",
+      "bestDiff": 2.72,
+      "woltDishes": [
+        {
+          "name": "Kappa maki 16ks",
+          "category": "SUSHI",
+          "diff": 2.72
+        },
+        {
+          "name": "Kappa maki 8ks",
+          "category": "SUSHI",
+          "diff": 2.72
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/krevetova-polievka.png",
+      "bestDiff": 0.91,
+      "woltDishes": [
+        {
+          "name": "Mien polievka s krevetami",
+          "category": "POLIEVKY",
+          "diff": 0.91
+        },
+        {
+          "name": "Krevetová polievka",
+          "category": "POLIEVKY",
+          "diff": 0.91
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/krevety-na-curry.png",
+      "bestDiff": 0.5,
+      "woltDishes": [
+        {
+          "name": "Krevety na curry",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 0.5
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/krevety-s-arasidovou-omackou.png",
+      "bestDiff": 0.92,
+      "woltDishes": [
+        {
+          "name": "Krevety s mango omáčkou",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 0.92
+        },
+        {
+          "name": "Krevety s arašídovou omáčkou",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 0.92
+        },
+        {
+          "name": "Tofu s arašídovou omáčkou",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 1.26
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/krevety-s-fazolou.png",
+      "bestDiff": 1.04,
+      "woltDishes": [
+        {
+          "name": "Krevety so zeleninou",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 1.04
+        },
+        {
+          "name": "Krevety s klíčkami",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 1.04
+        },
+        {
+          "name": "Krevety s fazuľou",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 1.04
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/krevety-s-klickami.png",
+      "bestDiff": 1.04,
+      "woltDishes": [
+        {
+          "name": "Krevety so zeleninou",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 1.04
+        },
+        {
+          "name": "Krevety s klíčkami",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 1.04
+        },
+        {
+          "name": "Krevety s fazuľou",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 1.04
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/krevety-s-mango-omackou.png",
+      "bestDiff": 0.92,
+      "woltDishes": [
+        {
+          "name": "Krevety s mango omáčkou",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 0.92
+        },
+        {
+          "name": "Krevety s arašídovou omáčkou",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 0.92
+        },
+        {
+          "name": "Tofu s arašídovou omáčkou",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 1.26
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/krevety-so-zeleninou.png",
+      "bestDiff": 1.04,
+      "woltDishes": [
+        {
+          "name": "Krevety so zeleninou",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 1.04
+        },
+        {
+          "name": "Krevety s klíčkami",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 1.04
+        },
+        {
+          "name": "Krevety s fazuľou",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 1.04
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuraci-rezen.png",
+      "bestDiff": 0.49,
+      "woltDishes": [
+        {
+          "name": "Kurací rezeň",
+          "category": "KURACIE MÄSO",
+          "diff": 0.49
+        },
+        {
+          "name": "Bravčový rezeň",
+          "category": "BRAVČOVÉ MÄSO",
+          "diff": 0.55
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuracia-polievka.png",
+      "bestDiff": 0.98,
+      "woltDishes": [
+        {
+          "name": "Kuracia polievka",
+          "category": "POLIEVKY",
+          "diff": 0.98
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuracie-kung-pao.png",
+      "bestDiff": 1.05,
+      "woltDishes": [
+        {
+          "name": "Kuracie kung pao",
+          "category": "KURACIE MÄSO",
+          "diff": 1.05
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuracie-kura.png",
+      "bestDiff": 0.82,
+      "woltDishes": [
+        {
+          "name": "Kuracie tempura",
+          "category": "KURACIE MÄSO",
+          "diff": 0.82
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuracie-medailonky.png",
+      "bestDiff": 1.08,
+      "woltDishes": [
+        {
+          "name": "Kuracie medailónky",
+          "category": "KURACIE MÄSO",
+          "diff": 1.08
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuracie-na-kari.png",
+      "bestDiff": 0.74,
+      "woltDishes": [
+        {
+          "name": "Kuracie na kari",
+          "category": "KURACIE MÄSO",
+          "diff": 0.74
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuracie-s-ananasom.png",
+      "bestDiff": 0.89,
+      "woltDishes": [
+        {
+          "name": "Kuracie s ananásom",
+          "category": "KURACIE MÄSO",
+          "diff": 0.89
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuracie-s-arasidovou-omackou.png",
+      "bestDiff": 0.75,
+      "woltDishes": [
+        {
+          "name": "Bravčové s arašídovou omáčkou",
+          "category": "BRAVČOVÉ MÄSO",
+          "diff": 0.75
+        },
+        {
+          "name": "Kuracie s arašídovou omáčkou",
+          "category": "KURACIE MÄSO",
+          "diff": 0.77
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuracie-s-klickami.png",
+      "bestDiff": 0.95,
+      "woltDishes": [
+        {
+          "name": "Kuracie s klíčkami",
+          "category": "KURACIE MÄSO",
+          "diff": 0.95
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuracie-s-mangovou-omackou.png",
+      "bestDiff": 0.8,
+      "woltDishes": [
+        {
+          "name": "Kuracie s mangovou omáčkou",
+          "category": "KURACIE MÄSO",
+          "diff": 0.8
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuracie-so-zeleninou.png",
+      "bestDiff": 0.8,
+      "woltDishes": [
+        {
+          "name": "Kuracie so zeleninou",
+          "category": "KURACIE MÄSO",
+          "diff": 0.8
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuracie-tempura-wok.png",
+      "bestDiff": 1.47,
+      "woltDishes": [
+        {
+          "name": "Kuracie tempura",
+          "category": "POKE BOWLS",
+          "diff": 1.47
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/kuracie-tempura.png",
+      "bestDiff": 0.82,
+      "woltDishes": [
+        {
+          "name": "Kuracie tempura",
+          "category": "KURACIE MÄSO",
+          "diff": 0.82
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/losos-wok.png",
+      "bestDiff": 1.53,
+      "woltDishes": [
+        {
+          "name": "Losos",
+          "category": "POKE BOWLS",
+          "diff": 1.53
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/mien-bo-nam-bo-hovadzie.png",
+      "bestDiff": 1.48,
+      "woltDishes": [
+        {
+          "name": "Mien bo nam bo hovädzie",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 1.48
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/mien-dau-nam-bo-tofu.png",
+      "bestDiff": 0.98,
+      "woltDishes": [
+        {
+          "name": "Mien dau nam bo tofu",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 0.98
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/mien-ga-nam-bo-kuracie.png",
+      "bestDiff": 0.83,
+      "woltDishes": [
+        {
+          "name": "Mien ga nam bo kuracie",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 0.83
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/mien-ngan-kacacie.png",
+      "bestDiff": 1.1,
+      "woltDishes": [
+        {
+          "name": "Mien ngan kačacie",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 1.1
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/mien-polievka-s-hovadzim-masom.png",
+      "bestDiff": 0.88,
+      "woltDishes": [
+        {
+          "name": "Bún polievka s hovädzím mäsom",
+          "category": "POLIEVKY",
+          "diff": 0.88
+        },
+        {
+          "name": "Mien polievka s hovädzím mäsom",
+          "category": "POLIEVKY",
+          "diff": 0.88
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/mien-polievka-s-krevetkami.png",
+      "bestDiff": 0.91,
+      "woltDishes": [
+        {
+          "name": "Mien polievka s krevetami",
+          "category": "POLIEVKY",
+          "diff": 0.91
+        },
+        {
+          "name": "Krevetová polievka",
+          "category": "POLIEVKY",
+          "diff": 0.91
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/mien-polievka-s-kuracim-masom.png",
+      "bestDiff": 0.91,
+      "woltDishes": [
+        {
+          "name": "Mien polievka s kuracím mäsom",
+          "category": "POLIEVKY",
+          "diff": 0.91
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/mien-polievka-s-tofu.png",
+      "bestDiff": 0.82,
+      "woltDishes": [
+        {
+          "name": "Bún polievka s tofu",
+          "category": "POLIEVKY",
+          "diff": 0.82
+        },
+        {
+          "name": "Tofu polievka",
+          "category": "POLIEVKY",
+          "diff": 0.82
+        },
+        {
+          "name": "Mien polievka s tofu",
+          "category": "POLIEVKY",
+          "diff": 0.82
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/mien-tom-nam-bo-krevetove.png",
+      "bestDiff": 0.9,
+      "woltDishes": [
+        {
+          "name": "Mien tom nam bo krevetové",
+          "category": "HLAVNÉ JEDLÁ",
+          "diff": 0.9
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/obalovane-krevety.png",
+      "bestDiff": 1,
+      "woltDishes": [
+        {
+          "name": "Obaľované krevety",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 1
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-rezance-s-hovadzim-masom.png",
+      "bestDiff": 0.71,
+      "woltDishes": [
+        {
+          "name": "Opekané rezance s hovädzím mäsom",
+          "category": "REZANCE",
+          "diff": 0.71
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-rezance-s-kacacim-masom.png",
+      "bestDiff": 0.76,
+      "woltDishes": [
+        {
+          "name": "Opekané rezance s kačacím mäsom",
+          "category": "REZANCE",
+          "diff": 0.76
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-rezance-s-krevetami.png",
+      "bestDiff": 0.94,
+      "woltDishes": [
+        {
+          "name": "Opekané rezance s krevetami",
+          "category": "REZANCE",
+          "diff": 0.94
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-rezance-s-kuracim-masom.png",
+      "bestDiff": 0.86,
+      "woltDishes": [
+        {
+          "name": "Opekané rezance s kuracím mäsom",
+          "category": "REZANCE",
+          "diff": 0.86
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-rezance-s-tofu.png",
+      "bestDiff": 0.72,
+      "woltDishes": [
+        {
+          "name": "Opekané rezance s tofu",
+          "category": "REZANCE",
+          "diff": 0.72
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-rezance.png",
+      "bestDiff": 0.7,
+      "woltDishes": [
+        {
+          "name": "Opekané rezance",
+          "category": "PRÍLOHY",
+          "diff": 0.7
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-hovadzim-masom.png",
+      "bestDiff": 0.76,
+      "woltDishes": [
+        {
+          "name": "Opekané ryžové rezance s hovädzím mäsom",
+          "category": "REZANCE",
+          "diff": 0.76
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-kacacim-masom.png",
+      "bestDiff": 0.64,
+      "woltDishes": [
+        {
+          "name": "Opekané ryžové rezance s kačacím mäsom",
+          "category": "REZANCE",
+          "diff": 0.64
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-krevetami.png",
+      "bestDiff": 0.91,
+      "woltDishes": [
+        {
+          "name": "Opekané ryžové rezance s krevetami",
+          "category": "REZANCE",
+          "diff": 0.91
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-kuracim-masom.png",
+      "bestDiff": 0.59,
+      "woltDishes": [
+        {
+          "name": "Opekané ryžové rezance s kuracím mäsom",
+          "category": "REZANCE",
+          "diff": 0.59
+        },
+        {
+          "name": "Opekané ryžové rezance",
+          "category": "PRÍLOHY",
+          "diff": 0.81
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-ryzove-rezance-s-tofu.png",
+      "bestDiff": 0.55,
+      "woltDishes": [
+        {
+          "name": "Opekané ryžové rezance s tofu",
+          "category": "REZANCE",
+          "diff": 0.55
+        },
+        {
+          "name": "Ryžové rezance so zeleninou",
+          "category": "REZANCE",
+          "diff": 0.71
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-ryzove-rezance.png",
+      "bestDiff": 0.59,
+      "woltDishes": [
+        {
+          "name": "Opekané ryžové rezance",
+          "category": "PRÍLOHY",
+          "diff": 0.59
+        },
+        {
+          "name": "Opekané ryžové rezance s kuracím mäsom",
+          "category": "REZANCE",
+          "diff": 0.65
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-sklenene-rezance-s-hovadzim-masom.png",
+      "bestDiff": 0.77,
+      "woltDishes": [
+        {
+          "name": "Opekané sklenené rezance s hovädzím mäsom",
+          "category": "REZANCE",
+          "diff": 0.77
+        },
+        {
+          "name": "Opekané sklenené rezance s kačacím mäsom",
+          "category": "REZANCE",
+          "diff": 0.77
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-sklenene-rezance-s-krevetami.png",
+      "bestDiff": 0.7,
+      "woltDishes": [
+        {
+          "name": "Opekané sklenené rezance s krevetami",
+          "category": "REZANCE",
+          "diff": 0.7
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-sklenene-rezance-s-kuracim-masom.png",
+      "bestDiff": 0.86,
+      "woltDishes": [
+        {
+          "name": "Opekané sklenené rezance s kuracím mäsom",
+          "category": "REZANCE",
+          "diff": 0.86
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-sklenene-rezance-s-tofu.png",
+      "bestDiff": 0.78,
+      "woltDishes": [
+        {
+          "name": "Opekané sklenené rezance s tofu",
+          "category": "REZANCE",
+          "diff": 0.78
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-udon-rezance-s-hovadzim-masom.png",
+      "bestDiff": 1.05,
+      "woltDishes": [
+        {
+          "name": "Opekané udon rezance s hovädzím mäsom",
+          "category": "REZANCE",
+          "diff": 1.05
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-udon-rezance-s-kacacim-masom.png",
+      "bestDiff": 1.1,
+      "woltDishes": [
+        {
+          "name": "Opekané udon rezance s kačacím mäsom",
+          "category": "REZANCE",
+          "diff": 1.1
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-udon-rezance-s-krevetami.png",
+      "bestDiff": 1.1,
+      "woltDishes": [
+        {
+          "name": "Opekané udon rezance s kačacím mäsom",
+          "category": "REZANCE",
+          "diff": 1.1
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-udon-rezance-s-kuracim-masom.png",
+      "bestDiff": 1.08,
+      "woltDishes": [
+        {
+          "name": "Opekané udon rezance s kuracím mäsom",
+          "category": "REZANCE",
+          "diff": 1.08
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/opekane-udon-rezance-s-tofu.png",
+      "bestDiff": 1.07,
+      "woltDishes": [
+        {
+          "name": "Opekané udon rezance s tofu",
+          "category": "REZANCE",
+          "diff": 1.07
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/ostrokysla.png",
+      "bestDiff": 0.96,
+      "woltDishes": [
+        {
+          "name": "Ostrokyslá",
+          "category": "POLIEVKY",
+          "diff": 0.96
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/pikantne-kuracie-maso.png",
+      "bestDiff": 1.12,
+      "woltDishes": [
+        {
+          "name": "Hovädzie pikantné",
+          "category": "HOVÄDZIE MÄSO",
+          "diff": 1.12
+        },
+        {
+          "name": "Pikantné kuracie mäso",
+          "category": "KURACIE MÄSO",
+          "diff": 1.12
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/rizoto-s-hovadzim-masom.png",
+      "bestDiff": 0.64,
+      "woltDishes": [
+        {
+          "name": "Rizoto s hovädzím mäsom",
+          "category": "RIZOTO",
+          "diff": 0.64
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/rizoto-s-kacacim-masom.png",
+      "bestDiff": 0.65,
+      "woltDishes": [
+        {
+          "name": "Rizoto s kačacím mäsom",
+          "category": "RIZOTO",
+          "diff": 0.65
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/rizoto-s-krevetami.png",
+      "bestDiff": 0.63,
+      "woltDishes": [
+        {
+          "name": "Rizoto s krevetami",
+          "category": "RIZOTO",
+          "diff": 0.63
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/rizoto-s-kuracim-masom.png",
+      "bestDiff": 0.58,
+      "woltDishes": [
+        {
+          "name": "Rizoto s kuracím mäsom",
+          "category": "RIZOTO",
+          "diff": 0.58
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/rizoto-s-tofu.png",
+      "bestDiff": 0.61,
+      "woltDishes": [
+        {
+          "name": "Rizoto s tofu",
+          "category": "RIZOTO",
+          "diff": 0.61
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/rizoto.png",
+      "bestDiff": 0.75,
+      "woltDishes": [
+        {
+          "name": "Rizoto",
+          "category": "PRÍLOHY",
+          "diff": 0.75
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/ryza.png",
+      "bestDiff": 0.44,
+      "woltDishes": [
+        {
+          "name": "Ryža",
+          "category": "PRÍLOHY",
+          "diff": 0.44
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/ryzove-rezance-so-zeleninou.png",
+      "bestDiff": 0.53,
+      "woltDishes": [
+        {
+          "name": "Ryžové rezance so zeleninou",
+          "category": "REZANCE",
+          "diff": 0.53
+        },
+        {
+          "name": "Opekané ryžové rezance s tofu",
+          "category": "REZANCE",
+          "diff": 0.76
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/sake-futomaki-5ks.png",
+      "bestDiff": 0.82,
+      "woltDishes": [
+        {
+          "name": "Sake futomaki 5ks",
+          "category": "SUSHI",
+          "diff": 0.82
+        },
+        {
+          "name": "Sake futomaki 10ks",
+          "category": "SUSHI",
+          "diff": 0.82
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/sake-maki.png",
+      "bestDiff": 1.91,
+      "woltDishes": [
+        {
+          "name": "Sake maki 8 ks",
+          "category": "SUSHI",
+          "diff": 1.91
+        },
+        {
+          "name": "Sake maki 16ks",
+          "category": "SUSHI",
+          "diff": 1.91
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/sake-nigiri.png",
+      "bestDiff": 1.63,
+      "woltDishes": [
+        {
+          "name": "Sake nigiri 6ks",
+          "category": "SUSHI",
+          "diff": 1.63
+        },
+        {
+          "name": "Sake nigiri 3ks",
+          "category": "SUSHI",
+          "diff": 1.63
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/set1.png",
+      "bestDiff": 2.07,
+      "woltDishes": [
+        {
+          "name": "Set 1",
+          "category": "SUSHI SET",
+          "diff": 2.07
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/set2.png",
+      "bestDiff": 2.29,
+      "woltDishes": [
+        {
+          "name": "Set 2",
+          "category": "SUSHI SET",
+          "diff": 2.29
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/set3.png",
+      "bestDiff": 2.19,
+      "woltDishes": [
+        {
+          "name": "Set 3",
+          "category": "SUSHI SET",
+          "diff": 2.19
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/set4.png",
+      "bestDiff": 2.98,
+      "woltDishes": [
+        {
+          "name": "Set 4",
+          "category": "SUSHI SET",
+          "diff": 2.98
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/set5.png",
+      "bestDiff": 4.46,
+      "woltDishes": []
+    },
+    {
+      "file": "assets/menu-originals-wolt/set6.png",
+      "bestDiff": 1.71,
+      "woltDishes": [
+        {
+          "name": "Set 6",
+          "category": "SUSHI SET",
+          "diff": 1.71
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/skelenene-rezance-so-zeleninou.png",
+      "bestDiff": 0.66,
+      "woltDishes": [
+        {
+          "name": "Sklenené rezance so zeleninou",
+          "category": "REZANCE",
+          "diff": 0.66
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/syr-s-hranolkami.png",
+      "bestDiff": 0.88,
+      "woltDishes": [
+        {
+          "name": "Syr s hranolkami",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 0.88
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tamago-tempura.png",
+      "bestDiff": 1.58,
+      "woltDishes": [
+        {
+          "name": "Tamago tempura 10ks",
+          "category": "SUSHI",
+          "diff": 1.58
+        },
+        {
+          "name": "Tamago tempura 5ks",
+          "category": "SUSHI",
+          "diff": 1.58
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tempura-losos.png",
+      "bestDiff": 0.78,
+      "woltDishes": [
+        {
+          "name": "Tempura losos",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 0.78
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tofu-na-curry.png",
+      "bestDiff": 1.72,
+      "woltDishes": [
+        {
+          "name": "Tofu na curry",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 1.72
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tofu-polievka.png",
+      "bestDiff": 0.91,
+      "woltDishes": [
+        {
+          "name": "Mien polievka s krevetami",
+          "category": "POLIEVKY",
+          "diff": 0.91
+        },
+        {
+          "name": "Krevetová polievka",
+          "category": "POLIEVKY",
+          "diff": 0.91
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tofu-s-arasidovou-omackou.png",
+      "bestDiff": 0.99,
+      "woltDishes": [
+        {
+          "name": "Tofu s arašídovou omáčkou",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 0.99
+        },
+        {
+          "name": "Krevety s mango omáčkou",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 1.36
+        },
+        {
+          "name": "Krevety s arašídovou omáčkou",
+          "category": "RYBY A MORSKÉ PLODY",
+          "diff": 1.36
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tofu-s-fazulou.png",
+      "bestDiff": 0.88,
+      "woltDishes": [
+        {
+          "name": "Tofu so zeleninou",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 0.88
+        },
+        {
+          "name": "Tofu s klíčkami",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 0.88
+        },
+        {
+          "name": "Tofu s fazuľou",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 0.88
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tofu-s-klickami.png",
+      "bestDiff": 0.88,
+      "woltDishes": [
+        {
+          "name": "Tofu so zeleninou",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 0.88
+        },
+        {
+          "name": "Tofu s klíčkami",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 0.88
+        },
+        {
+          "name": "Tofu s fazuľou",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 0.88
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tofu-s-mango-omackou.png",
+      "bestDiff": 1.55,
+      "woltDishes": [
+        {
+          "name": "Tofu s mango omáčkou",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 1.55
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tofu-s-zeleninou.png",
+      "bestDiff": 0.88,
+      "woltDishes": [
+        {
+          "name": "Tofu so zeleninou",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 0.88
+        },
+        {
+          "name": "Tofu s klíčkami",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 0.88
+        },
+        {
+          "name": "Tofu s fazuľou",
+          "category": "BEZMÄSITÉ JEDLÁ",
+          "diff": 0.88
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tofu-wok.png",
+      "bestDiff": 1.53,
+      "woltDishes": [
+        {
+          "name": "Tofu",
+          "category": "POKE BOWLS",
+          "diff": 1.53
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tomyum-s-krevetkami.png",
+      "bestDiff": 0.79,
+      "woltDishes": [
+        {
+          "name": "Tomyum s krevetami",
+          "category": "POLIEVKY",
+          "diff": 0.79
+        },
+        {
+          "name": "Tomyum s tofu",
+          "category": "POLIEVKY",
+          "diff": 0.79
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tomyum-s-kuracim-masom.png",
+      "bestDiff": 0.89,
+      "woltDishes": [
+        {
+          "name": "Tomyum s kuracím mäsom",
+          "category": "POLIEVKY",
+          "diff": 0.89
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/tomyum-s-tofu.png",
+      "bestDiff": 0.79,
+      "woltDishes": [
+        {
+          "name": "Tomyum s krevetami",
+          "category": "POLIEVKY",
+          "diff": 0.79
+        },
+        {
+          "name": "Tomyum s tofu",
+          "category": "POLIEVKY",
+          "diff": 0.79
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/udon-rezance-so-zeleninou.png",
+      "bestDiff": 1.06,
+      "woltDishes": [
+        {
+          "name": "Udon rezance so zeleninou",
+          "category": "REZANCE",
+          "diff": 1.06
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/vajecne-rezance-so-zeleninou.png",
+      "bestDiff": 0.66,
+      "woltDishes": [
+        {
+          "name": "Vaječné rezance so zeleninou",
+          "category": "REZANCE",
+          "diff": 0.66
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/vyvar.png",
+      "bestDiff": 0.58,
+      "woltDishes": [
+        {
+          "name": "Vývar",
+          "category": "POLIEVKY",
+          "diff": 0.58
+        }
+      ]
+    },
+    {
+      "file": "assets/menu-originals-wolt/zemiaky.png",
+      "bestDiff": 0.64,
+      "woltDishes": [
+        {
+          "name": "Zemiaky",
+          "category": "PRÍLOHY",
+          "diff": 0.64
+        }
+      ]
+    }
+  ]
+}

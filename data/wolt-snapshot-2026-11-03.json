@@ -1,0 +1,682 @@
+[
+ {
+  "name": "Ryžové rezance so zeleninou",
+  "price": 6.8,
+  "description": "rezance, vajcia, sezónna zelenina"
+ },
+ {
+  "name": "Kuracie medailónky",
+  "price": 6.6,
+  "description": "kuracie mäso, šalát\n150g"
+ },
+ {
+  "name": "Kuracie na kari",
+  "price": 6.5,
+  "description": "kuracie mäso, mrkva, paprika, cibuľa, pór, thai kari, šalát"
+ },
+ {
+  "name": "Čerstvé jarné rolky",
+  "price": 6.6,
+  "description": "kur. mäso, ryž, plátky, vajcia, ryž. rezance, krevety, koriander, vietnamský kapust. šalát\n3ks"
+ },
+ {
+  "name": "Ryža",
+  "price": 2,
+  "description": ""
+ },
+ {
+  "name": "California futomaki 5ks",
+  "price": 6.5,
+  "description": "losos, krabie tyčinky, avokádo, uhorky, pažítky, japonská majonéza"
+ },
+ {
+  "name": "Rizoto s tofu",
+  "price": 8,
+  "description": "ryža, vajcia, mrkva, čínska kapista, šalát"
+ },
+ {
+  "name": "Bravčové s mango omáčkou",
+  "price": 6.8,
+  "description": "brav. mäso, mrkva, paprika, pór, brokolica, mango omáčka, šalát\n250g"
+ },
+ {
+  "name": "Kappa maki 16ks",
+  "price": 7,
+  "description": "uhorky, sezam"
+ },
+ {
+  "name": "Opekané sklenené rezance s tofu",
+  "price": 8,
+  "description": "sklenené rezance, mrkva, judášovo ucho, pór"
+ },
+ {
+  "name": "Opekané ryžové rezance s tofu",
+  "price": 8,
+  "description": "ryž. rezance, vajcia, čínska kapusta, mkrva, šalát"
+ },
+ {
+  "name": "Bún polievka s krevetami",
+  "price": 8.5,
+  "description": "krevety, ryžové rezance, koriander, jarná cibuľka, vývar\n750ml"
+ },
+ {
+  "name": "Opekané ryžové rezance s hovädzím mäsom",
+  "price": 8.5,
+  "description": "ryž. rezance, vajcia, čínska kapusta, mkrva, šalát"
+ },
+ {
+  "name": "Bún polievka s tofu",
+  "price": 8,
+  "description": "tofu, ryžové rezance, koriander, jarná cibuľka, vývar\n750ml"
+ },
+ {
+  "name": "Mien tom nam bo krevetové",
+  "price": 9,
+  "description": "krevety, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašisy, mrkva\n450g"
+ },
+ {
+  "name": "Syr s hranolkami",
+  "price": 6.8,
+  "description": "syr, hranolky, šalát\n250g"
+ },
+ {
+  "name": "Rizoto s kačacím mäsom",
+  "price": 8.5,
+  "description": "ryža, vajcia, mrkva, čínska kapista, šalát"
+ },
+ {
+  "name": "Opekané rezance s kuracím mäsom",
+  "price": 8,
+  "description": "rezance, vajcia, čínska kapusta, mkrva, šalát"
+ },
+ {
+  "name": "Opekané rezance",
+  "price": 2.8,
+  "description": ""
+ },
+ {
+  "name": "Kurací rezeň",
+  "price": 6.6,
+  "description": "kuracie mäso, vajcia, múka, šalát\n200g"
+ },
+ {
+  "name": "Opekané ryžové rezance s kačacím mäsom",
+  "price": 8.5,
+  "description": "ryž. rezance, vajcia, čínska kapusta, mkrva, šalát"
+ },
+ {
+  "name": "Opekané rezance s krevetami",
+  "price": 8.5,
+  "description": "rezance, vajcia, čínska kapusta, mkrva, šalát"
+ },
+ {
+  "name": "Hovädzie s klíčkami",
+  "price": 7.8,
+  "description": "hovädzie mäso, klíčky, cibuľa, jarná cibuľka\n250g"
+ },
+ {
+  "name": "Chrumkavé kura",
+  "price": 7,
+  "description": "kuracie mäso, vajcia, múka, šalát\n250g"
+ },
+ {
+  "name": "Mien ga nam bo kuracie",
+  "price": 8.5,
+  "description": "kur. mäso, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašisy, mrkva\n450g"
+ },
+ {
+  "name": "Udon rezance so zeleninou",
+  "price": 6.8,
+  "description": "rezance, vajcia, sezónna zelenina"
+ },
+ {
+  "name": "Ebi nigiri 6ks",
+  "price": 8,
+  "description": "krevety"
+ },
+ {
+  "name": "Ebi tempura 10ks",
+  "price": 10,
+  "description": "krevety, uhorky, pažítka, múka tempura, japonská majonéza"
+ },
+ {
+  "name": "Bravčový rezeň",
+  "price": 6.8,
+  "description": "bravčové mäso, vajcia múka, šalát\n200g"
+ },
+ {
+  "name": "Bún polievka s kuracím mäsom",
+  "price": 8,
+  "description": "kur. mäso, ryžové rezance, koriander, jarná cibuľka, vývar\n750ml"
+ },
+ {
+  "name": "Krevety so zeleninou",
+  "price": 7.8,
+  "description": "krevety, cibuľa, šampiňóny, brokolica, ba,busové výhonky, paprika, šalát\n250g"
+ },
+ {
+  "name": "Ebi nigiri 3ks",
+  "price": 4.5,
+  "description": "krevety"
+ },
+ {
+  "name": "Kuracia polievka",
+  "price": 8,
+  "description": "kur. mäso, široké rezance, vývar, zázvor, jarná cibuľka, koriander, škorica, hviezdicový aníz\n750ml"
+ },
+ {
+  "name": "Hovädzie s fazuľou",
+  "price": 7.8,
+  "description": "restované hov. mäso, fazuľa, cesnak, ustricová omáčka, sójová omáčka\n250g"
+ },
+ {
+  "name": "Tofu so zeleninou",
+  "price": 6.8,
+  "description": "tofu, mrkva, cibuľa, šampiňóny, brokolica, šalát, paprika,  bambus. výhonky\n250g"
+ },
+ {
+  "name": "Jarné závitky",
+  "price": 6.8,
+  "description": "brav. mäso, cibuľa, sklenené rezance, judášovo ucho, ryžový papier, vajcia\n4ks"
+ },
+ {
+  "name": "Tamago tempura 10ks",
+  "price": 9.8,
+  "description": "vajcia, uhorky, pažítka, japonská majonéza, múka tempura"
+ },
+ {
+  "name": "Tofu polievka",
+  "price": 8,
+  "description": "tofu, široké rezance, vývar, zázvor, jarná cibuľka, koriander, škorica, hviezdicový aníz\n750ml"
+ },
+ {
+  "name": "Bún polievka s hovädzím mäsom",
+  "price": 8.5,
+  "description": "hov. mäso, ryžové rezance, koriander, jarná cibuľka, vývar\n750ml"
+ },
+ {
+  "name": "Kuracie tempura",
+  "price": 6.6,
+  "description": "kuracie mäso, múka, tatárska omáčka, šalát\n200g"
+ },
+ {
+  "name": "Kuracie s ananásom",
+  "price": 6.5,
+  "description": "kuracie mäso, ananás, mrkva, hrášok, šalát"
+ },
+ {
+  "name": "Tomyum s krevetami",
+  "price": 3.5,
+  "description": "krevety, zelenina, kokosové mlieko, tom yum omáčka"
+ },
+ {
+  "name": "Kuracie s arašídovou omáčkou",
+  "price": 6.5,
+  "description": "kuracie mäso, mrkva, pór, cibuľa, arašídová omáčka, brokolica"
+ },
+ {
+  "name": "Kappa maki 8ks",
+  "price": 4,
+  "description": "uhorky, sezam"
+ },
+ {
+  "name": "Rizoto s hovädzím mäsom",
+  "price": 8.5,
+  "description": "ryža, vajcia, mrkva, čínska kapista, šalát"
+ },
+ {
+  "name": "Ebi maki 8ks",
+  "price": 4.5,
+  "description": "krevety"
+ },
+ {
+  "name": "Sake nigiri 6ks",
+  "price": 10,
+  "description": "losos"
+ },
+ {
+  "name": "Bambusová",
+  "price": 2,
+  "description": "kuracie mäso, bambus, cibuľka, kurací vývar, sklenené rezance"
+ },
+ {
+  "name": "Hovädzie mäso s mango omáčkou",
+  "price": 7.8,
+  "description": "restované hov. mäso, brokolica, cesnak, ustricová omáčka, sezónna zelenina, mango omáčka\n250g"
+ },
+ {
+  "name": "Teriyaki kura",
+  "price": 7,
+  "description": "kuracie mäso, teriyaki omáčka, šalát\n200g"
+ },
+ {
+  "name": "Rizoto",
+  "price": 3.5,
+  "description": ""
+ },
+ {
+  "name": "Kani maki 8ks",
+  "price": 4.5,
+  "description": "krabia tyčinka"
+ },
+ {
+  "name": "Tempura losos",
+  "price": 7.5,
+  "description": "losos, múka, mlieko\n150g"
+ },
+ {
+  "name": "Mien polievka s krevetami",
+  "price": 8.5,
+  "description": "krevety, vývar, sklenené rezance, koriande, jarná cibuľka\n750ml"
+ },
+ {
+  "name": "Set 2",
+  "price": 12.9,
+  "description": "losos, krevety, japonská majonéza, avokádo, uhorky, tempura múka"
+ },
+ {
+  "name": "Tofu s mango omáčkou",
+  "price": 6.8,
+  "description": "tofu, mango omáčka, paprika, zeler, mrkva, brokolica, cibuľa\n250g"
+ },
+ {
+  "name": "Krevety s mango omáčkou",
+  "price": 7.8,
+  "description": "restované krevety, zelenina, bazalka, kokos. mlieko, ryb. a mango omáčka"
+ },
+ {
+  "name": "Mien dau nam bo tofu",
+  "price": 8.5,
+  "description": "tofu, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašisy, mrkva\n450g"
+ },
+ {
+  "name": "Tomyum s kuracím mäsom",
+  "price": 3,
+  "description": "kuracie mäso, zelenina, kokosové mlieko, tom yum omáčka"
+ },
+ {
+  "name": "Avokádo maki 16ks",
+  "price": 8,
+  "description": "avokádo, sezam"
+ },
+ {
+  "name": "Bravčové s arašídovou omáčkou",
+  "price": 6.8,
+  "description": "brav. mäso, mrkva, paprika, pór, brokolica, arašidová omáčka, šalát\n250g"
+ },
+ {
+  "name": "Vaječné rezance so zeleninou",
+  "price": 6.8,
+  "description": "rezance, vajcia, sezónna zelenina"
+ },
+ {
+  "name": "Bun bo nam bo hovädzie",
+  "price": 8.5,
+  "description": "hov. mäso, varené ryž. rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva\n450g"
+ },
+ {
+  "name": "Opekané udon rezance s hovädzím mäsom",
+  "price": 8.5,
+  "description": "udon rezance, paprika, mrkva, čínska kapusta, pór"
+ },
+ {
+  "name": "Mien bo nam bo hovädzie",
+  "price": 9,
+  "description": "hov. mäso, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašisy, mrkva\n450g"
+ },
+ {
+  "name": "Krevetová polievka",
+  "price": 8.5,
+  "description": "krevety, široké rezance, vývar, zázvor, jarná cibuľka, koriander, škorica, hviezdicový aníz\n750ml"
+ },
+ {
+  "name": "Tofu s klíčkami",
+  "price": 6.8,
+  "description": "tofu, mrkva, cibuľa, šampiňóny, brokolica, šalát, paprika,  bambus. výhonky\n250g"
+ },
+ {
+  "name": "Bun ngan kačacie",
+  "price": 8.5,
+  "description": "kač. mäso, varené ryž. rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva\n450g"
+ },
+ {
+  "name": "Hovädzie pikantné",
+  "price": 7.8,
+  "description": "hovädzie mäso, mrkva, cibuľa, paprika, šalát, šampiňóny, čili paprička, bam. výhonky\n250g"
+ },
+ {
+  "name": "Set 6",
+  "price": 7.8,
+  "description": "avokádo, losos"
+ },
+ {
+  "name": "Sklenené rezance so zeleninou",
+  "price": 6.8,
+  "description": "rezance, vajcia, sezónna zelenina"
+ },
+ {
+  "name": "Ebi tempura 5ks",
+  "price": 6,
+  "description": "krevety, uhorky, pažítka, múka tempura, japonská majonéza"
+ },
+ {
+  "name": "Tofu s fazuľou",
+  "price": 6.8,
+  "description": "tofu, mrkva, cibuľa, šampiňóny, brokolica, šalát, paprika,  bambus. výhonky\n250g"
+ },
+ {
+  "name": "Opekané udon rezance s kačacím mäsom",
+  "price": 8.5,
+  "description": "udon rezance, paprika, mrkva, čínska kapusta, pór"
+ },
+ {
+  "name": "Opekané ryžové rezance s krevetami",
+  "price": 8.5,
+  "description": "ryž. rezance, vajcia, čínska kapusta, mkrva, šalát"
+ },
+ {
+  "name": "Príbor",
+  "price": 0,
+  "description": "Prosím, pridajte túto položku, ak potrebujete k objednávke príbor. Reštaurácia vyberie správny príbor k vašim jedlám, ak je k dispozícii."
+ },
+ {
+  "name": "Set 4",
+  "price": 10.9,
+  "description": "avokádo, losos, krevety"
+ },
+ {
+  "name": "Opekané rezance s tofu",
+  "price": 8,
+  "description": "rezance, vajcia, čínska kapusta, mkrva, šalát"
+ },
+ {
+  "name": "Sake nigiri 3ks",
+  "price": 6,
+  "description": "losos"
+ },
+ {
+  "name": "Bun tom nam bo krevetové",
+  "price": 8.5,
+  "description": "krevety, varené ryž. rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva\n450g"
+ },
+ {
+  "name": "Vývar",
+  "price": 2,
+  "description": "kuracie mäso, kurací vývar, rezance, jarná cibuľka"
+ },
+ {
+  "name": "Bravčové mäso pikantné",
+  "price": 6.8,
+  "description": "brav. mäso, mrkva, paprika, brokolica, čínska, kapusta, pór\n250g"
+ },
+ {
+  "name": "Set 1",
+  "price": 12.9,
+  "description": "losos, uhorky, avokádo, pažítky, japonská majonéza"
+ },
+ {
+  "name": "Kani maki 16ks",
+  "price": 8,
+  "description": "krabia tyčinka"
+ },
+ {
+  "name": "Tomyum s tofu",
+  "price": 3,
+  "description": "tofu, zelenina, kokosové mlieko, tom yum omáčka"
+ },
+ {
+  "name": "Bun dau nam bo tofu",
+  "price": 8,
+  "description": "tofu, varené ryž. rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva\n450g"
+ },
+ {
+  "name": "Avokádo maki 8ks",
+  "price": 4.5,
+  "description": "avokádo, sezam"
+ },
+ {
+  "name": "Kuracie s mangovou omáčkou",
+  "price": 6.5,
+  "description": "kuracie mäso, pór cibuľa, mangová omáčka, brokolica, mrkva"
+ },
+ {
+  "name": "Set 5",
+  "price": 10.9,
+  "description": "uhorky, avokádo, reďkovka"
+ },
+ {
+  "name": "Zemiaky",
+  "price": 2,
+  "description": ""
+ },
+ {
+  "name": "Sake futomaki 5ks",
+  "price": 6,
+  "description": "losos, šalátová zelenina, uhorky, mango, japonská majonéza"
+ },
+ {
+  "name": "Sake maki 8 ks",
+  "price": 5,
+  "description": "losos"
+ },
+ {
+  "name": "Opekané sklenené  rezance s hovädzím mäsom",
+  "price": 8.5,
+  "description": "sklenené rezance, mrkva, judášovo ucho, pór"
+ },
+ {
+  "name": "Opekané udon rezance s krevetami",
+  "price": 8.5,
+  "description": "udon rezance, paprika, mrkva, čínska kapusta, pór"
+ },
+ {
+  "name": "Hovädzia polievka",
+  "price": 8.5,
+  "description": "hov. mäso, široké rezance, vývar, zázvor, jarná cibuľka, koriander, škorica, hviezdicový aníz\n750ml"
+ },
+ {
+  "name": "Rizoto s krevetami",
+  "price": 8.5,
+  "description": "ryža, vajcia, mrkva, čínska kapista, šalát"
+ },
+ {
+  "name": "Krevety s arašídovou omáčkou",
+  "price": 7.8,
+  "description": "restované krevety, zelenina, bazalka, kokos. mlieko, ryb. a arašídová omáčka"
+ },
+ {
+  "name": "Opekané rezance s hovädzím mäsom",
+  "price": 8.5,
+  "description": "rezance, vajcia, čínska kapusta, mkrva, šalát"
+ },
+ {
+  "name": "Krevety na curry",
+  "price": 7.8,
+  "description": "restované krevety, zelenina, bazalka, kokos. mlieko, ryb. a kari omáčka"
+ },
+ {
+  "name": "Bun ga nam bo kuracie",
+  "price": 8,
+  "description": "kur. mäso, varené ryž. rezance, kaleráb, vietnamská zelenina, omáčka, arašidy, mrkva\n450g"
+ },
+ {
+  "name": "Tofu na curry",
+  "price": 6.8,
+  "description": "tofu, curry omáčka, paprika, zeler, mrkva, brokolica, cibuľa\n250g"
+ },
+ {
+  "name": "Hovädzie na curry",
+  "price": 7.8,
+  "description": "restované hov. mäso, brokolica, cesnak, ustricová omáčka, sezónna zelenina, kari omáčka\n250g"
+ },
+ {
+  "name": "Rizoto s kuracím mäsom",
+  "price": 8,
+  "description": "ryža, vajcia, mrkva, čínska kapista, šalát"
+ },
+ {
+  "name": "Bravčové so zeleninou",
+  "price": 6.8,
+  "description": "brav. mäso, mrkva, paprika, brokolica, čínska, kapusta, pór\n250g"
+ },
+ {
+  "name": "Opekané udon rezance s tofu",
+  "price": 8,
+  "description": "udon rezance, paprika, mrkva, čínska kapusta, pór"
+ },
+ {
+  "name": "Opekané udon rezance s kuracím mäsom",
+  "price": 8,
+  "description": "udon rezance, paprika, mrkva, čínska kapusta, pór"
+ },
+ {
+  "name": "Bun nem",
+  "price": 8.5,
+  "description": "jarný závitok, varené ryž. rezance, vietnamská zelenina, omáčka\n450g"
+ },
+ {
+  "name": "Hovädzie mäso s arašídovou omáčkou",
+  "price": 7.8,
+  "description": "restované hov. mäso, brokolica, cesnak, ustricová omáčka, sezónna zelenina, arašídová omáčka\n250g"
+ },
+ {
+  "name": "Mien polievka s tofu",
+  "price": 8,
+  "description": "tofu, vývar, sklenené rezance, koriande, jarná cibuľka\n750ml"
+ },
+ {
+  "name": "Opekané ryžové rezance s kuracím mäsom",
+  "price": 8,
+  "description": "ryž. rezance, vajcia, čínska kapusta, mkrva, šalát"
+ },
+ {
+  "name": "Ebi maki 16ks",
+  "price": 8,
+  "description": "krevety"
+ },
+ {
+  "name": "Sake maki 16ks",
+  "price": 8.5,
+  "description": "losos"
+ },
+ {
+  "name": "Hranolky",
+  "price": 2,
+  "description": ""
+ },
+ {
+  "name": "Chrumkavá kačica",
+  "price": 7.2,
+  "description": "kačacie mäso, vajcia, múka, šalát\n250g"
+ },
+ {
+  "name": "Opekané sklenené rezance s kačacím mäsom",
+  "price": 8.5,
+  "description": "sklenené rezance, mrkva, judášovo ucho, pór"
+ },
+ {
+  "name": "Kuracie kung pao",
+  "price": 6.5,
+  "description": "kuracie mäso, mrkva, bamb. výhonky, pór, omáčka, paprika, judášovo ucho, paprika"
+ },
+ {
+  "name": "Opekané rezance s kačacím mäsom",
+  "price": 8.5,
+  "description": "rezance, vajcia, čínska kapusta, mkrva, šalát"
+ },
+ {
+  "name": "Krevety s klíčkami",
+  "price": 7.8,
+  "description": "krevety, klíčky, cibuľa, jarná cibuľka, pór\n250g"
+ },
+ {
+  "name": "Ostrokyslá",
+  "price": 2,
+  "description": "kuracie mäso, mrkva, paprika, voňavé huby, vajcia, judášovo ucho, bam. výhonky"
+ },
+ {
+  "name": "Mien polievka s hovädzím mäsom",
+  "price": 8.5,
+  "description": "hov. mäso, vývar, sklenené rezance, koriande, jarná cibuľka\n750ml"
+ },
+ {
+  "name": "Krevety s fazuľou",
+  "price": 7.8,
+  "description": "krevety, fazuľa, cibuľa, jarná cibuľka, mrkva, cesnak\n250g"
+ },
+ {
+  "name": "Opekané ryžové rezance",
+  "price": 3.5,
+  "description": ""
+ },
+ {
+  "name": "Sake futomaki 10ks",
+  "price": 9.8,
+  "description": "losos, šalátová zelenina, uhorky, mango, japonská majonéza"
+ },
+ {
+  "name": "Opekané sklenené rezance s kuracím mäsom",
+  "price": 8,
+  "description": "sklenené rezance, mrkva, judášovo ucho, pór"
+ },
+ {
+  "name": "Tamago tempura 5ks",
+  "price": 6,
+  "description": "vajcia, uhorky, pažítka, japonská majonéza, múka tempura"
+ },
+ {
+  "name": "Kuracie s klíčkami",
+  "price": 6.5,
+  "description": "klíčky, kuracie mäso, cibuľa, jarná cibuľka, mrkva"
+ },
+ {
+  "name": "Mien ngan kačacie",
+  "price": 9,
+  "description": "kač. mäso, sklenené rezance, kaleráb, vietnamská zelenina, omáčka, arašisy, mrkva\n450g"
+ },
+ {
+  "name": "Kuracie so zeleninou",
+  "price": 6.5,
+  "description": "kuracie mäso, paprika, čili paprička, mrkva, čínska kapusta, pór, citronella"
+ },
+ {
+  "name": "Hovädzie so zeleninou",
+  "price": 7.8,
+  "description": "hovädzie mäso, mrkva, cibuľa, paprika, šampiňóny, kapusta, bam. výhonky, šalát\n250g"
+ },
+ {
+  "name": "Tofu s arašídovou omáčkou",
+  "price": 6.5,
+  "description": "tofu, arašídová omáčka, paprika, zeler, mrkva, brokolica, cibuľa\n250g"
+ },
+ {
+  "name": "Opekané sklenené rezance s krevetami",
+  "price": 8.5,
+  "description": "sklenené rezance, mrkva, judášovo ucho, pór"
+ },
+ {
+  "name": "Pikantné kuracie mäso",
+  "price": 7,
+  "description": "kuracie mäso, paprika, mrkva, brokolica, čínska kapusta"
+ },
+ {
+  "name": "Set 3",
+  "price": 12.9,
+  "description": "krevety, pažítky, japonská majonéza, avokádo, uhorky, tempura múka, sweet chilli omáčka"
+ },
+ {
+  "name": "Mien polievka s kuracím mäsom",
+  "price": 8,
+  "description": "kur. mäso, vývar, sklenené rezance, koriande, jarná cibuľka\n750ml"
+ },
+ {
+  "name": "Obaľované krevety",
+  "price": 7.8,
+  "description": "krevety, múka, šalát\n6ks"
+ },
+ {
+  "name": "Bravčové na kari",
+  "price": 6.8,
+  "description": "brav. mäso, mrkva, paprika, pór, brokolica, kari omáčka, šalát\n250g"
+ }
+]

@@ -1,0 +1,4224 @@
+{
+  "_notice": "Seed compiled manually from user-provided photos, mostly Aug 2026; all entries and prices REQUIRE review against original images and confirmation with restaurant owner. Wolt entries are selected matches, not exhaustive. DO NOT present as live-verified.",
+  "lastResearchDate": "2026-11-03",
+  "currency": "EUR",
+  "items": [
+    {
+      "id": "menu-001",
+      "brochureNumber": 1,
+      "category": "soups-small",
+      "name": {
+        "sk": "Vývar",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "300 ml",
+      "price": {
+        "inStoreEur": 1.5,
+        "woltEur": 2.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-001.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-002",
+      "brochureNumber": 2,
+      "category": "soups-small",
+      "name": {
+        "sk": "Tomyum s kuracím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "300 ml",
+      "price": {
+        "inStoreEur": 2.5,
+        "woltEur": 3.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-003",
+      "brochureNumber": 3,
+      "category": "soups-small",
+      "name": {
+        "sk": "Tomyum s krevetami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "300 ml",
+      "price": {
+        "inStoreEur": 3.0,
+        "woltEur": 3.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-003-tomyum-s-krevetami.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-004",
+      "brochureNumber": 4,
+      "category": "soups-small",
+      "name": {
+        "sk": "Tomyum s tofu",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "300 ml",
+      "price": {
+        "inStoreEur": 2.5,
+        "woltEur": 3.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-005",
+      "brochureNumber": 5,
+      "category": "soups-small",
+      "name": {
+        "sk": "Ostrokyslá polievka",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "300 ml",
+      "price": {
+        "inStoreEur": 1.5,
+        "woltEur": 2.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-005-ostrokysla-polievka.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-006",
+      "brochureNumber": 6,
+      "category": "soups-small",
+      "name": {
+        "sk": "Bambusová polievka",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "300 ml",
+      "price": {
+        "inStoreEur": 1.5,
+        "woltEur": 2.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-006.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-007",
+      "brochureNumber": 7,
+      "category": "soups-vietnamese",
+      "name": {
+        "sk": "Hovädzia polievka",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-007-hovadzia-polievka.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-008",
+      "brochureNumber": 8,
+      "category": "soups-vietnamese",
+      "name": {
+        "sk": "Kuracia polievka",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-008-kuracia-polievka.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-009",
+      "brochureNumber": 9,
+      "category": "soups-vietnamese",
+      "name": {
+        "sk": "Krevetová polievka",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-009-krevetova-polievka.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "original-menu-photo-extract-enhanced"
+    },
+    {
+      "id": "menu-010",
+      "brochureNumber": 10,
+      "category": "soups-vietnamese",
+      "name": {
+        "sk": "Tofu polievka",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-010-tofu-polievka.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "original-menu-photo-extract-enhanced"
+    },
+    {
+      "id": "menu-011",
+      "brochureNumber": 11,
+      "category": "soups-vietnamese",
+      "name": {
+        "sk": "Bún polievka s hovädzím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-011.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-012",
+      "brochureNumber": 12,
+      "category": "soups-vietnamese",
+      "name": {
+        "sk": "Bún polievka s krevetami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-013",
+      "brochureNumber": 13,
+      "category": "soups-vietnamese",
+      "name": {
+        "sk": "Bún polievka s kuracím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-014",
+      "brochureNumber": 14,
+      "category": "soups-vietnamese",
+      "name": {
+        "sk": "Bún polievka s tofu",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-015",
+      "brochureNumber": 15,
+      "category": "soups-vietnamese",
+      "name": {
+        "sk": "Miến polievka s hovädzím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-015.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-016",
+      "brochureNumber": 16,
+      "category": "soups-vietnamese",
+      "name": {
+        "sk": "Miến polievka s krevetami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-017",
+      "brochureNumber": 17,
+      "category": "soups-vietnamese",
+      "name": {
+        "sk": "Miến polievka s kuracím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-018",
+      "brochureNumber": 18,
+      "category": "soups-vietnamese",
+      "name": {
+        "sk": "Miến polievka s tofu",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "750 ml",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-019",
+      "brochureNumber": 19,
+      "category": "vietnamese-specialties",
+      "name": {
+        "sk": "Bún bò Nam Bộ (hovädzie)",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-019-bun-bo-nam-bo.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-020",
+      "brochureNumber": 20,
+      "category": "vietnamese-specialties",
+      "name": {
+        "sk": "Bún tôm Nam Bộ (krevety)",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-021",
+      "brochureNumber": 21,
+      "category": "vietnamese-specialties",
+      "name": {
+        "sk": "Bún ngan Nam Bộ (kačacie)",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-022",
+      "brochureNumber": 22,
+      "category": "vietnamese-specialties",
+      "name": {
+        "sk": "Bún gà Nam Bộ (kuracie)",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.8,
+        "woltEur": 8.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-023",
+      "brochureNumber": 23,
+      "category": "vietnamese-specialties",
+      "name": {
+        "sk": "Bún đậu Nam Bộ (tofu)",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.8,
+        "woltEur": 8.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-024",
+      "brochureNumber": 24,
+      "category": "vietnamese-specialties",
+      "name": {
+        "sk": "Miến bò Nam Bộ (hovädzie)",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-024-mien-bo-nam-bo.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-025",
+      "brochureNumber": 25,
+      "category": "vietnamese-specialties",
+      "name": {
+        "sk": "Miến tôm Nam Bộ (krevety)",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-026",
+      "brochureNumber": 26,
+      "category": "vietnamese-specialties",
+      "name": {
+        "sk": "Miến ngan Nam Bộ (kačacie)",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-027",
+      "brochureNumber": 27,
+      "category": "vietnamese-specialties",
+      "name": {
+        "sk": "Miến gà Nam Bộ (kuracie)",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-028",
+      "brochureNumber": 28,
+      "category": "vietnamese-specialties",
+      "name": {
+        "sk": "Miến đậu Nam Bộ (tofu)",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-029",
+      "brochureNumber": 29,
+      "category": "spring-rolls",
+      "name": {
+        "sk": "Bún nem",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-029-bun-nem.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-030",
+      "brochureNumber": 30,
+      "category": "spring-rolls",
+      "name": {
+        "sk": "Jarné závitky (vyprážané)",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "4 ks",
+      "price": {
+        "inStoreEur": 5.2,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-030-jarne-zavitky.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-031",
+      "brochureNumber": 31,
+      "category": "spring-rolls",
+      "name": {
+        "sk": "Čerstvé jarné rolky",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "3 ks",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-031-cerstve-jarne-rolky.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-032",
+      "brochureNumber": 32,
+      "category": "chicken",
+      "name": {
+        "sk": "Kuracie kung pao",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-032-kuracie-kung-pao.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-033",
+      "brochureNumber": 33,
+      "category": "chicken",
+      "name": {
+        "sk": "Kuracie so zeleninou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-033-kuracie-so-zeleninou.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "original-menu-photo-extract-enhanced"
+    },
+    {
+      "id": "menu-034",
+      "brochureNumber": 34,
+      "category": "chicken",
+      "name": {
+        "sk": "Kuracie s klíčkami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-034.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-035",
+      "brochureNumber": 35,
+      "category": "chicken",
+      "name": {
+        "sk": "Pikantné kuracie mäso",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-035.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-036",
+      "brochureNumber": 36,
+      "category": "chicken",
+      "name": {
+        "sk": "Kuracie s ananásom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-036-kuracie-s-ananasom.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-037",
+      "brochureNumber": 37,
+      "category": "chicken",
+      "name": {
+        "sk": "Kuracie na kari",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-037-kuracie-na-kari.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-038",
+      "brochureNumber": 38,
+      "category": "chicken",
+      "name": {
+        "sk": "Kuracie s arašidovou omáčkou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-038-kuracie-s-arasidovou-omackou.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-039",
+      "brochureNumber": 39,
+      "category": "chicken",
+      "name": {
+        "sk": "Kuracie s mangovou omáčkou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-039.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-040",
+      "brochureNumber": 40,
+      "category": "beef",
+      "name": {
+        "sk": "Hovädzie s fazuľou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-040.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-041",
+      "brochureNumber": 41,
+      "category": "beef",
+      "name": {
+        "sk": "Hovädzie so zeleninou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-041-hovadzie-so-zeleninou.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-042",
+      "brochureNumber": 42,
+      "category": "beef",
+      "name": {
+        "sk": "Hovädzie s klíčkami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-042.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-043",
+      "brochureNumber": 43,
+      "category": "beef",
+      "name": {
+        "sk": "Hovädzie pikantné",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-043.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-044",
+      "brochureNumber": 44,
+      "category": "beef",
+      "name": {
+        "sk": "Hovädzie s arašidovou omáčkou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-044.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-045",
+      "brochureNumber": 45,
+      "category": "beef",
+      "name": {
+        "sk": "Hovädzie s mangovou omáčkou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-046",
+      "brochureNumber": 46,
+      "category": "beef",
+      "name": {
+        "sk": "Hovädzie na kari",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-046-hovadzie-na-kari.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-047",
+      "brochureNumber": 47,
+      "category": "pork",
+      "name": {
+        "sk": "Bravčové so zeleninou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-047-bravcove-so-zeleninou.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-048",
+      "brochureNumber": 48,
+      "category": "pork",
+      "name": {
+        "sk": "Bravčové mäso pikantné",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-048-bravcove-maso-pikantne.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration-cropped-from-contact-sheet"
+    },
+    {
+      "id": "menu-049",
+      "brochureNumber": 49,
+      "category": "pork",
+      "name": {
+        "sk": "Bravčové na kari",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-049.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-050",
+      "brochureNumber": 50,
+      "category": "pork",
+      "name": {
+        "sk": "Bravčové s mangovou omáčkou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-051",
+      "brochureNumber": 51,
+      "category": "pork",
+      "name": {
+        "sk": "Bravčové s arašidovou omáčkou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-052",
+      "brochureNumber": 52,
+      "category": "fried",
+      "name": {
+        "sk": "Kurací rezeň",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "200 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-052-kuraci-rezen.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-053",
+      "brochureNumber": 53,
+      "category": "fried",
+      "name": {
+        "sk": "Bravčový rezeň",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "200 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-053.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-054",
+      "brochureNumber": 54,
+      "category": "fried",
+      "name": {
+        "sk": "Kuracie tempura",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "200 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-054.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-055",
+      "brochureNumber": 55,
+      "category": "fried",
+      "name": {
+        "sk": "Teriyaki kura",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5.5,
+        "woltEur": 7.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-055-teriyaki-kura.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-056",
+      "brochureNumber": 56,
+      "category": "fried",
+      "name": {
+        "sk": "Chrumkavá kačica",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": 7.2,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-056-chrumkava-kacica.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-057",
+      "brochureNumber": 57,
+      "category": "fried",
+      "name": {
+        "sk": "Chrumkavé kura",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 5.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-057.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-058",
+      "brochureNumber": 58,
+      "category": "fried",
+      "name": {
+        "sk": "Syr s hranolkami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "350 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-058-syr-s-hranolkami.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration-cropped-from-contact-sheet"
+    },
+    {
+      "id": "menu-059",
+      "brochureNumber": 59,
+      "category": "fried",
+      "name": {
+        "sk": "Kuracie medailónky",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-059.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-060",
+      "brochureNumber": 60,
+      "category": "tofu",
+      "name": {
+        "sk": "Tofu s arašidovou omáčkou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-060.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-061",
+      "brochureNumber": 61,
+      "category": "tofu",
+      "name": {
+        "sk": "Tofu s mangovou omáčkou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": 6.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-061-tofu-s-mangovou-omackou.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-062",
+      "brochureNumber": 62,
+      "category": "tofu",
+      "name": {
+        "sk": "Tofu na kari",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-062-tofu-na-kari.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-063",
+      "brochureNumber": 63,
+      "category": "tofu",
+      "name": {
+        "sk": "Tofu s fazuľou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-064",
+      "brochureNumber": 64,
+      "category": "tofu",
+      "name": {
+        "sk": "Tofu s klíčkami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-065",
+      "brochureNumber": 65,
+      "category": "tofu",
+      "name": {
+        "sk": "Tofu so zeleninou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 4.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-066",
+      "brochureNumber": 66,
+      "category": "seafood",
+      "name": {
+        "sk": "Krevety s klíčkami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-066.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-067",
+      "brochureNumber": 67,
+      "category": "seafood",
+      "name": {
+        "sk": "Krevety s fazuľou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-068",
+      "brochureNumber": 68,
+      "category": "seafood",
+      "name": {
+        "sk": "Krevety so zeleninou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-069",
+      "brochureNumber": 69,
+      "category": "seafood",
+      "name": {
+        "sk": "Obaľované krevety",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-069-obalovane-krevety.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-070",
+      "brochureNumber": 70,
+      "category": "seafood",
+      "name": {
+        "sk": "Krevety na kari",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-070-krevety-na-kari.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "original-menu-photo-extract-enhanced"
+    },
+    {
+      "id": "menu-071",
+      "brochureNumber": 71,
+      "category": "seafood",
+      "name": {
+        "sk": "Krevety s mangovou omáčkou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-071.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-072",
+      "brochureNumber": 72,
+      "category": "seafood",
+      "name": {
+        "sk": "Krevety s arašidovou omáčkou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "250 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-073",
+      "brochureNumber": 73,
+      "category": "seafood",
+      "name": {
+        "sk": "Losos",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-074",
+      "brochureNumber": 74,
+      "category": "seafood",
+      "name": {
+        "sk": "Tuniak",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 7.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-075",
+      "brochureNumber": 75,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané ryžové rezance s hovädzím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-075.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-076",
+      "brochureNumber": 76,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané ryžové rezance s kačacím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-077",
+      "brochureNumber": 77,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané ryžové rezance s krevetami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-078",
+      "brochureNumber": 78,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané ryžové rezance s kuracím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": 8.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-079",
+      "brochureNumber": 79,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané ryžové rezance s tofu",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-080",
+      "brochureNumber": 80,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané rezance s hovädzím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-080.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-081",
+      "brochureNumber": 81,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané rezance s kačacím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-082",
+      "brochureNumber": 82,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané rezance s krevetami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-083",
+      "brochureNumber": 83,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané rezance s kuracím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-083-opekane-rezance-s-kuracim-masom.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-084",
+      "brochureNumber": 84,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané rezance s tofu",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": 8.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-085",
+      "brochureNumber": 85,
+      "category": "rice",
+      "name": {
+        "sk": "Rizoto s jazmínovou ryžou a hovädzím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-085.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-086",
+      "brochureNumber": 86,
+      "category": "rice",
+      "name": {
+        "sk": "Rizoto s jazmínovou ryžou a kačacím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-086-rizoto-s-kacacim-masom.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration-cropped-from-contact-sheet"
+    },
+    {
+      "id": "menu-087",
+      "brochureNumber": 87,
+      "category": "rice",
+      "name": {
+        "sk": "Rizoto s jazmínovou ryžou a krevetami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-087-rizoto-s-krevetami.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-088",
+      "brochureNumber": 88,
+      "category": "rice",
+      "name": {
+        "sk": "Rizoto s jazmínovou ryžou a kuracím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-089",
+      "brochureNumber": 89,
+      "category": "rice",
+      "name": {
+        "sk": "Rizoto s jazmínovou ryžou a tofu",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-090",
+      "brochureNumber": 90,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané sklenené rezance s hovädzím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-090.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-091",
+      "brochureNumber": 91,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané sklenené rezance s kačacím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-092",
+      "brochureNumber": 92,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané sklenené rezance s krevetami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-092-opekane-sklenene-rezance-s-krevetami.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration-cropped-from-contact-sheet"
+    },
+    {
+      "id": "menu-093",
+      "brochureNumber": 93,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané sklenené rezance s kuracím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-094",
+      "brochureNumber": 94,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané sklenené rezance s tofu",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": 8.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-095",
+      "brochureNumber": 95,
+      "category": "noodles",
+      "name": {
+        "sk": "Udon rezance so zeleninou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/menu-095-udon-rezance-so-zeleninou.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-096",
+      "brochureNumber": 96,
+      "category": "noodles",
+      "name": {
+        "sk": "Vaječné rezance so zeleninou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-097",
+      "brochureNumber": 97,
+      "category": "noodles",
+      "name": {
+        "sk": "Ryžové rezance so zeleninou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-098",
+      "brochureNumber": 98,
+      "category": "noodles",
+      "name": {
+        "sk": "Sklenené rezance so zeleninou",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-099",
+      "brochureNumber": 99,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané udon rezance s hovädzím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 8.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-099-udon-s-hovadzim-masom.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "menu-100",
+      "brochureNumber": 100,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané udon rezance s kačacím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-101",
+      "brochureNumber": 101,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané udon rezance s krevetami",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-102",
+      "brochureNumber": 102,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané udon rezance s kuracím mäsom",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-103",
+      "brochureNumber": 103,
+      "category": "noodles",
+      "name": {
+        "sk": "Opekané udon rezance s tofu",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "450 g",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-104",
+      "brochureNumber": 104,
+      "category": "sides",
+      "name": {
+        "sk": "Ryža",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 1.6,
+        "woltEur": 2.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-104.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-105",
+      "brochureNumber": 105,
+      "category": "sides",
+      "name": {
+        "sk": "Hranolky",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 1.6,
+        "woltEur": 2.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-105.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-106",
+      "brochureNumber": 106,
+      "category": "sides",
+      "name": {
+        "sk": "Zemiaky",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 1.6,
+        "woltEur": 2.0,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-106.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-107",
+      "brochureNumber": 107,
+      "category": "sides",
+      "name": {
+        "sk": "Opekané rezance",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 2.3,
+        "woltEur": 2.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-107.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-108",
+      "brochureNumber": 108,
+      "category": "sides",
+      "name": {
+        "sk": "Rizoto",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 2.8,
+        "woltEur": 3.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-108.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "menu-109",
+      "brochureNumber": 109,
+      "category": "sides",
+      "name": {
+        "sk": "Opekané ryžové rezance",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "150 g",
+      "price": {
+        "inStoreEur": 2.8,
+        "woltEur": 3.5,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png or reference/10-inhouse-menu-aug2026-part-b.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/menu-109.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-sake-uramaki-5",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Sake uramaki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "5 ks",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-sake-uramaki-10",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Sake uramaki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "10 ks",
+      "price": {
+        "inStoreEur": 9.9,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-tobiko-uramaki-5",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Tobiko uramaki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "5 ks",
+      "price": {
+        "inStoreEur": 5.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/sushi-tobiko-uramaki-5.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-tobiko-uramaki-10",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Tobiko uramaki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "10 ks",
+      "price": {
+        "inStoreEur": 10.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-sake-futomaki-5",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Sake futomaki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "5 ks",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-sake-futomaki-10",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Sake futomaki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "10 ks",
+      "price": {
+        "inStoreEur": 9.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-ebi-tempura-5",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Ebi tempura",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "5 ks",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/sushi-ebi-tempura-5.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-ebi-tempura-10",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Ebi tempura",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "10 ks",
+      "price": {
+        "inStoreEur": 9.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-tamago-tempura-5",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Tamago tempura",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "5 ks",
+      "price": {
+        "inStoreEur": 5.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/sushi-tamago-tempura-5.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-tamago-tempura-10",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Tamago tempura",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "10 ks",
+      "price": {
+        "inStoreEur": 9.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-sake-nigiri-3",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Sake nigiri",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "3 ks",
+      "price": {
+        "inStoreEur": 4.9,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/sushi-sake-nigiri-3.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-sake-nigiri-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Sake nigiri",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 9.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-ebi-nigiri-3",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Ebi nigiri",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "3 ks",
+      "price": {
+        "inStoreEur": 3.9,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/sushi-ebi-nigiri-3.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-ebi-nigiri-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Ebi nigiri",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 7.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-sake-maki-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Sake maki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 4.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-sake-maki-12",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Sake maki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "12 ks",
+      "price": {
+        "inStoreEur": 7.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-avok-do-maki-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Avokádo maki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 3.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/sushi-avok-do-maki-6-avokado-maki-6ks.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration-cropped-from-contact-sheet"
+    },
+    {
+      "id": "sushi-avok-do-maki-12",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Avokádo maki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "12 ks",
+      "price": {
+        "inStoreEur": 7.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-kappa-maki-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Kappa maki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 3.2,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-kappa-maki-12",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Kappa maki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "12 ks",
+      "price": {
+        "inStoreEur": 6.0,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-kani-maki-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Kani maki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 3.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-kani-maki-12",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Kani maki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "12 ks",
+      "price": {
+        "inStoreEur": 7.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-ebi-maki-6",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Ebi maki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "6 ks",
+      "price": {
+        "inStoreEur": 3.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-ebi-maki-12",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "Ebi maki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "12 ks",
+      "price": {
+        "inStoreEur": 7.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-california-futomaki-5",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "California futomaki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "5 ks",
+      "price": {
+        "inStoreEur": 5.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/sushi-california-futomaki-5-california-futomaki.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "sushi-california-futomaki-10",
+      "brochureNumber": null,
+      "category": "sushi",
+      "name": {
+        "sk": "California futomaki",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "10 ks",
+      "price": {
+        "inStoreEur": 10.8,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": null,
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-set-1",
+      "brochureNumber": null,
+      "category": "sushi-sets",
+      "name": {
+        "sk": "Set 1",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": null,
+      "price": {
+        "inStoreEur": 11.9,
+        "woltEur": 12.9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/sushi-set-1.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "sushi-set-2",
+      "brochureNumber": null,
+      "category": "sushi-sets",
+      "name": {
+        "sk": "Set 2",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": null,
+      "price": {
+        "inStoreEur": 11.9,
+        "woltEur": 12.9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/sushi-set-2.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    },
+    {
+      "id": "sushi-set-3",
+      "brochureNumber": null,
+      "category": "sushi-sets",
+      "name": {
+        "sk": "Set 3",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": null,
+      "price": {
+        "inStoreEur": 10.9,
+        "woltEur": 12.9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/sushi-set-3-sushi-set-3.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration-cropped-from-contact-sheet"
+    },
+    {
+      "id": "sushi-set-4",
+      "brochureNumber": null,
+      "category": "sushi-sets",
+      "name": {
+        "sk": "Set 4",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": null,
+      "price": {
+        "inStoreEur": 9.9,
+        "woltEur": 10.9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/sushi-set-4.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-set-5",
+      "brochureNumber": null,
+      "category": "sushi-sets",
+      "name": {
+        "sk": "Set 5",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": null,
+      "price": {
+        "inStoreEur": 9.9,
+        "woltEur": 10.9,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/sushi-set-5.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "sushi-set-6",
+      "brochureNumber": null,
+      "category": "sushi-sets",
+      "name": {
+        "sk": "Set 6",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": null,
+      "price": {
+        "inStoreEur": 6.5,
+        "woltEur": 7.8,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": "https://wolt.com/sk/svk/bratislava/restaurant/trang-an-vietnamska-restauracia"
+      },
+      "image": "/menu/sushi-set-6.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "poke-tofu",
+      "brochureNumber": null,
+      "category": "poke-bowls",
+      "name": {
+        "sk": "Tofu poke bowl",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "300 g",
+      "price": {
+        "inStoreEur": 9.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/poke-tofu.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "poke-chicken",
+      "brochureNumber": null,
+      "category": "poke-bowls",
+      "name": {
+        "sk": "Kuracie tempura poke bowl",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "300 g",
+      "price": {
+        "inStoreEur": 9.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/poke-chicken.webp",
+      "allergens": null,
+      "tags": []
+    },
+    {
+      "id": "poke-salmon",
+      "brochureNumber": null,
+      "category": "poke-bowls",
+      "name": {
+        "sk": "Losos poke bowl",
+        "en": null
+      },
+      "description": {
+        "sk": null,
+        "en": null
+      },
+      "portionLabel": "300 g",
+      "price": {
+        "inStoreEur": 9.5,
+        "woltEur": null,
+        "boltEur": null,
+        "bistroEur": null
+      },
+      "verification": {
+        "inStoreSource": "reference/09-inhouse-menu-aug2026-part-a.png",
+        "inStoreVerifiedByOwner": false,
+        "deliveryVerifiedByOwner": false,
+        "deliveryPriceSource": null
+      },
+      "image": "/menu/poke-salmon-poke-losos.webp",
+      "allergens": null,
+      "tags": [],
+      "imageSource": "ai-generated-illustration"
+    }
+  ],
+  "_images_notice": "Brochure-photo crops supplied by user for private demonstration. Low-resolution illustrative images. Confirm photo-to-dish mapping and obtain owner permission before public commercial use."
+}

@@ -48,7 +48,32 @@ Keep the repo **private** while the project is a demo (the `reference/` folder m
 5. Submit `https://trang-an.sk/sitemap.xml` in Google Search Console and add the URL to the Google Business Profile
    (done by the owner, who controls the profile).
 
-## Alternatives
+## Cloudflare Workers (OpenNext)
 
-Any Node.js host that runs `next start` works (`npm ci && npm run build && npm start`, port via `-p`). Cloudflare
-Workers/OpenNext is not needed for this project.
+The repo contains the Cloudflare configuration: `wrangler.jsonc` (Worker **`trang-an-restaurant`**, bindings `ASSETS`,
+`IMAGES`, `WORKER_SELF_REFERENCE`) and `open-next.config.ts` (prerendered pages served from static assets).
+
+**Workers Builds** (Cloudflare dashboard → Worker `trang-an-restaurant` → Settings → Build):
+
+| Setting                   | Value                                                                                                   |
+| ------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Build command             | `npx opennextjs-cloudflare build`                                                                       |
+| Deploy command            | `npx opennextjs-cloudflare deploy`                                                                      |
+| Build variables           | `NEXT_PUBLIC_SITE_URL=https://<worker-or-domain>`, `NEXT_PUBLIC_SITE_MODE=demo` (inlined at build time) |
+| Runtime secret (optional) | `GOOGLE_PLACES_API_KEY`                                                                                 |
+
+From a machine (Linux/macOS/WSL — OpenNext does not officially support native Windows): `npm run deploy`
+(= build + deploy, needs `npx wrangler login`). Local check of the built Worker: `npm run preview`.
+
+Rules:
+
+- The Worker **name in `wrangler.jsonc` must equal the Worker name in Cloudflare**, and `WORKER_SELF_REFERENCE.service`
+  must equal that same name. Without a committed `wrangler.jsonc`, OpenNext generates one from the `package.json`
+  name — that mismatch (`trang-an` vs `trang-an-restaurant`) caused deploy error **10143**.
+- Do not pass `--name` to the deploy command; rename in `wrangler.jsonc` (both places) instead.
+- Cloudflare-specific code constraints: no filesystem at runtime (the OG-image fonts are embedded in
+  `src/lib/og-fonts.generated.ts`); Next 16 `proxy.ts` runs as OpenNext’s _experimental_ Node.js middleware.
+
+## Other Node.js hosts
+
+Any Node.js host that runs `next start` works (`npm ci && npm run build && npm start`, port via `-p`).

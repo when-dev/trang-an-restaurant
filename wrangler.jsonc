@@ -1,0 +1,31 @@
+// Cloudflare Workers configuration for the OpenNext build.
+// Committed on purpose: without this file OpenNext generates one and takes the Worker name from
+// package.json, which did not match the Worker created in Cloudflare ("trang-an-restaurant") and broke
+// the WORKER_SELF_REFERENCE service binding (error 10143).
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // Must equal the Worker name in the Cloudflare dashboard (Workers Builds deploys to that Worker).
+  "name": "trang-an-restaurant",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-11-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS",
+  },
+  "services": [
+    {
+      // Self-reference used by OpenNext (cache revalidation queue) — must match "name" above.
+      // See https://opennext.js.org/cloudflare/caching
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "trang-an-restaurant",
+    },
+  ],
+  "images": {
+    // Next.js image optimisation via Cloudflare Images (https://opennext.js.org/cloudflare/howtos/image)
+    "binding": "IMAGES",
+  },
+  "observability": {
+    "enabled": true,
+  },
+}

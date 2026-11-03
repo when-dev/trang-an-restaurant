@@ -12,6 +12,12 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Cloudflare / OpenNext build output and generated files
+    ".open-next/**",
+    ".wrangler/**",
+    ".cache/**",
+    "cloudflare-env.d.ts",
+    "src/lib/og-fonts.generated.ts",
   ]),
 ]);
 

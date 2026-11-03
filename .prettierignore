@@ -6,3 +6,7 @@ next-env.d.ts
 test-results
 playwright-report
 reference
+src/lib/og-fonts.generated.ts
+.open-next
+.wrangler
+.cache

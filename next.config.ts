@@ -17,10 +17,6 @@ const nextConfig: NextConfig = {
     qualities: [75],
     localPatterns: [{ pathname: "/menu/**", search: "" }],
   },
-  // OG image fonts are read from disk at request time — make sure they ship with the function.
-  outputFileTracingIncludes: {
-    "/**/opengraph-image*": ["./assets/fonts/*.woff"],
-  },
   async headers() {
     return [{ source: "/:path*", headers: securityHeaders }];
   },

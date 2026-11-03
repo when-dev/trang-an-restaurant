@@ -1,17 +1,18 @@
-import { readFile } from "node:fs/promises";
-import path from "node:path";
+import { frauncesLatin, frauncesLatinExt, manropeLatin, manropeLatinExt } from "./og-fonts.generated";
 
-const FONT_DIR = path.join(process.cwd(), "assets/fonts");
+const decode = (b64: string): ArrayBuffer => {
+  const bin = atob(b64);
+  const bytes = new Uint8Array(bin.length);
+  for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+  return bytes.buffer;
+};
 
-/** OFL fonts (Fraunces, Manrope) for next/og — latin + latin-ext so Slovak diacritics render. */
+/**
+ * OFL fonts (Fraunces, Manrope) for next/og — latin + latin-ext so Slovak diacritics render.
+ * Embedded (scripts/embed-og-fonts.mjs) instead of read from disk: Cloudflare Workers have no filesystem.
+ */
 export async function ogFonts() {
-  const load = (f: string) => readFile(path.join(FONT_DIR, f));
-  const [fl, fle, ml, mle] = await Promise.all([
-    load("fraunces-latin-600-normal.woff"),
-    load("fraunces-latin-ext-600-normal.woff"),
-    load("manrope-latin-600-normal.woff"),
-    load("manrope-latin-ext-600-normal.woff"),
-  ]);
+  const [fl, fle, ml, mle] = [frauncesLatin, frauncesLatinExt, manropeLatin, manropeLatinExt].map(decode);
   return [
     { name: "Fraunces", data: fl, weight: 600 as const, style: "normal" as const },
     { name: "Fraunces", data: fle, weight: 600 as const, style: "normal" as const },

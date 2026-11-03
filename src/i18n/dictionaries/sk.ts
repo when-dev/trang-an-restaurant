@@ -34,9 +34,6 @@ const sk = {
     home: "Trang An — domov",
     breadcrumb: "Navigačná cesta",
   },
-  demo: {
-    notice: "Neoficiálny návrh webu — nie je prevádzkovaný reštauráciou Trang An.",
-  },
   nav: {
     home: "Domov",
     menu: "Menu",
@@ -115,10 +112,8 @@ const sk = {
     title: "Menu Trang An",
     intro:
       "Kompletný jedálny lístok s cenami v prevádzke. Ceny pri doručení nájdete pri každom jedle pod „Ceny pri doručení“.",
-    priceNotice:
-      "Ceny v prevádzke vychádzajú z fotografovaného jedálneho lístka a môžu sa zmeniť. Ceny, dostupnosť a poplatky za doručenie sa riadia podmienkami jednotlivých platforiem.",
-    allergenNotice: "Informácie o alergénoch vám poskytne personál.",
-    imagesNotice: "Fotografie jedál pochádzajú z ponuky reštaurácie na Wolt; podávané jedlo sa môže mierne líšiť.",
+    footnote:
+      "Informácie o alergénoch vám poskytne personál. Ceny sa môžu zmeniť; ceny pri doručení určujú platformy. Fotografie jedál: ponuka reštaurácie na Wolt.",
     imageAi: "Ilustračný obrázok",
     imageBrochure: "Z jedálneho lístka",
     searchLabel: "Hľadať v menu",
@@ -152,7 +147,6 @@ const sk = {
     ingredientsSource: "Zloženie podľa ponuky reštaurácie na Wolt.",
     jumpTo: "Prejsť na kategóriu",
     backToTop: "Hore",
-    source: "Zdroj cien: jedálny lístok v prevádzke ({menuDate}); Wolt k {woltDate}.",
   },
   categories: {
     "soups-small": "Malé polievky",

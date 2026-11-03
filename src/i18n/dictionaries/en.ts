@@ -36,9 +36,6 @@ const en: Dictionary = {
     home: "Trang An — home",
     breadcrumb: "Breadcrumb",
   },
-  demo: {
-    notice: "Unofficial website proposal — not operated by Trang An restaurant.",
-  },
   nav: {
     home: "Home",
     menu: "Menu",
@@ -116,10 +113,8 @@ const en: Dictionary = {
     eyebrow: "The menu",
     title: "Trang An menu",
     intro: "The full menu with in-store prices. Delivery prices are listed under “Delivery prices” for each dish.",
-    priceNotice:
-      "In-store prices are based on a photo of the paper menu and may change. Prices, availability and delivery fees on delivery platforms are subject to each platform’s terms.",
-    allergenNotice: "Please ask our staff for allergen information.",
-    imagesNotice: "Dish photos come from the restaurant’s Wolt listing; the dish served may look slightly different.",
+    footnote:
+      "Please ask our staff for allergen information. Prices may change; delivery prices are set by the platforms. Dish photos: the restaurant’s Wolt listing.",
     imageAi: "Illustrative image",
     imageBrochure: "From the menu",
     searchLabel: "Search the menu",
@@ -153,7 +148,6 @@ const en: Dictionary = {
     ingredientsSource: "Ingredients as listed by the restaurant on Wolt.",
     jumpTo: "Jump to category",
     backToTop: "Top",
-    source: "Price sources: in-store paper menu ({menuDate}); Wolt as of {woltDate}.",
   },
   categories: {
     "soups-small": "Small soups",

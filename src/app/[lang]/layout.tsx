@@ -5,7 +5,6 @@ import { siteConfig } from "@/config/site.config";
 import { getDictionary } from "@/i18n";
 import { I18nProvider } from "@/i18n/client";
 import { isLocale, localeTags, locales } from "@/i18n/config";
-import { UnofficialNotice } from "@/components/layout/UnofficialNotice";
 import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
 import { MobileActionBar } from "@/components/layout/MobileActionBar";
@@ -63,7 +62,6 @@ export default async function LocaleLayout({ children, params }: LayoutProps<"/[
           {dict.a11y.skipToContent}
         </a>
         <I18nProvider locale={lang} dict={dict}>
-          <UnofficialNotice dict={dict} />
           <Header />
           <main id="main" tabIndex={-1} className="flex-1 focus:outline-none">
             {children}
